@@ -1,4 +1,4 @@
-ID,NAME,ISO,GLOTTOCODE
+ID,Name,ISO639P3code,Glottocode
 PIR,Piratapuyo,pir,pira1254
 BAR,Bar,bao,waim1255
 BAS,Barasano,bsn,bara1380
@@ -20,4 +20,4 @@ MAI,Maihiki,ore,orej1242
 KAR,Karapan,cbc,cara1272
 KUE,Kueretu,,cure1236
 YUP,Yupua,,jupu1235
-*PT,Proto-Tucanoan,,tuca1253
+ProtoT,Proto-Tucanoan,,tuca1253
