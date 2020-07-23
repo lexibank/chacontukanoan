@@ -61,22 +61,22 @@ class Dataset(pylexibank.Dataset):
         ortho_profile = self.orthography_profile_dict[None]
         tokenizer = Tokenizer(profile=ortho_profile)
 
-        def _tokenized_alignment(alignment, debug=False):
-            """Generator of re-tokenized aligned segments.
+        def _tokenized_alignment(alignment):
+            """ Generator of re-tokenized aligned segments.
 
             Alignment characters need to be re-tokenized due to changes
             in the orthography profile
+
+            Args:
+                alignment: list of strings
+
+            Generates: tokenized segments
             """
             preserve_chars = {"(", ")", "-"}
-            for seg in alignment.split(' '):
+            for seg in alignment:
                 if seg in preserve_chars:
-                    if debug:
-                        print("seg preserved:", preserve_chars)
                     yield seg
                 else:
-                    if debug:
-                        t = tokenizer(seg, column='IPA')
-                        print("seg tokenized:", t, type(t))
                     for seg in tokenizer(seg, column='IPA').split(" "):
                         yield seg
 
@@ -115,28 +115,31 @@ class Dataset(pylexibank.Dataset):
 
             language_id = language_lookup[row['DOCULECT']]
             c_id = concept_lookup[row['CONCEPT']]
-            tokens = ".".join(row['TOKENS'].split())
+
+            # The alignments were corrected by hand,
+            # when they differ from the segments,
+            # the correct notation is in the alignments
+            tokens = row['TOKENS'].split()
+            alignment = row["ALIGNMENT"].split(" ")
+            stripped_alignments = [s for s in alignment if s not in {"(", "-", ")"}]
+            if tokens != stripped_alignments:
+                tokens = stripped_alignments
+
             lex = args.writer.add_form(
                 Language_ID=language_id,
                 Parameter_ID=c_id,
                 Value=row['IPA'],
                 # This is a workaround to re-tokenize tokens
-                Form=tokens,
+                Form=".".join(tokens),
                 Source=['Chacon2014'],
             )
-            corrections = {"Barasano-16-buritipalm-1": "r̃ e - e"}
-                           # not r ẽ - e
-            if lex["ID"] in corrections:
-                row["ALIGNMENT"] = corrections[lex["ID"]]
-
 
             # add cognates -- make sure Cognateset_ID is global!
-            alignment = list(_tokenized_alignment(row["ALIGNMENT"]))
             args.writer.add_cognate(
                 lexeme=lex,
                 Cognateset_ID='{0}-{1}'.format(c_id, row['COGID']),
                 Source=['Chacon2014'],
-                Alignment=alignment,
+                Alignment=list(_tokenized_alignment(alignment)),
                 Alignment_Method="expert",
                 Alignment_Source="Chacon2014",
             )
