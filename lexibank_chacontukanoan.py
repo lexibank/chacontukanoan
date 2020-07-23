@@ -107,4 +107,7 @@ class Dataset(pylexibank.Dataset):
                 lexeme=lex,
                 Cognateset_ID='{0}-{1}'.format(c_id, row['COGID']),
                 Source=['Chacon2014'],
+                Alignment=row['ALIGNMENT'].split(),
+                Alignment_Method="expert",
+                Alignment_Source="Chacon2014",
             )
