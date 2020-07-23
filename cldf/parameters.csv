@@ -8,7 +8,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 7-bat,bat,1793,BAT
 8-big,big,1202,BIG
 9-black,black,163,BLACK
-10-blackink,black_ink,,
+10-blackink,black_ink,2643,INK
 11-blood,blood,946,BLOOD
 12-blow,blow,175,BLOW (OF WIND)
 13-bone,bone,1394,BONE
@@ -23,7 +23,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 22-charcoal2,charcoal (2),1188,CHARCOAL
 23-cheek,cheek,1730,CHEEK
 24-chew,chew,321,CHEW
-25-chili,chili,,
+25-chili,chili,919,CHILI PEPPER
 26-cold,cold,2483,COLD (OF WEATHER)
 27-cut,cut,1432,CUT
 28-dance,dance,1879,DANCE
@@ -39,11 +39,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 38-excrement,excrement,675,FAECES (EXCREMENT)
 39-face,face,1560,FACE
 40-father,father,1217,FATHER
-41-feminine,feminine,,
+41-feminine,feminine,,FEMALE
 42-fire,fire,221,FIRE
 43-fish,fish,227,FISH
-44-fishwithanet,fish with a net,1340,WITH
-45-fishingnet,fishing net,841,FISHING SPEAR
+44-fishwithanet,fish with a net,2639,FISHING (WITH A NET)
+45-fishingnet,fishing net,388,FISHNET
 46-float,float,1574,FLOAT
 47-flower,flower,239,FLOWER
 48-foot,foot,1301,FOOT
@@ -54,7 +54,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 53-grape,grape,920,GRAPE
 54-grass,grass,606,GRASS
 55-green,green,1425,GREEN
-56-handpalm,handpalm,,
+56-handpalm,handpalm,1183,PALM OF HAND
 57-head,head,1256,HEAD
 58-heavy,heavy,1210,HEAVY
 59-heron,heron,758,HERON
@@ -69,24 +69,24 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 68-jenipapo,jenipapo,,
 69-kapok,kapok,2499,KAPOK TREE
 70-kingfisher,king-fisher,2444,KINGFISHER
-71-know,know,1410,KNOW (SOMETHING)
+71-know,know,3626,KNOW
 72-lake,lake,624,LAKE
 73-land,land,626,LAND
-74-larva,larva,,
+74-larva,larva,2640,LARVA
 75-leg,leg,1297,LEG
 76-locative,locative,,
 77-macaw,macaw,1630,MACAW
 78-man,man,1554,MAN
-79-manioc,manioc,927,MANIOC
+79-manioc,manioc,925,CASSAVA
 80-monkey,monkey,1350,MONKEY
 81-monkeysp,monkey sp.,434,SPIDER MONKEY
 82-mosquito,mosquito,1509,MOSQUITO
 83-mouth1,mouth1,674,MOUTH
 84-mouth2,mouth2,674,MOUTH
-85-mythicalbeing,mythical being,,
+85-mythicalbeing,mythical being,2138,LEGENDARY CREATURE
 86-name,name,1405,NAME
 87-navel,navel,1838,NAVEL
-88-non3rdanimateperson,non.3rd.animate.person,262,HE OR SHE OR IT
+88-non3rdanimateperson,non.3rd.animate.person,2642,HE OR SHE
 89-nose,nose,1221,NOSE
 90-paca,paca,316,PACA
 91-pacufish,pacu fish,227,FISH
@@ -109,7 +109,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 108-spider,spider,843,SPIDER
 109-squeeze,squeeze,1414,SQUEEZE
 110-stone,stone,857,STONE
-111-stop,stop,1928,CEASE
+111-stop,stop,3351,STOP DOING
 112-stump,stump,241,TREE STUMP
 113-swell,swell,1573,SWELL
 114-tapir,tapir,312,TAPIR
@@ -140,4 +140,4 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 139-woman,woman,962,WOMAN
 140-woodpecker,woodpecker,2447,WOODPECKER
 141-yam,yam,410,YAM
-142-youall,you all,98,ALL
+142-youall,you all,1213,YOU

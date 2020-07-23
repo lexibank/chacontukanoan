@@ -1,4 +1,4 @@
-# CLDF dataset derived from Chacon's "A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification" from 2014.
+# CLDF dataset derived from Chacon's "A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification" from 2014
 
 Cite the source dataset as
 
@@ -8,6 +8,9 @@ This dataset is licensed under a GPL-3.0 license
 
 Available online at http://edictor.digling.org/?file=tukano
 
+
+Conceptlists in Concepticon:
+- [Chacon-2014-142](https://concepticon.clld.org/contributions/Chacon-2014-142)
 ## Notes
 
 
@@ -19,10 +22,10 @@ This dataset is based on https://github.com/glottobank/lexibank-data/tree/master
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 88%](https://img.shields.io/badge/Concepticon-88%25-yellowgreen.svg "Concepticon: 88%")
+![Concepticon: 91%](https://img.shields.io/badge/Concepticon-91%25-green.svg "Concepticon: 91%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 81%](https://img.shields.io/badge/BIPA-81%25-yellowgreen.svg "BIPA: 81%")
-![CLTS SoundClass: 81%](https://img.shields.io/badge/CLTS%20SoundClass-81%25-yellowgreen.svg "CLTS SoundClass: 81%")
+![BIPA: 91%](https://img.shields.io/badge/BIPA-91%25-green.svg "BIPA: 91%")
+![CLTS SoundClass: 91%](https://img.shields.io/badge/CLTS%20SoundClass-91%25-green.svg "CLTS SoundClass: 91%")
 
 - **Varieties:** 16
 - **Concepts:** 142
@@ -32,9 +35,9 @@ This dataset is based on https://github.com/glottobank/lexibank-data/tree/master
 - **Cognacy:** 1,542 cognates in 149 cognate sets (8 singletons)
 - **Cognate Diversity:** 0.01
 - **Invalid lexemes:** 0
-- **Tokens:** 5,709
-- **Segments:** 78 (15 BIPA errors, 15 CTLS sound class errors, 63 CLTS modified)
-- **Inventory size (avg):** 30.62
+- **Tokens:** 6,253
+- **Segments:** 66 (6 BIPA errors, 6 CTLS sound class errors, 60 CLTS modified)
+- **Inventory size (avg):** 27.38
 
 # Contributors
 

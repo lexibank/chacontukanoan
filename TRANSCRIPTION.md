@@ -5,86 +5,74 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 503 | ✓ | ✓ |
-| i | 400 | ✓ | ✓ |
-| o | 397 | ✓ | ✓ |
-| e | 371 | ✓ | ✓ |
-| ɨ | 300 | ✓ | ✓ |
-| k | 291 | ✓ | ✓ |
-| m | 290 | ✓ | ✓ |
-| ã | 282 | ✓ | ✓ |
-| t | 226 | ✓ | ✓ |
-| h | 216 | ✓ | ✓ |
-| j | 200 | ✓ | ✓ |
-| s | 190 | ✓ | ✓ |
-| u | 182 | ✓ | ✓ |
-| ĩ | 158 | ✓ | ✓ |
-| p | 157 | ✓ | ✓ |
-| n | 151 | ✓ | ✓ |
-| ẽ | 133 | ✓ | ✓ |
-| õ | 130 | ✓ | ✓ |
-| ɨ̃ | 129 | ✓ | ✓ |
-| b | 107 | ✓ | ✓ |
-| w | 106 | ✓ | ✓ |
-| ũ | 91 | ✓ | ✓ |
-| d | 90 | ✓ | ✓ |
-| ʔ | 71 | ✓ | ✓ |
-| ɲ | 63 | ✓ | ✓ |
-| r | 60 | ✓ | ✓ |
-| g | 31 | ✓ | ✓ |
-| pʔ | 30 | ✓ | ✓ |
-| kʔ | 24 | ✓ | ✓ |
-| t∫ | 23 | ? | ? |
-| kh | 22 | ✓ | ✓ |
-| c | 20 | ✓ | ✓ |
-| sʔ | 17 | ? | ? |
-| r̃ | 16 | ✓ | ✓ |
-| ŋ | 16 | ✓ | ✓ |
-| th | 15 | ✓ | ✓ |
-| tʔ | 14 | ✓ | ✓ |
-| w̃ | 14 | ✓ | ✓ |
-| ʔs | 14 | ✓ | ✓ |
-| ɸ | 13 | ✓ | ✓ |
-| ʔt | 13 | ✓ | ✓ |
-| + | 11 | ✓ | ✓ |
-| ʔk | 11 | ✓ | ✓ |
-| jʔ | 9 | ? | ? |
+| a | 727 | ✓ | ✓ |
+| i | 528 | ✓ | ✓ |
+| o | 499 | ✓ | ✓ |
+| e | 489 | ✓ | ✓ |
+| ɨ | 407 | ✓ | ✓ |
+| <<~>> | 377 | ? | ? |
+| b | 280 | ✓ | ✓ |
+| j | 265 | ✓ | ✓ |
+| k | 259 | ✓ | ✓ |
+| u | 251 | ✓ | ✓ |
+| t | 224 | ✓ | ✓ |
+| h | 218 | ✓ | ✓ |
+| d | 195 | ✓ | ✓ |
+| s | 194 | ✓ | ✓ |
+| p | 174 | ✓ | ✓ |
+| <<*>> | 141 | ? | ? |
+| m | 118 | ✓ | ✓ |
+| w | 116 | ✓ | ✓ |
+| ʔ | 81 | ✓ | ✓ |
+| ɾ | 78 | ✓ | ✓ |
+| ã | 62 | ✓ | ✓ |
+| g | 50 | ✓ | ✓ |
+| n | 47 | ✓ | ✓ |
+| + | 34 | ✓ | ✓ |
+| pˀ | 32 | ✓ | ✓ |
+| õ | 29 | ✓ | ✓ |
+| kˀ | 26 | ✓ | ✓ |
+| c | 23 | ✓ | ✓ |
+| kʰ | 22 | ✓ | ✓ |
+| tʃ | 22 | ✓ | ✓ |
+| ũ | 22 | ✓ | ✓ |
+| ɨ̃ | 22 | ✓ | ✓ |
+| kʲ | 17 | ✓ | ✓ |
+| sˀ | 17 | ✓ | ✓ |
+| ĩ | 16 | ✓ | ✓ |
+| tʰ | 15 | ✓ | ✓ |
+| ˀs | 15 | ✓ | ✓ |
+| tˀ | 14 | ✓ | ✓ |
+| ˀt | 14 | ✓ | ✓ |
+| ẽ | 14 | ✓ | ✓ |
+| jˀ | 12 | ✓ | ✓ |
+| ˀk | 11 | ✓ | ✓ |
+| <<̃>> | 9 | ? | ? |
 | ts | 9 | ✓ | ✓ |
-| ʔp | 7 | ✓ | ✓ |
+| ˀb | 9 | ✓ | ✓ |
+| kː | 8 | ✓ | ✓ |
 | _ | 6 | ✓ | ✓ |
-| tj | 6 | ? | ? |
-| ʔb | 6 | ✓ | ✓ |
-| ʔm | 6 | ? | ? |
-| ʔn | 6 | ? | ? |
-| ph | 5 | ✓ | ✓ |
+| tː | 6 | ✓ | ✓ |
+| ˀd | 6 | ✓ | ✓ |
+| pʰ | 5 | ✓ | ✓ |
 | β | 5 | ✓ | ✓ |
+| <<y>> | 4 | ? | ? |
+| kʷ | 4 | ✓ | ✓ |
 | l | 4 | ✓ | ✓ |
-| á | 4 | ✓ | ✓ |
-| ʔj | 4 | ? | ? |
-| tjʔ | 3 | ? | ? |
-| ʔh | 3 | ✓ | ✓ |
+| ˀj | 4 | ✓ | ✓ |
+| ˀh | 3 | ✓ | ✓ |
 | j̃ | 2 | ✓ | ✓ |
-| ki | 2 | ? | ? |
-| kj | 2 | ? | ? |
-| kw | 2 | ✓ | ✓ |
-| ú | 2 | ✓ | ✓ |
-| ʔd | 2 | ✓ | ✓ |
-| ʔw | 2 | ? | ? |
-| ʔŋ | 2 | ? | ? |
-| kk | 1 | ✓ | ✓ |
-| kwʔ | 1 | ✓ | ✓ |
-| tt | 1 | ✓ | ✓ |
-| tʃ | 1 | ✓ | ✓ |
-| í | 1 | ✓ | ✓ |
-| ɨ́ | 1 | ✓ | ✓ |
-| ʔg | 1 | ✓ | ✓ |
-| ʔkh | 1 | ✓ | ✓ |
-| ʔr | 1 | ? | ? |
-| ʔr̃ | 1 | ? | ? |
-| ʔth | 1 | ✓ | ✓ |
-| ∫ | 1 | ? | ? |
+| ú/u | 2 | ✓ | ✓ |
+| ʔʷ | 2 | ✓ | ✓ |
+| ˀn | 2 | ✓ | ✓ |
+| <<?>> | 1 | ? | ? |
+| <<v>> | 1 | ? | ? |
+| kʷˀ | 1 | ✓ | ✓ |
+| í/i | 1 | ✓ | ✓ |
+| ɸ | 1 | ✓ | ✓ |
+| ˀkʰ | 1 | ✓ | ✓ |
 
-(78 rows)
+(66 rows)
 
 
 
@@ -100,91 +88,108 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-----------------------------------------|:-----------|:-----------------------------------|:------------|:------------------------------|
-| BAS-123-tobacco-1 | BAS | 123-tobacco | ~bɨʔdo | m ɨ̃ <s> ʔn </s> õ |
-| BAS-132-urucumachiote-1 | BAS | 132-urucumachiote | ~buca | m ũ <s> t∫ </s> ã |
-| BAS-36-elevatedstructureshelvesroofetc-1 | BAS | 36-elevatedstructureshelvesroofetc | kaca | k a <s> t∫ </s> a |
-| DES-20-centipede-1 | DES | 20-centipede | ~aʔgi | ã <s> ʔŋ </s> ĩ |
-| DES-23-cheek-1 | DES | 23-cheek | waʔju | w a <s> ʔj </s> u |
-| DES-89-nose-1 | DES | 89-nose | ~iʔgi | ĩ <s> ʔŋ </s> ĩ |
-| KOR-31-dove-1 | KOR | 31-dove | siʔwi | s i <s> ʔw </s> i |
-| KOR-70-kingfisher-1 | KOR | 70-kingfisher | sãsʔa | s ã <s> sʔ </s> a |
-| KOR-81-monkeysp-1 | KOR | 81-monkeysp | sisikoʔroro | s i s i k o <s> ʔr </s> o r o |
-| KUB-134-wasp-1 | KUB | 134-wasp | ut∫i | u <s> t∫ </s> i |
-| KUB-85-mythicalbeing-1 | KUB | 85-mythicalbeing | ~at∫i | ã <s> t∫ </s> ĩ |
-| KUE-101-pupunha-1 | KUE | 101-pupunha | ɨʔne | ɨ <s> ʔn </s> e |
-| KUE-3-antsp-1 | KUE | 3-antsp | mekia | m e <s> ki </s> a |
-| KUE-33-ear-1 | KUE | 33-ear | ~kiau | <s> kj </s> ã ũ |
-| KUE-4-aracufish-1 | KUE | 4-aracufish | polekia | p o l e <s> ki </s> a |
-| KUE-42-fire-1 | KUE | 42-fire | hekia | h e <s> kj </s> a |
-| KUE-65-ingafruitsp-1 | KUE | 65-ingafruitsp | meʔne | m e <s> ʔn </s> e |
-| MAI-51-gather-1 | MAI | 51-gather | t∫ia | <s> t∫ </s> i a |
-| MAI-57-head-1 | MAI | 57-head | t∫io | <s> t∫ </s> i o |
-| MAI-61-hot-1 | MAI | 61-hot | at∫u | a <s> t∫ </s> u |
-| MAI-72-lake-1 | MAI | 72-lake | t∫ita | <s> t∫ </s> i t a |
-| MAI-81-monkeysp-1 | MAI | 81-monkeysp | t∫it∫i | <s> t∫ </s> i <s> t∫ </s> i |
-| ProtoT-103-river-1 | ProtoT | 103-river | *tjʔia | t <s> jʔ </s> i a |
-| ProtoT-11-blood-1 | ProtoT | 11-blood | *tjʔie | t <s> jʔ </s> i e |
-| ProtoT-121-tosmokemeat-1 | ProtoT | 121-tosmokemeat | *sɨʔjo | ɨ <s> ʔj </s> o |
-| ProtoT-125-tongue-1 | ProtoT | 125-tongue | *tjʔeme | t <s> jʔ </s> e m e |
-| ProtoT-128-toucan-1 | ProtoT | 128-toucan | *tjʔase(?) | t <s> jʔ </s> a s e |
-| ProtoT-142-youall-1 | ProtoT | 142-youall | *mɨ-tja | m ɨ <s> tj </s> a |
-| ProtoT-24-chew-1 | ProtoT | 24-chew | *tjʔãkʔɨ | <s> tjʔ </s> ã k ʔ ɨ |
-| ProtoT-26-cold-1 | ProtoT | 26-cold | *tjɨsi | <s> tj </s> ɨ s i |
-| ProtoT-30-distant-1 | ProtoT | 30-distant | *tjʔoa | t <s> jʔ </s> o a |
-| ProtoT-31-dove-1 | ProtoT | 31-dove | *t∫ɨ- | <s> t∫ </s> ɨ |
-| ProtoT-34-egg-1 | ProtoT | 34-egg | *tjʔia | t <s> jʔ </s> i a |
-| ProtoT-39-face-1 | ProtoT | 39-face | *tjʔia | t <s> jʔ </s> i a |
-| ProtoT-46-float-1 | ProtoT | 46-float | *paʔja | p a <s> ʔj </s> a |
-| ProtoT-51-gather-1 | ProtoT | 51-gather | *t∫ɨ-a | t <s> ∫ </s> ɨ a |
-| ProtoT-53-grape-1 | ProtoT | 53-grape | *ɨʔje | ɨ <s> ʔj </s> e |
-| ProtoT-55-green-1 | ProtoT | 55-green | *tjɨ̃pʔe | <s> tj </s> ɨ̃ pʔ e |
-| ProtoT-57-head-1 | ProtoT | 57-head | *tjʔɨpo | t <s> jʔ </s> ɨ p o |
-| ProtoT-61-hot-1 | ProtoT | 61-hot | *atjɨ | a <s> tj </s> ɨ |
-| ProtoT-66-insectsp-1 | ProtoT | 66-insectsp | *tjusi | <s> tj </s> u s i |
-| ProtoT-72-lake-1 | ProtoT | 72-lake | *tjʔitta | <s> tjʔ </s> i tt a |
-| ProtoT-83-mouth1-1 | ProtoT | 83-mouth1 | *tjʔɨseo | t <s> jʔ </s> ɨ s e o |
-| ProtoT-9-black-1 | ProtoT | 9-black | *tjʔĩ | <s> tjʔ </s> ĩ |
-| ProtoT-97-people-1 | ProtoT | 97-people | *pʔã-tjã | pʔ ã <s> tj </s> ã |
-| SEK-103-river-1 | SEK | 103-river | sʔia | <s> sʔ </s> i a |
-| SEK-11-blood-1 | SEK | 11-blood | sʔie | <s> sʔ </s> i e |
-| SEK-125-tongue-1 | SEK | 125-tongue | sʔeme | <s> sʔ </s> e m e |
-| SEK-24-chew-1 | SEK | 24-chew | sʔãki | <s> sʔ </s> ã k i |
-| SEK-34-egg-1 | SEK | 34-egg | sʔia | <s> sʔ </s> i a |
-| SEK-39-face-1 | SEK | 39-face | sʔia | <s> sʔ </s> i a |
-| SEK-70-kingfisher-1 | SEK | 70-kingfisher | sʔãʔsa | <s> sʔ </s> ã ʔ s a |
-| SEK-99-poison-1 | SEK | 99-poison | sʔĩma | <s> sʔ </s> ĩ m a |
-| SIO-103-river-1 | SIO | 103-river | sʔia | <s> sʔ </s> i a |
-| SIO-11-blood-1 | SIO | 11-blood | sʔie | <s> sʔ </s> i e |
-| SIO-125-tongue-1 | SIO | 125-tongue | sʔeme | <s> sʔ </s> e m e |
-| SIO-30-distant-1 | SIO | 30-distant | sʔoa | <s> sʔ </s> o a |
-| SIO-31-dove-1 | SIO | 31-dove | t∫iʔwi | <s> t∫ </s> i <s> ʔw </s> i |
-| SIO-34-egg-1 | SIO | 34-egg | sʔia | <s> sʔ </s> i a |
-| SIO-51-gather-1 | SIO | 51-gather | t∫ia | <s> t∫ </s> i a |
-| SIO-57-head-1 | SIO | 57-head | ~sʔiho | <s> sʔ </s> ĩ h õ |
-| SIO-72-lake-1 | SIO | 72-lake | sʔitada | <s> sʔ </s> i t a d a |
-| SIO-87-navel-1 | SIO | 87-navel | t∫õhõ | <s> t∫ </s> õ h õ |
-| SIO-9-black-1 | SIO | 9-black | sʔi | <s> sʔ </s> i |
-| TAN-123-tobacco-1 | TAN | 123-tobacco | ~biʔro | m ĩ <s> ʔr̃ </s> õ |
-| TUK-119-tobite-1 | TUK | 119-tobite | ~kuʔdi | k ũ <s> ʔn </s> ĩ |
-| TUK-122-toadsp-1 | TUK | 122-toadsp | moʔmo | m o <s> ʔm </s> o |
-| TUK-123-tobacco-1 | TUK | 123-tobacco | ~bɨʔdo | m ɨ̃ <s> ʔn </s> õ |
-| TUK-128-toucan-1 | TUK | 128-toucan | race | r a <s> t∫ </s> e |
-| TUK-131-urinate-1 | TUK | 131-urinate | ~oʔde | õ <s> ʔn </s> ẽ |
-| TUK-33-ear-1 | TUK | 33-ear | ~oʔbe | õ <s> ʔm </s> ẽ |
-| TUK-55-green-1 | TUK | 55-green | sɨʔme | s ɨ <s> ʔm </s> e |
-| WAN-114-tapir-1 | WAN | 114-tapir | wat∫ɨ | w a <s> t∫ </s> ɨ |
-| WAN-122-toadsp-1 | WAN | 122-toadsp | waʔmu | w a <s> ʔm </s> u |
-| WAN-3-antsp-1 | WAN | 3-antsp | ~bat∫ɨ | m ã <s> t∫ </s> ɨ̃ |
-| WAN-33-ear-1 | WAN | 33-ear | ~kaʔbo | k ã <s> ʔm </s> õ |
-| WAN-42-fire-1 | WAN | 42-fire | phit∫a | ph i <s> t∫ </s> a |
-| WAN-52-grandfather-1 | WAN | 52-grandfather | ~jɨt∫ɨ | ɲ ɨ̃ <s> t∫ </s> ɨ̃ |
-| WAN-63-hummingbird-1 | WAN | 63-hummingbird | ~wiʔbi | w̃ ĩ <s> ʔm </s> ĩ |
-| WAN-75-leg-1 | WAN | 75-leg | ~jɨt∫ɨ | ɲ ɨ̃ <s> t∫ </s> ɨ̃ |
-| WAN-92-palmweevil-1 | WAN | 92-palmweevil | ~_phit∫o | _ ph i <s> t∫ </s> o |
-| WAN-93-parrot-1 | WAN | 93-parrot | wat∫o | w a <s> t∫ </s> o |
-| YUP-87-navel-1 | YUP | 87-navel | ~t∫ubu | <s> t∫ </s> ũ m ũ |
+|:---------------------------------------|:--------------|:-----------------------|:--------|:---------------------------|
+| Barasano-1-3rdpersonmasculine-1 | Barasano | 1-3rdpersonmasculine | ~bi | <s> <<~>> </s> b i |
+| Barasano-101-pupunha-1 | Barasano | 101-pupunha | ~ɨde | <s> <<~>> </s> ɨ d e |
+| Barasano-107-snake-1 | Barasano | 107-snake | ~aja | <s> <<~>> </s> a j a |
+| Barasano-141-yam-1 | Barasano | 141-yam | ~jabo | <s> <<~>> </s> j a b o |
+| Barasano-18-caradioscoreaalata-1 | Barasano | 18-caradioscoreaalata | ~jahi | <s> <<~>> </s> j a h i |
+| Barasano-29-deer-1 | Barasano | 29-deer | ~jaba | <s> <<~>> </s> j a b a |
+| Barasano-52-grandfather-1 | Barasano | 52-grandfather | ~jikɨ | <s> <<~>> </s> j i k ɨ |
+| Barasano-75-leg-1 | Barasano | 75-leg | ~jika | <s> <<~>> </s> j i k a |
+| Barasano-78-man-1 | Barasano | 78-man | ~ɨbɨ | <s> <<~>> </s> ɨ b ɨ |
+| Barasano-89-nose-1 | Barasano | 89-nose | ~ige | <s> <<~>> </s> i g e |
+| Desano-1-3rdpersonmasculine-1 | Desano | 1-3rdpersonmasculine | ~bi | <s> <<~>> </s> b i |
+| Desano-101-pupunha-1 | Desano | 101-pupunha | ~ɨdi | <s> <<~>> </s> ɨ d i |
+| Desano-107-snake-1 | Desano | 107-snake | ~aja | <s> <<~>> </s> a j a |
+| Desano-141-yam-1 | Desano | 141-yam | ~jaʔbo | <s> <<~>> </s> j a ˀb o |
+| Desano-18-caradioscoreaalata-1 | Desano | 18-caradioscoreaalata | ~japi | <s> <<~>> </s> j a p i |
+| Desano-20-centipede-1 | Desano | 20-centipede | ~aʔgi | <s> <<~>> </s> a ʔ g i |
+| Desano-29-deer-1 | Desano | 29-deer | ~jaba | <s> <<~>> </s> j a b a |
+| Desano-52-grandfather-1 | Desano | 52-grandfather | ~jekɨ | <s> <<~>> </s> j e k ɨ |
+| Desano-75-leg-1 | Desano | 75-leg | ~jiga | <s> <<~>> </s> j i g a |
+| Desano-78-man-1 | Desano | 78-man | ~ɨbɨ | <s> <<~>> </s> ɨ b ɨ |
+| Desano-89-nose-1 | Desano | 89-nose | ~iʔgi | <s> <<~>> </s> i ʔ g i |
+| Karapan-101-pupunha-1 | Karapan | 101-pupunha | ~ɨde | <s> <<~>> </s> ɨ d e |
+| Karapan-107-snake-1 | Karapan | 107-snake | ~aja | <s> <<~>> </s> a j a |
+| Karapan-141-yam-1 | Karapan | 141-yam | ~jabo | <s> <<~>> </s> j a b o |
+| Karapan-18-caradioscoreaalata-1 | Karapan | 18-caradioscoreaalata | ~japi | <s> <<~>> </s> j a p i |
+| Karapan-29-deer-1 | Karapan | 29-deer | ~jaba | <s> <<~>> </s> j a b a |
+| Karapan-52-grandfather-1 | Karapan | 52-grandfather | ~jikɨ | <s> <<~>> </s> j i k ɨ |
+| Karapan-75-leg-1 | Karapan | 75-leg | ~jika | <s> <<~>> </s> j i k a |
+| Karapan-78-man-1 | Karapan | 78-man | ~bɨ | <s> <<~>> </s> b ɨ |
+| Karapan-89-nose-1 | Karapan | 89-nose | ~ɨke | <s> <<~>> </s> ɨ k e |
+| Kubeo-101-pupunha-1 | Kubeo | 101-pupunha | ~ɨde | <s> <<~>> </s> ɨ d e |
+| Kubeo-107-snake-1 | Kubeo | 107-snake | ~aja | <s> <<~>> </s> a j a |
+| Kubeo-141-yam-1 | Kubeo | 141-yam | ~jabu | <s> <<~>> </s> j a b u |
+| Kubeo-18-caradioscoreaalata-1 | Kubeo | 18-caradioscoreaalata | ~japi | <s> <<~>> </s> j a p i |
+| Kubeo-29-deer-1 | Kubeo | 29-deer | ~jaba | <s> <<~>> </s> j a b a |
+| Kubeo-52-grandfather-1 | Kubeo | 52-grandfather | ~jekũjo | <s> <<~>> </s> j e k ũ j o |
+| Kubeo-75-leg-1 | Kubeo | 75-leg | ~jɨa | <s> <<~>> </s> j ɨ a |
+| Kubeo-76-locative-1 | Kubeo | 76-locative | ~do | <s> <<~>> </s> d o |
+| Kubeo-78-man-1 | Kubeo | 78-man | ~ɨbɨ | <s> <<~>> </s> ɨ b ɨ |
+| Piratapuyo-101-pupunha-1 | Piratapuyo | 101-pupunha | ~ɨde | <s> <<~>> </s> ɨ d e |
+| Piratapuyo-107-snake-1 | Piratapuyo | 107-snake | ~aja | <s> <<~>> </s> a j a |
+| Prototucanoan-1-3rdpersonmasculine-1 | Prototucanoan | 1-3rdpersonmasculine | *-pi | <s> <<*>> </s> + p i |
+| Prototucanoan-101-pupunha-1 | Prototucanoan | 101-pupunha | *ɨne | <s> <<*>> </s> ɨ n e |
+| Prototucanoan-107-snake-1 | Prototucanoan | 107-snake | *ãja | <s> <<*>> </s> ã j a |
+| Prototucanoan-117-three-1 | Prototucanoan | 117-three | *ɨtʔia | <s> <<*>> </s> ɨ tˀ i a |
+| Prototucanoan-141-yam-1 | Prototucanoan | 141-yam | *jãpʔo | <s> <<*>> </s> j ã pˀ o |
+| Prototucanoan-18-caradioscoreaalata-1 | Prototucanoan | 18-caradioscoreaalata | *japi | <s> <<*>> </s> j a p i |
+| Prototucanoan-19-casenonnominatvie-1 | Prototucanoan | 19-casenonnominatvie | *-tʔe | <s> <<*>> </s> + tˀ e |
+| Prototucanoan-20-centipede-1 | Prototucanoan | 20-centipede | *jãkʔi | <s> <<*>> </s> j ã kˀ i |
+| Prototucanoan-29-deer-1 | Prototucanoan | 29-deer | *jama | <s> <<*>> </s> j a m a |
+| Prototucanoan-41-feminine-1 | Prototucanoan | 41-feminine | *-kʔo | <s> <<*>> </s> + kˀ o |
+| Prototucanoan-52-grandfather-1 | Prototucanoan | 52-grandfather | *jẽkku- | <s> <<*>> </s> j ẽ kː u + |
+| Prototucanoan-53-grape-1 | Prototucanoan | 53-grape | *ɨʔje | <s> <<*>> </s> ɨ ˀj e |
+| Prototucanoan-59-heron-1 | Prototucanoan | 59-heron | *jahi | <s> <<*>> </s> j a h i |
+| Prototucanoan-61-hot-1 | Prototucanoan | 61-hot | *atjɨ | <s> <<*>> </s> a t j ɨ |
+| Prototucanoan-67-jaguar-1 | Prototucanoan | 67-jaguar | *jai | <s> <<*>> </s> j a i |
+| Prototucanoan-69-kapok-1 | Prototucanoan | 69-kapok | *jɨi | <s> <<*>> </s> j ɨ i |
+| Prototucanoan-73-land-1 | Prototucanoan | 73-land | *jepʔa | <s> <<*>> </s> j e pˀ a |
+| Prototucanoan-76-locative-1 | Prototucanoan | 76-locative | *-tʔo | <s> <<*>> </s> + tˀ o |
+| Prototucanoan-78-man-1 | Prototucanoan | 78-man | *ɨmɨ | <s> <<*>> </s> ɨ m ɨ |
+| Prototucanoan-84-mouth2-1 | Prototucanoan | 84-mouth2 | *jɨ-ʔo | <s> <<*>> </s> j ɨ + ʔ o |
+| Prototucanoan-88-non3rdanimateperson-1 | Prototucanoan | 88-non3rdanimateperson | *-pʔɨ | <s> <<*>> </s> + pˀ ɨ |
+| Prototucanoan-89-nose-1 | Prototucanoan | 89-nose | *ɨ̃kwʔe | <s> <<*>> </s> ɨ̃ kʷˀ e |
+| Tanimuka-101-pupunha-1 | Tanimuka | 101-pupunha | ~ire | <s> <<~>> </s> i ɾ e |
+| Tanimuka-107-snake-1 | Tanimuka | 107-snake | ~aja | <s> <<~>> </s> a j a |
+| Tanimuka-141-yam-1 | Tanimuka | 141-yam | ~jaʔbu | <s> <<~>> </s> j a ˀb u |
+| Tanimuka-18-caradioscoreaalata-1 | Tanimuka | 18-caradioscoreaalata | ~jaʔpi | <s> <<~>> </s> j a ʔ p i |
+| Tanimuka-29-deer-1 | Tanimuka | 29-deer | ~jaba | <s> <<~>> </s> j a b a |
+| Tanimuka-75-leg-1 | Tanimuka | 75-leg | ~jika | <s> <<~>> </s> j i k a |
+| Tanimuka-78-man-1 | Tanimuka | 78-man | ~ɨbɨ | <s> <<~>> </s> ɨ b ɨ |
+| Tanimuka-89-nose-1 | Tanimuka | 89-nose | ~obe | <s> <<~>> </s> o b e |
+| Tukano-1-3rdpersonmasculine-1 | Tukano | 1-3rdpersonmasculine | ~bi | <s> <<~>> </s> b i |
+| Tukano-101-pupunha-1 | Tukano | 101-pupunha | ~ɨde | <s> <<~>> </s> ɨ d e |
+| Tukano-107-snake-1 | Tukano | 107-snake | ~aja | <s> <<~>> </s> a j a |
+| Tukano-141-yam-1 | Tukano | 141-yam | ~jaʔbu | <s> <<~>> </s> j a ˀb u |
+| Tukano-18-caradioscoreaalata-1 | Tukano | 18-caradioscoreaalata | ~japi | <s> <<~>> </s> j a p i |
+| Tukano-20-centipede-1 | Tukano | 20-centipede | ~aʔki | <s> <<~>> </s> a ˀk i |
+| Tukano-29-deer-1 | Tukano | 29-deer | ~jaba | <s> <<~>> </s> j a b a |
+| Tukano-52-grandfather-1 | Tukano | 52-grandfather | ~jekɨ | <s> <<~>> </s> j e k ɨ |
+| Tukano-75-leg-1 | Tukano | 75-leg | ~jeka | <s> <<~>> </s> j e k a |
+| Tukano-78-man-1 | Tukano | 78-man | ~ɨbɨ | <s> <<~>> </s> ɨ b ɨ |
+| Tukano-89-nose-1 | Tukano | 89-nose | ~eʔke | <s> <<~>> </s> e ˀk e |
+| Tuyuka-107-snake-1 | Tuyuka | 107-snake | ~aja | <s> <<~>> </s> a j a |
+| Tuyuka-141-yam-1 | Tuyuka | 141-yam | ~jabu | <s> <<~>> </s> j a b u |
+| Tuyuka-20-centipede-1 | Tuyuka | 20-centipede | ~budi | <s> <<~>> </s> b u d i |
+| Tuyuka-29-deer-1 | Tuyuka | 29-deer | ~jaba | <s> <<~>> </s> j a b a |
+| Tuyuka-52-grandfather-1 | Tuyuka | 52-grandfather | ~jekɨ | <s> <<~>> </s> j e k ɨ |
+| Tuyuka-59-heron-1 | Tuyuka | 59-heron | yee | <s> <<y>> </s> e e |
+| Tuyuka-75-leg-1 | Tuyuka | 75-leg | ~jika | <s> <<~>> </s> j i k a |
+| Tuyuka-78-man-1 | Tuyuka | 78-man | ~ɨbɨ | <s> <<~>> </s> ɨ b ɨ |
+| Tuyuka-89-nose-1 | Tuyuka | 89-nose | ~ekea | <s> <<~>> </s> e k e a |
+| Wanano-101-pupunha-1 | Wanano | 101-pupunha | ~ɨde | <s> <<~>> </s> ɨ d e |
+| Wanano-107-snake-1 | Wanano | 107-snake | ~aja | <s> <<~>> </s> a j a |
+| Wanano-141-yam-1 | Wanano | 141-yam | ~jaʔbu | <s> <<~>> </s> j a ˀb u |
+| Wanano-18-caradioscoreaalata-1 | Wanano | 18-caradioscoreaalata | ~japi | <s> <<~>> </s> j a p i |
+| Wanano-20-centipede-1 | Wanano | 20-centipede | ~jaʔki | <s> <<~>> </s> j a ˀk i |
+| Wanano-29-deer-1 | Wanano | 29-deer | ~jaba | <s> <<~>> </s> j a b a |
+| Wanano-52-grandfather-1 | Wanano | 52-grandfather | ~jɨt∫ɨ | <s> <<~>> </s> j ɨ tʃ ɨ |
+| Wanano-78-man-1 | Wanano | 78-man | ~ɨbɨ | <s> <<~>> </s> ɨ b ɨ |
+| Wanano-89-nose-1 | Wanano | 89-nose | ~ke | <s> <<~>> </s> k e |
 
-(83 rows)
+(100 rows)
 
 
