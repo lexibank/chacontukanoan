@@ -98,7 +98,7 @@ class Dataset(pylexibank.Dataset):
                 Language_ID=language_id,
                 Parameter_ID=c_id,
                 Value=row['IPA'],
-                Form=row['IPA'],
+                Form=".".join(row['TOKENS']),
                 Source=['Chacon2014'],
             )
 
