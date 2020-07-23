@@ -124,6 +124,11 @@ class Dataset(pylexibank.Dataset):
                 Form=tokens,
                 Source=['Chacon2014'],
             )
+            corrections = {"Barasano-16-buritipalm-1": "r̃ e - e"}
+                           # not r ẽ - e
+            if lex["ID"] in corrections:
+                row["ALIGNMENT"] = corrections[lex["ID"]]
+
 
             # add cognates -- make sure Cognateset_ID is global!
             alignment = list(_tokenized_alignment(row["ALIGNMENT"]))
