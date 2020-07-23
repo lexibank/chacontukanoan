@@ -105,4 +105,5 @@ class Dataset(pylexibank.Dataset):
             args.writer.add_cognate(
                 lexeme=lex,
                 Cognateset_ID='{0}-{1}'.format(c_id, row['COGID']),
+                Source=['Chacon2014'],
             )
