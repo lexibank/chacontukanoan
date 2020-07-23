@@ -65,14 +65,15 @@ class Dataset(pylexibank.Dataset):
 
         # if not, then here is a more detailed way to do it:
         concept_lookup = {}
-        for concept in self.concepts:
-            c_id = "{0}-{1}".format(concept["NUMBER"], slug(concept["ENGLISH"]))
+        for concept in self.conceptlists[0].concepts.values():
+            c_id = "{0}-{1}".format(concept.id.split("-")[-1], slug(concept.english))
+            concept_lookup[concept.english] = c_id
             args.writer.add_concept(
                 ID=c_id,
-                Name=concept['ENGLISH'],
-                Concepticon_ID=concept['CONCEPTICON_ID']
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+                Name=concept.english,
             )
-            concept_lookup[concept['ENGLISH']] = c_id
 
         # for language in self.languages:
         #    args.writer.add_language(
