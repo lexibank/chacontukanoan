@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/chacontukanoan",
-            "dc:created": "00506f3"
+            "dc:created": "23db981"
         },
         {
             "rdf:type": "prov:Entity",
