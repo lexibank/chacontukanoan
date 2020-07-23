@@ -1,14 +1,19 @@
 from pathlib import Path
 import pylexibank
 
+from clldutils.misc import slug
+
+from pylexibank.util import getEvoBibAsBibtex
+
+
 # Customize your basic data.
 # if you need to store other data in columns than the lexibank defaults, then over-ride
 # the table type (pylexibank.[Language|Lexeme|Concept|Cognate|]) and add the required columns e.g.
 #
-#import attr
+# import attr
 #
-#@attr.s
-#class Concept(pylexibank.Concept):
+# @attr.s
+# class Concept(pylexibank.Concept):
 #    MyAttribute1 = attr.ib(default=None)
 
 
@@ -17,14 +22,15 @@ class Dataset(pylexibank.Dataset):
     id = "chacontukanoan"
 
     # register custom data types here (or language_class, lexeme_class, cognate_class):
-    #concept_class = Concept
+    # concept_class = Concept
 
     # define the way in which forms should be handled
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"},  # characters that function as brackets
         separators=";/,",  # characters that split forms e.g. "a, b".
         missing_data=('?', '-'),  # characters that denote missing data.
-        strip_inside_brackets=True   # do you want data removed in brackets or not?
+        strip_inside_brackets=True
+        # do you want data removed in brackets or not?
     )
 
     def cmd_download(self, args):
@@ -35,6 +41,12 @@ class Dataset(pylexibank.Dataset):
         >>> with self.raw_dir.temp_download("http://www.example.com/e.tsv", "example.tsv") as data:
         ...     self.raw_dir.write_csv('template.csv', self.raw_dir.read_csv(data, delimiter='\t'))
         """
+        with self.raw_dir.temp_download(
+                "http://edictor.digling.org/triples/get_data.py?file=tukano",
+                "tukano.tsv") as data:
+            self.raw_dir.write_csv('tukano.csv',
+                                   self.raw_dir.read_csv(data, delimiter='\t'))
+        self.raw_dir.write('sources.bib', getEvoBibAsBibtex('Chacon2014'))
 
     def cmd_makecldf(self, args):
         """
@@ -43,21 +55,26 @@ class Dataset(pylexibank.Dataset):
         A `pylexibank.cldf.LexibankWriter` instance is available as `args.writer`. Use the methods
         of this object to add data.
         """
-        data = self.raw_dir.read_csv('template.csv', dicts=True)
+        data = self.raw_dir.read_csv('tukano.csv', dicts=True)
 
+        args.writer.add_sources()
         # short cut to add concepts and languages, provided your name spaces
         # match lexibank's expected format.
-        args.writer.add_concepts()
+        # args.writer.add_concepts()
         args.writer.add_languages()
 
         # if not, then here is a more detailed way to do it:
-        #for concept in self.concepts:
-        #    args.writer.add_concept(
-        #        ID=concept['ID'],
-        #        Name=concept['ENGLISH'],
-        #        Concepticon_ID=concept['CONCEPTICON_ID']
-        #    )
-        #for language in self.languages:
+        concept_lookup = {}
+        for concept in self.concepts:
+            c_id = "{0}-{1}".format(concept["NUMBER"], slug(concept["ENGLISH"]))
+            args.writer.add_concept(
+                ID=c_id,
+                Name=concept['ENGLISH'],
+                Concepticon_ID=concept['CONCEPTICON_ID']
+            )
+            concept_lookup[concept['ENGLISH']] = c_id
+
+        # for language in self.languages:
         #    args.writer.add_language(
         #        ID=language['ID'],
         #        Glottolog=language['Glottolog']
@@ -67,15 +84,22 @@ class Dataset(pylexibank.Dataset):
         for row in pylexibank.progressbar(data):
             # .. if you have segmentable data, replace `add_form` with `add_form_with_segments`
             # .. TODO @Mattis, when should we use add_forms_from_value() instead?
-            lex = args.writer.add_form(
-                Language_ID=row['Language_ID'],
-                Parameter_ID=row['Parameter_ID'],
-                Value=row['Word'],
-                Form=row['Word'],
-                Source=[row['Source']],
+
+            # '*PT' is an illegal identifier, changed to 'ProtoT'
+            if row['DOCULECT'] == "*PT":
+                row['DOCULECT'] = "ProtoT"
+
+            c_id = concept_lookup[row['CONCEPT']]
+            lex = args.writer.add_form_with_segments(
+                Language_ID=row['DOCULECT'],
+                Parameter_ID=c_id,
+                Value=row['IPA'],
+                Form=row['IPA'],
+                Segments=row['TOKENS'].split(),
+                Source=['Chacon2014'],
             )
             # add cognates -- make sure Cognateset_ID is global!
             args.writer.add_cognate(
                 lexeme=lex,
-                Cognateset_ID=row['Cognateset_ID']
+                Cognateset_ID='{0}-{1}'.format(c_id, row['COGID'])
             )
