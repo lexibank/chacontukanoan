@@ -799,7 +799,7 @@ Sekoya-132-urucumachiote-1,,Sekoya,132-urucumachiote,pʔõsa,pʔõsa,pˀ õ s a,
 Siona-132-urucumachiote-1,,Siona,132-urucumachiote,pʔõsa,pʔõsa,pˀ õ s a,,Chacon2014,,,^ pʔ õ s a $,default
 Tanimuka-132-urucumachiote-1,,Tanimuka,132-urucumachiote,~buha,~buha,b u h a,,Chacon2014,,,^ ~ b u h a $,default
 Tukano-132-urucumachiote-1,,Tukano,132-urucumachiote,~bosa,~bosa,b o s a,,Chacon2014,,,^ ~ b o s a $,default
-Wanano-132-urucumachiote-1,,Wanano,132-urucumachiote,~basi_sõa,~basi_sõa,b a s i _ s õ a,,Chacon2014,,,^ ~ b a s i _ s õ a $,default
+Wanano-132-urucumachiote-1,,Wanano,132-urucumachiote,~basi_sõa,~basi_sõa,b a s i + s õ a,,Chacon2014,,,^ ~ b a s i _ s õ a $,default
 Prototucanoan-132-urucumachiote-1,,Prototucanoan,132-urucumachiote,*pʔõsa,*pʔõsa,pˀ õ s a,,Chacon2014,,,^ * pʔ õ s a $,default
 Barasano-4-aracufish-1,,Barasano,4-aracufish,bodeka,bodeka,b o d e k a,,Chacon2014,,,^ b o d e k a $,default
 Desano-4-aracufish-1,,Desano,4-aracufish,bodeka,bodeka,b o d e k a,,Chacon2014,,,^ b o d e k a $,default
@@ -900,7 +900,7 @@ Sekoya-92-palmweevil-1,,Sekoya,92-palmweevil,hĩko,hĩko,h ĩ k o,,Chacon2014,,,
 Siona-92-palmweevil-1,,Siona,92-palmweevil,hĩko,hĩko,h ĩ k o,,Chacon2014,,,^ h ĩ k o $,default
 Tanimuka-92-palmweevil-1,,Tanimuka,92-palmweevil,~piko,~piko,p i k o,,Chacon2014,,,^ ~ p i k o $,default
 Tukano-92-palmweevil-1,,Tukano,92-palmweevil,~piko,~piko,p i k o,,Chacon2014,,,^ ~ p i k o $,default
-Wanano-92-palmweevil-1,,Wanano,92-palmweevil,~_phit∫o,~_phit∫o,_ pʰ i tʃ o,,Chacon2014,,,^ ~ _ ph i t∫ o $,default
+Wanano-92-palmweevil-1,,Wanano,92-palmweevil,~_phit∫o,~_phit∫o,+ pʰ i tʃ o,,Chacon2014,,,^ ~ _ ph i t∫ o $,default
 Prototucanoan-92-palmweevil-1,,Prototucanoan,92-palmweevil,*pĩko,*pĩko,p ĩ k o,,Chacon2014,,,^ * p ĩ k o $,default
 Koreguahe-56-handpalm-1,,Koreguahe,56-handpalm,hɨ̃thɨ,hɨ̃thɨ,h ɨ̃ tʰ ɨ,,Chacon2014,,,^ h ɨ̃ th ɨ $,default
 Kubeo-56-handpalm-1,,Kubeo,56-handpalm,pɨdɨ,pɨdɨ,p ɨ d ɨ,,Chacon2014,,,^ p ɨ d ɨ $,default
@@ -944,8 +944,8 @@ Barasano-105-rub-1,,Barasano,105-rub,~cige,~cige,c i g e,,Chacon2014,,,^ ~ c i g
 Karapan-105-rub-1,,Karapan,105-rub,~hike,~hike,h i k e,,Chacon2014,,,^ ~ h i k e $,default
 Kubeo-105-rub-1,,Kubeo,105-rub,hĩhũ,hĩhũ,h ĩ h ũ,,Chacon2014,,,^ h ĩ h ũ $,default
 Tukano-105-rub-1,,Tukano,105-rub,~saʔke,~saʔke,s a ˀk e,,Chacon2014,,,^ ~ s a ʔk e $,default
-Tuyuka-105-rub-1,,Tuyuka,105-rub,tuu_~sake,tuu_~sake,t u u _ s a k e,,Chacon2014,,,^ t u u _ ~ s a k e $,default
-Wanano-105-rub-1,,Wanano,105-rub,thu_saʔka,thu_saʔka,tʰ u _ s a ˀk a,,Chacon2014,,,^ th u _ s a ʔk a $,default
+Tuyuka-105-rub-1,,Tuyuka,105-rub,tuu_~sake,tuu_~sake,t u u + s a k e,,Chacon2014,,,^ t u u _ ~ s a k e $,default
+Wanano-105-rub-1,,Wanano,105-rub,thu_saʔka,thu_saʔka,tʰ u + s a ˀk a,,Chacon2014,,,^ th u _ s a ʔk a $,default
 Prototucanoan-105-rub-1,,Prototucanoan,105-rub,*sĩkʔe,*sĩkʔe,s ĩ kˀ e,,Chacon2014,,,^ * s ĩ kʔ e $,default
 Barasano-81-monkeysp-1,,Barasano,81-monkeysp,icikamu,icikamu,i c i k a m u,,Chacon2014,,,^ i c i k a m u $,default
 Karapan-81-monkeysp-1,,Karapan,81-monkeysp,~sii,~sii,s i i,,Chacon2014,,,^ ~ s i i $,default
@@ -1180,7 +1180,7 @@ Kubeo-39-face-1,,Kubeo,39-face,hiwa,hiwa,h i w a,,Chacon2014,,,^ h i w a $,defau
 Maihiki-39-face-1,,Maihiki,39-face,jia,jia,j i a,,Chacon2014,,,^ j i a $,default
 Sekoya-39-face-1,,Sekoya,39-face,sʔia,sʔia,sˀ i a,,Chacon2014,,,^ sʔ i a $,default
 Tukano-39-face-1,,Tukano,39-face,dia,dia,d i a,,Chacon2014,,,^ d i a $,default
-Tuyuka-39-face-1,,Tuyuka,39-face,dia_poa,dia_poa,d i a _ p o a,,Chacon2014,,,^ d i a _ p o a $,default
+Tuyuka-39-face-1,,Tuyuka,39-face,dia_poa,dia_poa,d i a + p o a,,Chacon2014,,,^ d i a _ p o a $,default
 Prototucanoan-39-face-1,,Prototucanoan,39-face,*tjʔia,*tjʔia,t jˀ i a,,Chacon2014,,,^ * t jʔ i a $,default
 Barasano-103-river-1,,Barasano,103-river,ria,ria,ɾ i a,,Chacon2014,,,^ r i a $,default
 Desano-103-river-1,,Desano,103-river,dia,dia,d i a,,Chacon2014,,,^ d i a $,default

@@ -8,7 +8,7 @@
     ],
     "dc:identifier": "http://edictor.digling.org/?file=tukano",
     "dc:isVersionOf": null,
-    "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
+    "dc:license": "CCBY",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Chacon's \"A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification\" from 2014",
@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/chacontukanoan",
-            "dc:created": "23db981"
+            "dc:created": "2fed9fd"
         },
         {
             "rdf:type": "prov:Entity",
