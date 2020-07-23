@@ -24,8 +24,8 @@ This dataset is based on https://github.com/glottobank/lexibank-data/tree/master
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 91%](https://img.shields.io/badge/Concepticon-91%25-green.svg "Concepticon: 91%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 91%](https://img.shields.io/badge/BIPA-91%25-green.svg "BIPA: 91%")
-![CLTS SoundClass: 91%](https://img.shields.io/badge/CLTS%20SoundClass-91%25-green.svg "CLTS SoundClass: 91%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 16
 - **Concepts:** 142
@@ -35,9 +35,9 @@ This dataset is based on https://github.com/glottobank/lexibank-data/tree/master
 - **Cognacy:** 1,542 cognates in 149 cognate sets (8 singletons)
 - **Cognate Diversity:** 0.01
 - **Invalid lexemes:** 0
-- **Tokens:** 6,253
-- **Segments:** 66 (6 BIPA errors, 6 CTLS sound class errors, 60 CLTS modified)
-- **Inventory size (avg):** 27.38
+- **Tokens:** 5,725
+- **Segments:** 61 (0 BIPA errors, 0 CTLS sound class errors, 61 CLTS modified)
+- **Inventory size (avg):** 26.19
 
 # Contributors
 

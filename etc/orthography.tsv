@@ -1,8 +1,11 @@
 Grapheme	IPA	UNICODE	FREQUENCY
 ^	NULL	NULL	NULL
 $	NULL	NULL	NULL
-(	NULL		
-)	NULL		
+(	NULL	NULL	NULL
+)	NULL	NULL	NULL
+*	NULL	NULL	NULL
+?	NULL	NULL	NULL
+~	NULL	NULL	NULL
 a	a	U+0061	503
 á	a	U+00e1	4
 ã	ã	U+00e3	282
@@ -23,6 +26,7 @@ i	i	U+0069	402
 ɨ́	ɨ	U+0268 U+0301	1
 ɨ̃	ɨ̃	U+0268 U+0303	129
 j	j	U+006a	224
+y	j		
 jʔ	jˀ		
 j̃	j̃	U+006a U+0303	2
 ʔj	ˀj		
@@ -39,10 +43,12 @@ kwʔ	kʷˀ
 ʔkh	ˀkʰ		
 l	l	U+006c	4
 m	m	U+006d	296
+̃b	m		
 n	n	U+006e	157
 ŋ	ŋ	U+014b	18
 ɲ	ɲ	U+0272	63
 ʔn	ˀn		
+̃d	n		
 b	b	U+0062	113
 p	p	U+0070	194
 bʔ	bˀ		
@@ -67,8 +73,11 @@ t∫	tʃ
 ʔt	ˀt		
 o	o	U+006f	397
 õ	õ	U+00f5	130
+v	w	U+0077	
 w	w	U+0077	106
 w̃	w̃	U+0077 U+0303	14
+~w	w̃	U+0077 U+0303	
+̃w	w̃	U+0077 U+0303	
 u	u	U+0075	182
 ú	ú/u	U+00fa	2
 ũ	ũ	U+0169	91
