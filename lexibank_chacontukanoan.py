@@ -25,13 +25,14 @@ class Dataset(pylexibank.Dataset):
     # concept_class = Concept
 
     # define the way in which forms should be handled
-    form_spec = pylexibank.FormSpec(
-        brackets={"(": ")"},  # characters that function as brackets
-        separators=";/,",  # characters that split forms e.g. "a, b".
-        missing_data=('?', '-'),  # characters that denote missing data.
-        strip_inside_brackets=True
-        # do you want data removed in brackets or not?
-    )
+    # form_spec = pylexibank.FormSpec(
+    #     brackets={"(": ")"},  # characters that function as brackets
+    #     separators=";/,",  # characters that split forms e.g. "a, b".
+    #     missing_data=('?', '-'),  # characters that denote missing data.
+    #     strip_inside_brackets=True,
+    #     first_form_only = True
+    #     # do you want data removed in brackets or not?
+    # )
 
     def cmd_download(self, args):
         """
