@@ -2,7 +2,7 @@
 
 Cite the source dataset as
 
-> T. Chacon. (2014). A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification. Journal of American Lingusitics 80.3, pp. 275–322. doi: https://doi.org/10.1086/676393
+> T. Chacon. (2014). A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification. Journal of American Linguistics 80.3, pp. 275–322. doi: https://doi.org/10.1086/676393
 
 This dataset is licensed under a GPL-3.0 license
 
