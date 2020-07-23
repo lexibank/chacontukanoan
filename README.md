@@ -35,8 +35,8 @@ This dataset is based on https://github.com/glottobank/lexibank-data/tree/master
 - **Cognate Diversity:** 0.01
 - **Invalid lexemes:** 0
 - **Tokens:** 5,725
-- **Segments:** 61 (0 BIPA errors, 0 CTLS sound class errors, 61 CLTS modified)
-- **Inventory size (avg):** 26.19
+- **Segments:** 60 (0 BIPA errors, 0 CTLS sound class errors, 60 CLTS modified)
+- **Inventory size (avg):** 26.12
 
 # Contributors
 
