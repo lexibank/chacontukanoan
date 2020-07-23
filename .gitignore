@@ -64,3 +64,5 @@ coverage.xml
 venv/
 ENV/
 
+# Libreoffice
+.~lock.*
