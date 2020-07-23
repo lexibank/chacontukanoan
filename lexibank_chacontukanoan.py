@@ -4,6 +4,7 @@ import pylexibank
 from clldutils.misc import slug
 
 from pylexibank.util import getEvoBibAsBibtex
+from segments import Tokenizer
 
 
 # Customize your basic data.
@@ -57,6 +58,27 @@ class Dataset(pylexibank.Dataset):
         of this object to add data.
         """
         data = self.raw_dir.read_csv('tukano.csv', dicts=True)
+        ortho_profile = self.orthography_profile_dict[None]
+        tokenizer = Tokenizer(profile=ortho_profile)
+
+        def _tokenized_alignment(alignment, debug=False):
+            """Generator of re-tokenized aligned segments.
+
+            Alignment characters need to be re-tokenized due to changes
+            in the orthography profile
+            """
+            preserve_chars = {"(", ")", "-"}
+            for seg in alignment.split(' '):
+                if seg in preserve_chars:
+                    if debug:
+                        print("seg preserved:", preserve_chars)
+                    yield seg
+                else:
+                    if debug:
+                        t = tokenizer(seg, column='IPA')
+                        print("seg tokenized:", t, type(t))
+                    for seg in tokenizer(seg, column='IPA').split(" "):
+                        yield seg
 
         args.writer.add_sources()
         # short cut to add concepts and languages, provided your name spaces
@@ -93,21 +115,23 @@ class Dataset(pylexibank.Dataset):
 
             language_id = language_lookup[row['DOCULECT']]
             c_id = concept_lookup[row['CONCEPT']]
-
+            tokens = ".".join(row['TOKENS'].split())
             lex = args.writer.add_form(
                 Language_ID=language_id,
                 Parameter_ID=c_id,
                 Value=row['IPA'],
-                Form=".".join(row['TOKENS'].split()),
+                # This is a workaround to re-tokenize tokens
+                Form=tokens,
                 Source=['Chacon2014'],
             )
 
             # add cognates -- make sure Cognateset_ID is global!
+            alignment = list(_tokenized_alignment(row["ALIGNMENT"]))
             args.writer.add_cognate(
                 lexeme=lex,
                 Cognateset_ID='{0}-{1}'.format(c_id, row['COGID']),
                 Source=['Chacon2014'],
-                Alignment=row['ALIGNMENT'].split(),
+                Alignment=alignment,
                 Alignment_Method="expert",
                 Alignment_Source="Chacon2014",
             )

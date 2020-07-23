@@ -10,6 +10,40 @@ def test_forms(cldf_dataset):
                                                              num_forms)
 
 
+def test_cognates(cldf_dataset):
+    cog_table = cldf_dataset["CognateTable"]
+    num_cognates = len(list(cog_table))
+    expected_cognates = 1542
+    assert num_cognates == expected_cognates, \
+        "This dataset should have {} cognates, found {}".format(num_cognates,
+                                                                expected_cognates)
+
+
+def test_alignments(cldf_dataset):
+    """Test the integrity of the alignments.
+
+    The alignments should:
+    - Have a fixed number of columns for a given cognate set
+    - Have the same segments as the corresponding form
+    """
+    cog_table = cldf_dataset["CognateTable"]
+    forms = {r["ID"]: r["Segments"] for r in cldf_dataset["FormTable"]}
+    alignment_lengths = {}
+    for row in cog_table:
+        id = row["Cognateset_ID"]
+        length = len(row["Alignment"])
+        if id in alignment_lengths:
+            assert alignment_lengths[id] == length, \
+                "Invalid alignment length," \
+                "this is probably due to re-tokenization of alignments"
+        form_id = row["Form_ID"]
+        segmented = forms[form_id]
+        stripped_alignment = [s for s in row["Alignment"] if s not in "-()"]
+        assert stripped_alignment == segmented, \
+            "The alignment and the form should not have different segments (at ID: {})" \
+                .format(form_id)
+
+
 def test_parameters(cldf_dataset):
     num_concepts = len(list(cldf_dataset["ParameterTable"]))
     expected_concepts = 142
