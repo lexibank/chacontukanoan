@@ -1,0 +1,1543 @@
+ID,TOKENS,GLOSS 3 ENGL,MODIFIED,GLOSA 1 PORT,COGID,PWT,GLOSA 2 ENGL,CONCEPT,IPA,PET,GLOSA 2 PORT,ALIGNMENT,COUNTERPART,GLOSA 3 PORT,CONTEXT,DOCULECT
+1,g o,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,1,PWT,GLOSA 2 ENGL,feminine,go,PET,GLOSA 2 PORT,g o,go,GLOSA 3 PORT,AX,BAS
+2,g o,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,1,PWT,GLOSA 2 ENGL,feminine,go,PET,GLOSA 2 PORT,g o,go,GLOSA 3 PORT,AX,DES
+3,o,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,1,PWT,GLOSA 2 ENGL,feminine,o,PET,GLOSA 2 PORT,- o,o,GLOSA 3 PORT,X,KAR
+4,o,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,1,PWT,GLOSA 2 ENGL,feminine,o,PET,GLOSA 2 PORT,- o,o,GLOSA 3 PORT,X,KOR
+5,k o,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,1,PWT,GLOSA 2 ENGL,feminine,ko,PET,GLOSA 2 PORT,k o,ko,GLOSA 3 PORT,AX,KUB
+6,o,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,1,PWT,GLOSA 2 ENGL,feminine,o,PET,GLOSA 2 PORT,- o,o,GLOSA 3 PORT,X,MAI
+7,k o,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,1,PWT,GLOSA 2 ENGL,feminine,ko,PET,GLOSA 2 PORT,k o,-ko,GLOSA 3 PORT,AX,PIR
+8,o,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,1,PWT,GLOSA 2 ENGL,feminine,o,PET,GLOSA 2 PORT,- o,o,GLOSA 3 PORT,X,SEK
+9,g o,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,1,PWT,GLOSA 2 ENGL,feminine,go,PET,GLOSA 2 PORT,g o,"go, ʔkho",GLOSA 3 PORT,AX,SIO
+10,g o,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,1,PWT,GLOSA 2 ENGL,feminine,go,PET,GLOSA 2 PORT,g o,go,GLOSA 3 PORT,AX,TUK
+11,k o,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,1,PWT,GLOSA 2 ENGL,feminine,ko,PET,GLOSA 2 PORT,k o,-ko,GLOSA 3 PORT,AX,WAN
+12,kʔ o,,TRUE,,1,,,feminine,*-kʔo,,,kʔ o,,,AX,*PT
+13,b ɨ,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,2,PWT,GLOSA 2 ENGL,non.3rd.animate.person,bɨ,PET,GLOSA 2 PORT,b ɨ,bɨ,GLOSA 3 PORT,AX,BAS
+14,b ɨ,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,2,PWT,GLOSA 2 ENGL,non.3rd.animate.person,bɨ,PET,GLOSA 2 PORT,b ɨ,bɨ,GLOSA 3 PORT,AX,DES
+15,w ɨ,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,2,PWT,GLOSA 2 ENGL,non.3rd.animate.person,wɨ,PET,GLOSA 2 PORT,w ɨ,wɨ,GLOSA 3 PORT,AX,KUB
+16,w ɨ,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,2,PWT,GLOSA 2 ENGL,non.3rd.animate.person,wɨ,PET,GLOSA 2 PORT,w ɨ,wɨ,GLOSA 3 PORT,AX,SEK
+17,w ɨ,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,2,PWT,GLOSA 2 ENGL,non.3rd.animate.person,wɨ,PET,GLOSA 2 PORT,w ɨ,~wɨ,GLOSA 3 PORT,AX,SIO
+18,p ɨ,GLOSS 3 ENGL,FALSE,GLOSA 1 PORT,2,PWT,GLOSA 2 ENGL,non.3rd.animate.person,pɨ,PET,GLOSA 2 PORT,p ɨ,-pɨ,GLOSA 3 PORT,AX,TUK
+19,pʔ ɨ,,TRUE,,2,,,non.3rd.animate.person,*-pʔɨ,,,pʔ ɨ,,,AX,*PT
+20,m ĩ,GLOSS 3 ENGL,FALSE,3a ps masc I,3,PWT,GLOSA 2 ENGL,3rd.person.masculine,~bi,PET,GLOSA 2 PORT,m ĩ,~bi,GLOSA 3 PORT,AX,BAS
+21,m ĩ,GLOSS 3 ENGL,FALSE,3a ps masc I,3,PWT,GLOSA 2 ENGL,3rd.person.masculine,~bi,PET,GLOSA 2 PORT,m ĩ,~bi,GLOSA 3 PORT,AX,DES
+22,b i,GLOSS 3 ENGL,FALSE,3a ps masc I,3,PWT,GLOSA 2 ENGL,3rd.person.masculine,bi,PET,GLOSA 2 PORT,b i,bi,GLOSA 3 PORT,AX,KUB
+23,p i,GLOSS 3 ENGL,FALSE,3a ps masc I,3,PWT,GLOSA 2 ENGL,3rd.person.masculine,pi,PET,GLOSA 2 PORT,p i,"pi, hi",GLOSA 3 PORT,AX,SEK
+24,m ĩ,GLOSS 3 ENGL,FALSE,3a ps masc I,3,PWT,GLOSA 2 ENGL,3rd.person.masculine,~bi,PET,GLOSA 2 PORT,m ĩ,-~bi,GLOSA 3 PORT,AX,TUK
+25,p i,,FALSE,,3,,,3rd.person.masculine,*-pi,,,p i,,,AX,*PT
+26,r e,GLOSS 3 ENGL,FALSE,Caso: Não-nominativo,4,PWT,GLOSA 2 ENGL,Case: non-nominatvie,re,PET,GLOSA 2 PORT,r e,re,GLOSA 3 PORT,AX,BAS
+27,d e,GLOSS 3 ENGL,FALSE,Caso: Não-nominativo,4,PWT,GLOSA 2 ENGL,Case: non-nominatvie,de,PET,GLOSA 2 PORT,d e,de,GLOSA 3 PORT,AX,DES
+28,r e,GLOSS 3 ENGL,FALSE,Caso: Não-nominativo,4,PWT,GLOSA 2 ENGL,Case: non-nominatvie,re,PET,GLOSA 2 PORT,r e,-re,GLOSA 3 PORT,AX,KAR
+29,r e,GLOSS 3 ENGL,FALSE,Caso: Não-nominativo,4,PWT,GLOSA 2 ENGL,Case: non-nominatvie,re,PET,GLOSA 2 PORT,r e,"re, ʔthe",GLOSA 3 PORT,AX,KOR
+30,d e,GLOSS 3 ENGL,FALSE,Caso: Não-nominativo,4,PWT,GLOSA 2 ENGL,Case: non-nominatvie,de,PET,GLOSA 2 PORT,d e,de,GLOSA 3 PORT,AX,KUB
+31,d e,GLOSS 3 ENGL,FALSE,Caso: Não-nominativo,4,PWT,GLOSA 2 ENGL,Case: non-nominatvie,de,PET,GLOSA 2 PORT,d e,de,GLOSA 3 PORT,AX,MAI
+32,r e,GLOSS 3 ENGL,FALSE,Caso: Não-nominativo,4,PWT,GLOSA 2 ENGL,Case: non-nominatvie,re,PET,GLOSA 2 PORT,r e,-re,GLOSA 3 PORT,AX,PIR
+33,r e,GLOSS 3 ENGL,FALSE,Caso: Não-nominativo,4,PWT,GLOSA 2 ENGL,Case: non-nominatvie,re,PET,GLOSA 2 PORT,r e,"re, te",GLOSA 3 PORT,AX,SEK
+34,r e,GLOSS 3 ENGL,FALSE,Caso: Não-nominativo,4,PWT,GLOSA 2 ENGL,Case: non-nominatvie,re,PET,GLOSA 2 PORT,r e,"re,  ʔthe",GLOSA 3 PORT,AX,SIO
+35,r e,GLOSS 3 ENGL,FALSE,Caso: Não-nominativo,4,PWT,GLOSA 2 ENGL,Case: non-nominatvie,re,PET,GLOSA 2 PORT,r e,re,GLOSA 3 PORT,AX,TAN
+36,r e,GLOSS 3 ENGL,FALSE,Caso: Não-nominativo,4,PWT,GLOSA 2 ENGL,Case: non-nominatvie,re,PET,GLOSA 2 PORT,r e,-re,GLOSA 3 PORT,AX,TUK
+37,r e,GLOSS 3 ENGL,FALSE,Caso: Não-nominativo,4,PWT,GLOSA 2 ENGL,Case: non-nominatvie,re,PET,GLOSA 2 PORT,r e,-re,GLOSA 3 PORT,AX,WAN
+38,tʔ e,,TRUE,,4,,,Case: non-nominatvie,*-tʔe,,,tʔ e,,,AX,*PT
+39,d o,GLOSS 3 ENGL,FALSE,locativo,5,PWT,GLOSA 2 ENGL,locative,do,PET,parto-of-a-whole,d o,do,GLOSA 3 PORT,AX,BAS
+40,d o,GLOSS 3 ENGL,FALSE,locativo,5,PWT,GLOSA 2 ENGL,locative,do,PET,parto-of-a-whole,d o,do,GLOSA 3 PORT,AX,DES
+41,d o,GLOSS 3 ENGL,FALSE,locativo,5,PWT,GLOSA 2 ENGL,locative,do,PET,parto-of-a-whole,d o,-do,GLOSA 3 PORT,AX,KAR
+42,n õ,GLOSS 3 ENGL,FALSE,locativo,5,PWT,GLOSA 2 ENGL,locative,~do,PET,parto-of-a-whole,n õ,~do,GLOSA 3 PORT,AX,KUB
+43,d o,GLOSS 3 ENGL,FALSE,locativo,5,PWT,GLOSA 2 ENGL,locative,do,PET,parto-of-a-whole,d o,do,GLOSA 3 PORT,AX,MAI
+44,d o,GLOSS 3 ENGL,FALSE,locativo,5,PWT,GLOSA 2 ENGL,locative,do,PET,parto-of-a-whole,d o,-do,GLOSA 3 PORT,AX,PIR
+45,r o,GLOSS 3 ENGL,FALSE,locativo,5,PWT,GLOSA 2 ENGL,locative,ro,PET,parto-of-a-whole,r o,"ro, to",GLOSA 3 PORT,AX,SEK
+46,r o,GLOSS 3 ENGL,FALSE,locativo,5,PWT,GLOSA 2 ENGL,locative,ro,PET,parto-of-a-whole,r o,"ro, ʔtho",GLOSA 3 PORT,AX,SIO
+47,d o,GLOSS 3 ENGL,FALSE,locativo,5,PWT,GLOSA 2 ENGL,locative,do,PET,parto-of-a-whole,d o,-do,GLOSA 3 PORT,AX,TUK
+48,d o,GLOSS 3 ENGL,FALSE,locativo,5,PWT,GLOSA 2 ENGL,locative,do,PET,parto-of-a-whole,d o,-do,GLOSA 3 PORT,AX,WAN
+49,tʔ o,,TRUE,,5,,,locative,*-tʔo,,,tʔ o,,,AX,*PT
+50,ã ɲ ã,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,~aja,PET,GLOSA 2 PORT,- ã ɲ ã,~aja,GLOSA 3 PORT,XBZ,BAS
+51,ã ɲ ã,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,~aja,PET,GLOSA 2 PORT,- ã ɲ ã,~aja,GLOSA 3 PORT,XBZ,DES
+52,ã ɲ ã,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,~aja,PET,GLOSA 2 PORT,- ã ɲ ã,~aja,GLOSA 3 PORT,XBZ,KAR
+53,ã j ã,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,ãjã,PET,GLOSA 2 PORT,- ã ɲ ã,ãjã,GLOSA 3 PORT,XBZ,KOR
+54,ã ɲ ã,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,~aja,PET,GLOSA 2 PORT,- ã ɲ ã,~aja,GLOSA 3 PORT,XBZ,KUB
+55,h a j a,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,haja,PET,GLOSA 2 PORT,h a j a,haja,GLOSA 3 PORT,AXBZ,KUE
+56,ã j ã,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,ãjã,PET,GLOSA 2 PORT,- ã ɲ ã,ãjã,GLOSA 3 PORT,XBZ,MAI
+57,ã ɲ ã,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,~aja,PET,GLOSA 2 PORT,- ã ɲ ã,~aja,GLOSA 3 PORT,XBZ,PIR
+58,ã j ã,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,ãjã,PET,GLOSA 2 PORT,- ã ɲ ã,ãjã,GLOSA 3 PORT,XBZ,SEK
+59,ã j ã,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,ãjã,PET,GLOSA 2 PORT,- ã ɲ ã,ãjã,GLOSA 3 PORT,XBZ,SIO
+60,ã ɲ ã,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,~aja,PET,GLOSA 2 PORT,- ã ɲ ã,~aja,GLOSA 3 PORT,XBZ,TAN
+61,ã ɲ ã,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,~aja,PET,GLOSA 2 PORT,- ã ɲ ã,~aja,GLOSA 3 PORT,XBZ,TUK
+62,ã ɲ ã,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,~aja,PET,GLOSA 2 PORT,- ã ɲ ã,~aja,GLOSA 3 PORT,XBZ,TUY
+63,ã ɲ ã,GLOSS 3 ENGL,FALSE,cobra,6,PWT,GLOSA 2 ENGL,snake,~aja,PET,GLOSA 2 PORT,- ã ɲ ã,~aja,GLOSA 3 PORT,XBZ,WAN
+64,ã j a,,FALSE,,6,,,snake,*ãja,,,- ã j a,,,XBZ,*PT
+65,a c i,GLOSS 3 ENGL,FALSE,quente,7,PWT,GLOSA 2 ENGL,hot,aci,PET,heat,- a - ts i - ( - - ),aci,GLOSA 3 PORT,XBZ,BAS
+66,a s i,GLOSS 3 ENGL,FALSE,quente,7,PWT,GLOSA 2 ENGL,hot,asi,PET,heat,- a - s i - ( - - ),asi,GLOSA 3 PORT,XBZ,DES
+67,a s i,GLOSS 3 ENGL,FALSE,quente,7,PWT,GLOSA 2 ENGL,hot,asi,PET,heat,- a - s i - ( - - ),asi,GLOSA 3 PORT,XBZ,KAR
+68,a s u,GLOSS 3 ENGL,FALSE,quente,7,PWT,GLOSA 2 ENGL,hot,asu,PET,heat,- a - s u - ( - - ),asu,GLOSA 3 PORT,XBZ,KOR
+69,h a t ɨ,GLOSS 3 ENGL,FALSE,quente,7,PWT,GLOSA 2 ENGL,hot,hatɨ,PET,heat,h a - t ɨ - ( - - ),hatɨ,GLOSA 3 PORT,AXBZ,KUE
+70,a t∫ u,GLOSS 3 ENGL,FALSE,quente,7,PWT,GLOSA 2 ENGL,hot,at∫u,PET,heat,- a - t∫ u - ( - - ),at∫u,GLOSA 3 PORT,XBZ,MAI
+71,h a ʔs u,GLOSS 3 ENGL,TRUE,quente,7,PWT,GLOSA 2 ENGL,hot,haʔsu,PET,heat,h a - ʔs u - ( - - ),haʔsu,GLOSA 3 PORT,AXBZ,SIO
+72,a s i,GLOSS 3 ENGL,FALSE,quente,7,PWT,GLOSA 2 ENGL,hot,asi,PET,heat,- a - s i - ( - - ),asi,GLOSA 3 PORT,XBZ,TUK
+73,a s i,GLOSS 3 ENGL,FALSE,quente,7,PWT,GLOSA 2 ENGL,hot,asi,PET,heat,- a - s i - ( - - ),asi,GLOSA 3 PORT,XBZ,TUY
+74,s i,GLOSS 3 ENGL,FALSE,quente,7,PWT,GLOSA 2 ENGL,hot,si,PET,heat,- - - s i - ( - - ),si,GLOSA 3 PORT,AX,WAN
+75,a h ts i a m a,GLOSS 3 ENGL,TRUE,quente,7,PWT,GLOSA 2 ENGL,hot,ahtsiama,PET,heat,- a h ts i a ( m a ),ahtsiama,GLOSA 3 PORT,XMBYYBZ,YUP
+76,a tj ɨ,,FALSE,,7,,,hot,*atjɨ,,,- a - ts ɨ - ( - - ),,,XBZ,*PT
+77,ĩ ŋ ẽ,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,~ige,PET,GLOSA 2 PORT,- ĩ ŋ ẽ - -,~ige,GLOSA 3 PORT,XBZ,BAS
+78,ĩ ʔŋ ĩ,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,~iʔgi,PET,GLOSA 2 PORT,- ĩ ʔŋ ĩ - -,~iʔgi,GLOSA 3 PORT,XBZ,DES
+79,ɨ̃ k ẽ,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,~ɨke,PET,GLOSA 2 PORT,- ɨ̃ k ẽ - -,~ɨke,GLOSA 3 PORT,XBZ,KAR
+80,ɨ̃ kh e,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,ɨ̃khe,PET,GLOSA 2 PORT,- ɨ̃ kh e - -,ɨ̃khe,GLOSA 3 PORT,XBZ,KOR
+81,ũ e k a,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,ũeka,PET,GLOSA 2 PORT,- ũ - e k a,ũeka,GLOSA 3 PORT,XYBZ,KUB
+82,k o m e,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,kome,PET,GLOSA 2 PORT,k o m e - -,kome,GLOSA 3 PORT,AXBZ,KUE
+83,ũ k u e,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,ũkue,PET,GLOSA 2 PORT,- ũ kw e - -,ũkue,GLOSA 3 PORT,XBYZ,MAI
+84,õ kw e,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,õkwe,PET,GLOSA 2 PORT,- õ kw e - -,õkwe,GLOSA 3 PORT,XBCZ,SEK
+85,ũ k u e,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,ũkue,PET,GLOSA 2 PORT,- ũ kw e - -,ũkue,GLOSA 3 PORT,XBYZ,SIO
+86,õ m ẽ,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,~obe,PET,GLOSA 2 PORT,- õ m ẽ - -,~obe,GLOSA 3 PORT,XBZ,TAN
+87,ẽ ʔk ẽ,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,~eʔke,PET,GLOSA 2 PORT,- ẽ ʔk ẽ - -,~eʔke,GLOSA 3 PORT,XBZ,TUK
+88,ẽ k ẽ ã,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,~ekea,PET,GLOSA 2 PORT,- ẽ k ẽ ã -,~ekea,GLOSA 3 PORT,XBYZ,TUY
+89,k ẽ,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,~ke,PET,GLOSA 2 PORT,- - k ẽ - -,~ke,GLOSA 3 PORT,AX,WAN
+90,ɨ g ɨ,GLOSS 3 ENGL,FALSE,nariz,8,PWT,GLOSA 2 ENGL,nose,ɨgɨ,PET,GLOSA 2 PORT,- ɨ g ɨ - -,ɨgɨ,GLOSA 3 PORT,XBZ,YUP
+91,ɨ̃ kwʔ e,,TRUE,,8,,,nose,*ɨ̃kwʔe,,,- ɨ̃ kwʔ e - -,,,XBZ,*PT
+92,ɨ̃ m ɨ̃,GLOSS 3 ENGL,FALSE,homem,9,PWT,GLOSA 2 ENGL,man,~ɨbɨ,PET,GLOSA 2 PORT,ɨ̃ m ɨ̃,~ɨbɨ,GLOSA 3 PORT,XBZ,BAS
+93,ɨ̃ m ɨ̃,GLOSS 3 ENGL,FALSE,homem,9,PWT,GLOSA 2 ENGL,man,~ɨbɨ,PET,GLOSA 2 PORT,ɨ̃ m ɨ̃,~ɨbɨ,GLOSA 3 PORT,XBZ,DES
+94,m ɨ̃,GLOSS 3 ENGL,FALSE,homem,9,PWT,GLOSA 2 ENGL,man,~bɨ,PET,GLOSA 2 PORT,- m ɨ̃,~bɨ,GLOSA 3 PORT,AX,KAR
+95,ɨ m ɨ,GLOSS 3 ENGL,FALSE,homem,9,PWT,GLOSA 2 ENGL,man,ɨmɨ,PET,GLOSA 2 PORT,ɨ m ɨ,ɨmɨ,GLOSA 3 PORT,XBZ,KOR
+96,ɨ̃ m ɨ̃,GLOSS 3 ENGL,FALSE,homem,9,PWT,GLOSA 2 ENGL,man,~ɨbɨ,PET,GLOSA 2 PORT,ɨ̃ m ɨ̃,~ɨbɨ,GLOSA 3 PORT,XBZ,KUB
+97,ɨ m ɨ,GLOSS 3 ENGL,FALSE,homem,9,PWT,GLOSA 2 ENGL,man,ɨmɨ,PET,GLOSA 2 PORT,ɨ m ɨ,ɨmɨ,GLOSA 3 PORT,XBZ,MAI
+98,ɨ̃ m ɨ̃,GLOSS 3 ENGL,FALSE,homem,9,PWT,GLOSA 2 ENGL,man,ɨ̃mɨ̃,PET,GLOSA 2 PORT,ɨ̃ m ɨ̃,ɨ̃mɨ̃,GLOSA 3 PORT,XBZ,SEK
+99,ɨ m ɨ,GLOSS 3 ENGL,FALSE,homem,9,PWT,GLOSA 2 ENGL,man,ɨmɨ,PET,GLOSA 2 PORT,ɨ m ɨ,ɨmɨ,GLOSA 3 PORT,XBZ,SIO
+100,ɨ̃ m ɨ̃,GLOSS 3 ENGL,FALSE,homem,9,PWT,GLOSA 2 ENGL,man,~ɨbɨ,PET,GLOSA 2 PORT,ɨ̃ m ɨ̃,~ɨbɨ,GLOSA 3 PORT,XBZ,TAN
+101,ɨ̃ m ɨ̃,GLOSS 3 ENGL,FALSE,homem,9,PWT,GLOSA 2 ENGL,man,~ɨbɨ,PET,GLOSA 2 PORT,ɨ̃ m ɨ̃,~ɨbɨ,GLOSA 3 PORT,XBZ,TUK
+102,ɨ̃ m ɨ̃,GLOSS 3 ENGL,FALSE,homem,9,PWT,GLOSA 2 ENGL,man,~ɨbɨ,PET,GLOSA 2 PORT,ɨ̃ m ɨ̃,~ɨbɨ,GLOSA 3 PORT,XBZ,TUY
+103,ɨ̃ m ɨ̃,GLOSS 3 ENGL,FALSE,homem,9,PWT,GLOSA 2 ENGL,man,~ɨbɨ,PET,GLOSA 2 PORT,ɨ̃ m ɨ̃,~ɨbɨ,GLOSA 3 PORT,XBZ,WAN
+104,ɨ m ɨ,,FALSE,,9,,,man,*ɨmɨ,,,ɨ m ɨ,,,XBZ,*PT
+105,ɨ̃ n ẽ,GLOSS 3 ENGL,FALSE,pupunha,10,PWT,GLOSA 2 ENGL,pupunha,~ɨde,PET,GLOSA 2 PORT,ɨ̃ n ẽ,~ɨde,GLOSA 3 PORT,XBZ,BAS
+106,ɨ̃ n ĩ,GLOSS 3 ENGL,FALSE,pupunha,10,PWT,GLOSA 2 ENGL,pupunha,~ɨdi,PET,GLOSA 2 PORT,ɨ̃ n ĩ,~ɨdi,GLOSA 3 PORT,XBZ,DES
+107,ɨ̃ n ẽ,GLOSS 3 ENGL,FALSE,pupunha,10,PWT,GLOSA 2 ENGL,pupunha,~ɨde,PET,GLOSA 2 PORT,ɨ̃ n ẽ,~ɨde,GLOSA 3 PORT,XBZ,KAR
+108,ɨ n e,GLOSS 3 ENGL,FALSE,pupunha,10,PWT,GLOSA 2 ENGL,pupunha,ɨne,PET,GLOSA 2 PORT,ɨ n e,ɨne,GLOSA 3 PORT,XBZ,KOR
+109,ɨ̃ n ẽ,GLOSS 3 ENGL,FALSE,pupunha,10,PWT,GLOSA 2 ENGL,pupunha,~ɨde,PET,GLOSA 2 PORT,ɨ̃ n ẽ,~ɨde,GLOSA 3 PORT,XBZ,KUB
+110,ɨ ʔn e,GLOSS 3 ENGL,FALSE,pupunha,10,PWT,GLOSA 2 ENGL,pupunha,ɨʔne,PET,GLOSA 2 PORT,ɨ ʔn e,ɨʔne,GLOSA 3 PORT,XBZ,KUE
+111,ɨ̃ n ẽ,GLOSS 3 ENGL,FALSE,pupunha,10,PWT,GLOSA 2 ENGL,pupunha,~ɨde,PET,GLOSA 2 PORT,ɨ̃ n ẽ,~ɨde,GLOSA 3 PORT,XBZ,PIR
+112,ɨ n e,GLOSS 3 ENGL,FALSE,pupunha,10,PWT,GLOSA 2 ENGL,pupunha,ɨne,PET,GLOSA 2 PORT,ɨ n e,ɨne,GLOSA 3 PORT,XBZ,SIO
+113,ĩ r̃ ẽ,GLOSS 3 ENGL,FALSE,pupunha,10,PWT,GLOSA 2 ENGL,pupunha,~ire,PET,GLOSA 2 PORT,ĩ r ẽ,~ire,GLOSA 3 PORT,XBZ,TAN
+114,ɨ̃ n ẽ,GLOSS 3 ENGL,FALSE,pupunha,10,PWT,GLOSA 2 ENGL,pupunha,~ɨde,PET,GLOSA 2 PORT,ɨ̃ n ẽ,~ɨde,GLOSA 3 PORT,XBZ,TUK
+115,ɨ̃ n ẽ,GLOSS 3 ENGL,FALSE,pupunha,10,PWT,GLOSA 2 ENGL,pupunha,~ɨde,PET,GLOSA 2 PORT,ɨ̃ n ẽ,~ɨde,GLOSA 3 PORT,XBZ,WAN
+116,ɨ n e,,FALSE,,10,,,pupunha,*ɨne,,,ɨ n e,,,XBZ,*PT
+117,i d i a,GLOSS 3 ENGL,FALSE,três,11,PWT,GLOSA 2 ENGL,three,idia,*ɨtʔia,GLOSA 2 PORT,i d i a,idia,GLOSA 3 PORT,XBYZ,BAS
+118,ɨ ʔd e,GLOSS 3 ENGL,FALSE,três,11,PWT,GLOSA 2 ENGL,three,ɨʔde,*ɨtʔia,GLOSA 2 PORT,ɨ ʔd - e,ɨʔde,GLOSA 3 PORT,XBZ,DES
+119,i t i a,GLOSS 3 ENGL,FALSE,três,11,PWT,GLOSA 2 ENGL,three,itia,*ɨtʔia,GLOSA 2 PORT,i t i a,itia,GLOSA 3 PORT,XBYZ,KUE
+120,i ʔt i a,GLOSS 3 ENGL,FALSE,três,11,PWT,GLOSA 2 ENGL,three,iʔtia,*ɨtʔia,GLOSA 2 PORT,i ʔt i a,iʔtia,GLOSA 3 PORT,XBYZ,TUK
+121,i t i a,GLOSS 3 ENGL,FALSE,três,11,PWT,GLOSA 2 ENGL,three,itia,*ɨtʔia,GLOSA 2 PORT,i t i a,itia,GLOSA 3 PORT,XBYZ,TUY
+122,t i a,GLOSS 3 ENGL,FALSE,três,11,PWT,GLOSA 2 ENGL,three,tia,*ɨtʔia,GLOSA 2 PORT,- t i a,tia,GLOSA 3 PORT,AXZ,WAN
+123,ɨ tʔ i a,,TRUE,,11,,,three,*ɨtʔia,,,ɨ tʔ i a,,,XBYZ,*PT
+124,ɨ j e,GLOSS 3 ENGL,FALSE,cucura,12,PWT,GLOSA 2 ENGL,grape,ɨje,PET,GLOSA 2 PORT,ɨ j e -,ɨje,GLOSA 3 PORT,XBZ,BAS
+125,i g i,GLOSS 3 ENGL,FALSE,cucura,12,PWT,GLOSA 2 ENGL,grape,igi,PET,GLOSA 2 PORT,i g i -,igi,GLOSA 3 PORT,XBZ,DES
+126,ɨ s e,GLOSS 3 ENGL,FALSE,cucura,12,PWT,GLOSA 2 ENGL,grape,ɨse,PET,GLOSA 2 PORT,ɨ s e -,ɨse,GLOSA 3 PORT,XBZ,KAR
+127,ɨ j e,GLOSS 3 ENGL,FALSE,cucura,12,PWT,GLOSA 2 ENGL,grape,ɨje,PET,GLOSA 2 PORT,ɨ j e -,ɨje,GLOSA 3 PORT,XBZ,KOR
+128,ɨ́ j a i,GLOSS 3 ENGL,FALSE,cucura,12,PWT,GLOSA 2 ENGL,grape,ɨ́jai,PET,GLOSA 2 PORT,ɨ́ j a i,ɨ́jai,GLOSA 3 PORT,XBYZ,KUB
+129,e d e,GLOSS 3 ENGL,FALSE,cucura,12,PWT,GLOSA 2 ENGL,grape,ede,PET,GLOSA 2 PORT,e d e -,ede,GLOSA 3 PORT,XBZ,MAI
+130,ɨ j e,GLOSS 3 ENGL,FALSE,cucura,12,PWT,GLOSA 2 ENGL,grape,ɨje,PET,GLOSA 2 PORT,ɨ j e -,ɨje,GLOSA 3 PORT,XBZ,SIO
+131,ɨ ʔs e,GLOSS 3 ENGL,FALSE,cucura,12,PWT,GLOSA 2 ENGL,grape,ɨʔse,PET,GLOSA 2 PORT,ɨ ʔs e -,ɨʔse,GLOSA 3 PORT,XBZ,TUK
+132,ɨ s e,GLOSS 3 ENGL,FALSE,cucura,12,PWT,GLOSA 2 ENGL,grape,ɨse,PET,GLOSA 2 PORT,ɨ s e -,ɨse,GLOSA 3 PORT,XBZ,TUY
+133,s e,GLOSS 3 ENGL,FALSE,cucura,12,PWT,GLOSA 2 ENGL,grape,se,PET,GLOSA 2 PORT,- s e -,se,GLOSA 3 PORT,AX,WAN
+134,ɨ ʔj e,,TRUE,,12,,,grape,*ɨʔje,,,ɨ ʔj e -,,,XBZ,*PT
+135,j e h e,GLOSS 3 ENGL,FALSE,garça,13,PWT,GLOSA 2 ENGL,heron,jehe,PET,GLOSA 2 PORT,j e h e,jehe,GLOSA 3 PORT,AXBZ,BAS
+136,j a h i,GLOSS 3 ENGL,FALSE,garça,13,PWT,GLOSA 2 ENGL,heron,jahi,PET,GLOSA 2 PORT,j a h i,jahi,GLOSA 3 PORT,AXBZ,DES
+137,j e e,GLOSS 3 ENGL,FALSE,garça,13,PWT,GLOSA 2 ENGL,heron,jee,PET,GLOSA 2 PORT,j e - e,jee,GLOSA 3 PORT,AXZ,KAR
+138,j a i,GLOSS 3 ENGL,FALSE,garça,13,PWT,GLOSA 2 ENGL,heron,jai,PET,GLOSA 2 PORT,j a - i,jai,GLOSA 3 PORT,AXZ,KUB
+139,j a i,GLOSS 3 ENGL,FALSE,garça,13,PWT,GLOSA 2 ENGL,heron,jai,PET,GLOSA 2 PORT,j a - i,jai,GLOSA 3 PORT,AXZ,MAI
+140,j a i,GLOSS 3 ENGL,FALSE,garça,13,PWT,GLOSA 2 ENGL,heron,jai,PET,GLOSA 2 PORT,j a - i,jai,GLOSA 3 PORT,AXZ,SEK
+141,j a h e,GLOSS 3 ENGL,FALSE,garça,13,PWT,GLOSA 2 ENGL,heron,jahe,PET,GLOSA 2 PORT,j a h e,jahe,GLOSA 3 PORT,AXBZ,TUK
+142,j e e,GLOSS 3 ENGL,FALSE,garça,13,PWT,GLOSA 2 ENGL,heron,yee,PET,GLOSA 2 PORT,j e - e,yee,GLOSA 3 PORT,AXZ,TUY
+143,j a h a,GLOSS 3 ENGL,FALSE,garça,13,PWT,GLOSA 2 ENGL,heron,jaha,PET,GLOSA 2 PORT,j a h a,jaha,GLOSA 3 PORT,AXBZ,WAN
+144,j a h i,,FALSE,,13,,,heron,*jahi,,,j a h i,,,AXBZ,*PT
+145,j a i,GLOSS 3 ENGL,FALSE,onça,14,PWT,GLOSA 2 ENGL,jaguar,jai,PET,GLOSA 2 PORT,( - - ) j a - i ( - ),jai,GLOSA 3 PORT,AXZ,BAS
+146,j e e,GLOSS 3 ENGL,FALSE,onça,14,PWT,GLOSA 2 ENGL,jaguar,jee,PET,GLOSA 2 PORT,( - - ) j e - e ( - ),jee,GLOSA 3 PORT,AXZ,DES
+147,j a i,GLOSS 3 ENGL,FALSE,onça,14,PWT,GLOSA 2 ENGL,jaguar,jai,PET,GLOSA 2 PORT,( - - ) j a - i ( - ),jai,GLOSA 3 PORT,AXZ,KAR
+148,j a i,GLOSS 3 ENGL,FALSE,onça,14,PWT,GLOSA 2 ENGL,jaguar,jai,PET,GLOSA 2 PORT,( - - ) j a - i ( - ),jai,GLOSA 3 PORT,AXZ,KOR
+149,j a w i,GLOSS 3 ENGL,FALSE,onça,14,PWT,GLOSA 2 ENGL,jaguar,jawi,PET,GLOSA 2 PORT,( - - ) j a w i ( - ),jawi,GLOSA 3 PORT,AXBZ,KUB
+150,h i j a i,GLOSS 3 ENGL,FALSE,onça,14,PWT,GLOSA 2 ENGL,jaguar,hijai,PET,GLOSA 2 PORT,( h i ) j a - i ( - ),hijai,GLOSA 3 PORT,AXBYZ,KUE
+151,j a i,GLOSS 3 ENGL,FALSE,onça,14,PWT,GLOSA 2 ENGL,jaguar,jai,PET,GLOSA 2 PORT,( - - ) j a - i ( - ),jai,GLOSA 3 PORT,AXZ,MAI
+152,j a i,GLOSS 3 ENGL,FALSE,onça,14,PWT,GLOSA 2 ENGL,jaguar,jai,PET,GLOSA 2 PORT,( - - ) j a - i ( - ),jai,GLOSA 3 PORT,AXZ,SEK
+153,j a i,GLOSS 3 ENGL,FALSE,onça,14,PWT,GLOSA 2 ENGL,jaguar,jai,PET,GLOSA 2 PORT,( - - ) j a - i ( - ),jai,GLOSA 3 PORT,AXZ,SIO
+154,j a i a,GLOSS 3 ENGL,FALSE,onça,14,PWT,GLOSA 2 ENGL,jaguar,jaia,PET,GLOSA 2 PORT,( - - ) j a - i ( a ),jaia,GLOSA 3 PORT,AXYZ,TAN
+155,j a i,GLOSS 3 ENGL,FALSE,onça,14,PWT,GLOSA 2 ENGL,jaguar,jai,PET,GLOSA 2 PORT,( - - ) j a - i ( - ),jai,GLOSA 3 PORT,AXZ,TUK
+156,j a i,GLOSS 3 ENGL,FALSE,onça,14,PWT,GLOSA 2 ENGL,jaguar,jai,PET,GLOSA 2 PORT,( - - ) j a - i ( - ),jai,GLOSA 3 PORT,AXZ,WAN
+157,j a i,,TRUE,,14,,,jaguar,*jai,,,( - - ) j a - i ( - ),,,AXZ,*PT
+158,ã ʔŋ ĩ,GLOSS 3 ENGL,FALSE,centopéia,15,PWT,boa (kub),centipede,~aʔgi,*jãkʔi,jibóia (kub),- ã ʔŋ ĩ ( - - - - ),~aʔgi,GLOSA 3 PORT,XBZ,DES
+159,a w i m e k ɨ,GLOSS 3 ENGL,FALSE,centopéia,15,PWT,boa (kub),centipede,ãi,*jãkʔi,jibóia (kub),- a w i ( m e k ɨ ),ãi,GLOSA 3 PORT,XBYBYBZ,KUB
+160,ã ʔk ĩ,GLOSS 3 ENGL,FALSE,centopéia,15,PWT,boa (kub),centipede,~aʔki,*jãkʔi,jibóia (kub),- ã ʔk ĩ ( - - - - ),~aʔki,GLOSA 3 PORT,XBZ,TUK
+161,m ũ n ĩ,GLOSS 3 ENGL,FALSE,centopéia,146,PWT,boa (kub),centipede,~budi,*jãkʔi,jibóia (kub),m ũ n ĩ ( - - - - ),~budi,GLOSA 3 PORT,AXBZ,TUY
+162,ɲ ã ʔk ĩ,GLOSS 3 ENGL,FALSE,centopéia,15,PWT,boa (kub),centipede,~jaʔki,*jãkʔi,jibóia (kub),ɲ ã ʔk ĩ ( - - - - ),~jaʔki,GLOSA 3 PORT,AXBZ,WAN
+163,j ã kʔ i,,TRUE,,15,,,centipede,*jãkʔi,,,ɲ ã kʔ i ( - - - - ),,,AXBZ,*PT
+164,ɲ ã m ã,GLOSS 3 ENGL,FALSE,veado,16,PWT,GLOSA 2 ENGL,deer,~jaba,PET,GLOSA 2 PORT,ɲ ã m ã,~jaba,GLOSA 3 PORT,AXBZ,BAS
+165,ɲ ã m ã,GLOSS 3 ENGL,FALSE,veado,16,PWT,GLOSA 2 ENGL,deer,~jaba,PET,GLOSA 2 PORT,ɲ ã m ã,~jaba,GLOSA 3 PORT,AXBZ,DES
+166,ɲ ã m ã,GLOSS 3 ENGL,FALSE,veado,16,PWT,GLOSA 2 ENGL,deer,~jaba,PET,GLOSA 2 PORT,ɲ ã m ã,~jaba,GLOSA 3 PORT,AXBZ,KAR
+167,j ã m a,GLOSS 3 ENGL,FALSE,veado,16,PWT,GLOSA 2 ENGL,deer,jãma,PET,GLOSA 2 PORT,ɲ ã m a,jãma,GLOSA 3 PORT,AXBZ,KOR
+168,ɲ ã m ã,GLOSS 3 ENGL,FALSE,veado,16,PWT,GLOSA 2 ENGL,deer,~jaba,PET,GLOSA 2 PORT,ɲ ã m ã,~jaba,GLOSA 3 PORT,AXBZ,KUB
+169,j ã m a,GLOSS 3 ENGL,FALSE,veado,16,PWT,GLOSA 2 ENGL,deer,jãma,PET,GLOSA 2 PORT,ɲ ã m a,jãma,GLOSA 3 PORT,AXBZ,KUE
+170,j ã m a,GLOSS 3 ENGL,FALSE,veado,16,PWT,GLOSA 2 ENGL,deer,jãma,PET,GLOSA 2 PORT,ɲ ã m a,jãma,GLOSA 3 PORT,AXBZ,SEK
+171,j ã m a,GLOSS 3 ENGL,FALSE,veado,16,PWT,GLOSA 2 ENGL,deer,jãma,PET,GLOSA 2 PORT,ɲ ã m a,jãma,GLOSA 3 PORT,AXBZ,SIO
+172,ɲ ã m ã,GLOSS 3 ENGL,FALSE,veado,16,PWT,GLOSA 2 ENGL,deer,~jaba,PET,GLOSA 2 PORT,ɲ ã m ã,~jaba,GLOSA 3 PORT,AXBZ,TAN
+173,ɲ ã m ã,GLOSS 3 ENGL,FALSE,veado,16,PWT,GLOSA 2 ENGL,deer,~jaba,PET,GLOSA 2 PORT,ɲ ã m ã,~jaba,GLOSA 3 PORT,AXBZ,TUK
+174,ɲ ã m ã,GLOSS 3 ENGL,FALSE,veado,16,PWT,GLOSA 2 ENGL,deer,~jaba,PET,GLOSA 2 PORT,ɲ ã m ã,~jaba,GLOSA 3 PORT,AXBZ,TUY
+175,ɲ ã m ã,GLOSS 3 ENGL,FALSE,veado,16,PWT,GLOSA 2 ENGL,deer,~jaba,PET,GLOSA 2 PORT,ɲ ã m ã,~jaba,GLOSA 3 PORT,AXBZ,WAN
+176,j a m a,,FALSE,,16,,,deer,*jama,,,j a m a,,,AXBZ,*PT
+177,ɲ ã m õ,GLOSS 3 ENGL,FALSE,nhame,17,PWT,GLOSA 2 ENGL,yam,~jabo,PET,GLOSA 2 PORT,ɲ ã m õ,~jabo,GLOSA 3 PORT,AXBZ,BAS
+178,ɲ ã ʔb õ,GLOSS 3 ENGL,FALSE,nhame,17,PWT,GLOSA 2 ENGL,yam,~jaʔbo,PET,GLOSA 2 PORT,ɲ ã ʔm õ,~jaʔbo,GLOSA 3 PORT,AXBZ,DES
+179,ɲ ã m õ,GLOSS 3 ENGL,FALSE,nhame,17,PWT,GLOSA 2 ENGL,yam,~jabo,PET,GLOSA 2 PORT,ɲ ã m õ,~jabo,GLOSA 3 PORT,AXBZ,KAR
+180,j ã h o,GLOSS 3 ENGL,FALSE,nhame,17,PWT,GLOSA 2 ENGL,yam,jãho,PET,GLOSA 2 PORT,ɲ ã h o,jãho,GLOSA 3 PORT,AXBZ,KOR
+181,ɲ ã m ũ,GLOSS 3 ENGL,FALSE,nhame,17,PWT,GLOSA 2 ENGL,yam,~jabu,PET,GLOSA 2 PORT,ɲ ã m ũ,~jabu,GLOSA 3 PORT,AXBZ,KUB
+182,j a u,GLOSS 3 ENGL,FALSE,nhame,17,PWT,GLOSA 2 ENGL,yam,jau,PET,GLOSA 2 PORT,j a - u,jau,GLOSA 3 PORT,AXZ,KUE
+183,j ã h o,GLOSS 3 ENGL,FALSE,nhame,17,PWT,GLOSA 2 ENGL,yam,jãho,PET,GLOSA 2 PORT,ɲ ã h o,jãho,GLOSA 3 PORT,AXBZ,MAI
+184,j ã h o,GLOSS 3 ENGL,FALSE,nhame,17,PWT,GLOSA 2 ENGL,yam,jãho,PET,GLOSA 2 PORT,ɲ ã h o,jãho,GLOSA 3 PORT,AXBZ,SIO
+185,ɲ ã ʔb ũ,GLOSS 3 ENGL,FALSE,nhame,17,PWT,GLOSA 2 ENGL,yam,~jaʔbu,PET,GLOSA 2 PORT,ɲ ã ʔm ũ,~jaʔbu,GLOSA 3 PORT,AXBZ,TAN
+186,ɲ ã ʔb ũ,GLOSS 3 ENGL,FALSE,nhame,17,PWT,GLOSA 2 ENGL,yam,~jaʔbu,PET,GLOSA 2 PORT,ɲ ã ʔm ũ,~jaʔbu,GLOSA 3 PORT,AXBZ,TUK
+187,ɲ ã m ũ,GLOSS 3 ENGL,FALSE,nhame,17,PWT,GLOSA 2 ENGL,yam,~jabu,PET,GLOSA 2 PORT,ɲ ã m ũ,~jabu,GLOSA 3 PORT,AXBZ,TUY
+188,ɲ ã ʔb ũ,GLOSS 3 ENGL,FALSE,nhame,17,PWT,GLOSA 2 ENGL,yam,~jaʔbu,PET,GLOSA 2 PORT,ɲ ã ʔm ũ,~jaʔbu,GLOSA 3 PORT,AXBZ,WAN
+189,j ã pʔ o,,TRUE,,17,,,yam,*jãpʔo,,,ɲ ã pʔ o,,,AXBZ,*PT
+190,ɲ ã h ĩ,GLOSS 3 ENGL,FALSE,Cará,18,PWT,GLOSA 2 ENGL,cará(Dioscorea alata),~jahi,PET,GLOSA 2 PORT,ɲ ã h ĩ ( - - ),~jahi,GLOSA 3 PORT,AXBZ,BAS
+191,ɲ ã p ĩ,GLOSS 3 ENGL,FALSE,Cará,18,PWT,GLOSA 2 ENGL,cará(Dioscorea alata),~japi,PET,GLOSA 2 PORT,ɲ ã p ĩ ( - - ),~japi,GLOSA 3 PORT,AXBZ,DES
+192,ɲ ã p ĩ,GLOSS 3 ENGL,FALSE,Cará,18,PWT,GLOSA 2 ENGL,cará(Dioscorea alata),~japi,PET,GLOSA 2 PORT,ɲ ã p ĩ ( - - ),~japi,GLOSA 3 PORT,AXBZ,KAR
+193,j a h i,GLOSS 3 ENGL,FALSE,Cará,18,PWT,GLOSA 2 ENGL,cará(Dioscorea alata),jahi,PET,GLOSA 2 PORT,j a h i ( - - ),jahi,GLOSA 3 PORT,AXBZ,KOR
+194,ɲ ã p ĩ,GLOSS 3 ENGL,FALSE,Cará,18,PWT,GLOSA 2 ENGL,cará(Dioscorea alata),~japi,PET,GLOSA 2 PORT,ɲ ã p ĩ ( - - ),~japi,GLOSA 3 PORT,AXBZ,KUB
+195,j a h i r i,GLOSS 3 ENGL,FALSE,Cará,18,PWT,GLOSA 2 ENGL,cará(Dioscorea alata),jahiri,PET,GLOSA 2 PORT,j a h i ( r i ),jahiri,GLOSA 3 PORT,AXBYBZ,KUE
+196,j a h i,GLOSS 3 ENGL,FALSE,Cará,18,PWT,GLOSA 2 ENGL,cará(Dioscorea alata),jahi,PET,GLOSA 2 PORT,j a h i ( - - ),jahi,GLOSA 3 PORT,AXBZ,SEK
+197,ɲ ã ʔp ĩ,GLOSS 3 ENGL,FALSE,Cará,18,PWT,GLOSA 2 ENGL,cará(Dioscorea alata),~jaʔpi,PET,GLOSA 2 PORT,ɲ ã ʔp ĩ ( - - ),~jaʔpi,GLOSA 3 PORT,AXBZ,TAN
+198,ɲ ã p ĩ,GLOSS 3 ENGL,FALSE,Cará,18,PWT,GLOSA 2 ENGL,cará(Dioscorea alata),~japi,PET,GLOSA 2 PORT,ɲ ã p ĩ ( - - ),~japi,GLOSA 3 PORT,AXBZ,TUK
+199,ɲ ã p ĩ,GLOSS 3 ENGL,FALSE,Cará,18,PWT,GLOSA 2 ENGL,cará(Dioscorea alata),~japi,PET,GLOSA 2 PORT,ɲ ã p ĩ ( - - ),~japi,GLOSA 3 PORT,AXBZ,WAN
+200,j a p i,,FALSE,,18,,,cará(Dioscorea alata),*japi,,,j a p i ( - - ),,,AXBZ,*PT
+201,ɲ ĩ k ɨ̃,GLOSS 3 ENGL,FALSE,avô,19,PWT,GLOSA 2 ENGL,grand-father,~jikɨ,PET,GLOSA 2 PORT,ɲ ĩ k ɨ̃ ( - - ),~jikɨ,GLOSA 3 PORT,AXBZ,BAS
+202,ɲ ẽ k ɨ̃,GLOSS 3 ENGL,FALSE,avô,19,PWT,GLOSA 2 ENGL,grand-father,~jekɨ,PET,GLOSA 2 PORT,ɲ ẽ k ɨ̃ ( - - ),~jekɨ,GLOSA 3 PORT,AXBZ,DES
+203,ɲ ĩ k ɨ̃,GLOSS 3 ENGL,FALSE,avô,19,PWT,GLOSA 2 ENGL,grand-father,~jikɨ,PET,GLOSA 2 PORT,ɲ ĩ k ɨ̃ ( - - ),~jikɨ,GLOSA 3 PORT,AXBZ,KAR
+204,j ẽ k u ɨ,GLOSS 3 ENGL,FALSE,avô,19,PWT,GLOSA 2 ENGL,grand-father,jẽkuɨ,PET,GLOSA 2 PORT,j ẽ k u ( ɨ - ),jẽkuɨ,GLOSA 3 PORT,AXBYZ,KOR
+205,ɲ ẽ k ũ j õ,GLOSS 3 ENGL,FALSE,avô,19,PWT,GLOSA 2 ENGL,grand-father,~jekũjo,PET,GLOSA 2 PORT,ɲ ẽ k ũ ( j o ),~jekũjo,GLOSA 3 PORT,AXBYBZ,KUB
+206,j ẽ k ɨ,GLOSS 3 ENGL,FALSE,avô,19,PWT,GLOSA 2 ENGL,grand-father,jẽkɨ,PET,GLOSA 2 PORT,j ẽ k ɨ ( - - ),jẽkɨ,GLOSA 3 PORT,AXBZ,MAI
+207,ɲ ẽ k ɨ̃,GLOSS 3 ENGL,FALSE,avô,19,PWT,GLOSA 2 ENGL,grand-father,~jekɨ,PET,GLOSA 2 PORT,ɲ ẽ k ɨ̃ ( - - ),~jekɨ,GLOSA 3 PORT,AXBZ,TUK
+208,ɲ ẽ k ɨ̃,GLOSS 3 ENGL,FALSE,avô,19,PWT,GLOSA 2 ENGL,grand-father,~jekɨ,PET,GLOSA 2 PORT,ɲ ẽ k ɨ̃ ( - - ),~jekɨ,GLOSA 3 PORT,AXBZ,TUY
+209,ɲ ɨ̃ t∫ ɨ̃,GLOSS 3 ENGL,FALSE,avô,19,PWT,GLOSA 2 ENGL,grand-father,~jɨt∫ɨ,PET,GLOSA 2 PORT,ɲ ɨ̃ t∫ ɨ̃ ( - - ),~jɨt∫ɨ,GLOSA 3 PORT,AXBZ,WAN
+210,j ẽ kk u,,TRUE,,19,,,grand-father,*jẽkku-,,,j ẽ kk u ( - - ),,,AXBZ,*PT
+211,j e b a,low (kub),FALSE,terra,20,PWT,GLOSA 2 ENGL,land,jeba,PET,GLOSA 2 PORT,j e b a,jeba,baixo (kubo),AXBZ,BAS
+212,j e b a,low (kub),FALSE,terra,20,PWT,GLOSA 2 ENGL,land,jeba,PET,GLOSA 2 PORT,j e b a,jeeba,baixo (kubo),AXBZ,DES
+213,j e p a,low (kub),FALSE,terra,20,PWT,GLOSA 2 ENGL,land,jepa,PET,GLOSA 2 PORT,j e p a,jepa,baixo (kubo),AXBZ,KAR
+214,j e h a,low (kub),FALSE,terra,20,PWT,GLOSA 2 ENGL,land,jeha,PET,GLOSA 2 PORT,j e h a,jeha,baixo (kubo),AXBZ,KOR
+215,j i b a,low (kub),FALSE,terra,20,PWT,GLOSA 2 ENGL,land,jiba,PET,GLOSA 2 PORT,j i b a,jiba,baixo (kubo),AXBZ,KUB
+216,j i h a,low (kub),FALSE,terra,20,PWT,GLOSA 2 ENGL,land,jiha,PET,GLOSA 2 PORT,j i h a,jiha,baixo (kubo),AXBZ,MAI
+217,j e h a,low (kub),FALSE,terra,20,PWT,GLOSA 2 ENGL,land,jeha,PET,GLOSA 2 PORT,j e h a,jeha,baixo (kubo),AXBZ,SEK
+218,j i h a,low (kub),FALSE,terra,20,PWT,GLOSA 2 ENGL,land,jiha,PET,GLOSA 2 PORT,j i h a,jiha,baixo (kubo),AXBZ,SIO
+219,j e ʔp a,low (kub),FALSE,terra,20,PWT,GLOSA 2 ENGL,land,jeʔpa,PET,GLOSA 2 PORT,j e ʔp a,jeʔpa,baixo (kubo),AXBZ,TUK
+220,j a ʔp a,low (kub),FALSE,terra,20,PWT,GLOSA 2 ENGL,land,jaʔpa,PET,GLOSA 2 PORT,j a ʔp a,jaʔpa,baixo (kubo),AXBZ,WAN
+221,j e pʔ a,,TRUE,,20,,,land,*jepʔa,,,j e pʔ a,,,AXBZ,*PT
+222,j i ʔ o b o,GLOSS 3 ENGL,FALSE,boca2,21,*jɨ-ʔo,GLOSA 2 ENGL,mouth2,jiʔobo,PET,GLOSA 2 PORT,j i ʔ o ( b o ),jiʔobo,GLOSA 3 PORT,AXBYBZ,KOR
+223,j o,GLOSS 3 ENGL,FALSE,boca2,21,*jɨ-ʔo,GLOSA 2 ENGL,mouth2,jo,PET,GLOSA 2 PORT,j - - o ( - - ),jo,GLOSA 3 PORT,AX,MAI
+224,j ɨ ʔ o,GLOSS 3 ENGL,FALSE,boca2,21,*jɨ-ʔo,GLOSA 2 ENGL,mouth2,jɨʔo,PET,GLOSA 2 PORT,j ɨ ʔ o ( - - ),jɨʔo,GLOSA 3 PORT,AXBZ,SEK
+225,j i ʔ o b o,GLOSS 3 ENGL,FALSE,boca2,21,*jɨ-ʔo,GLOSA 2 ENGL,mouth2,jiʔobo,PET,GLOSA 2 PORT,j i ʔ o ( b o ),jiʔobo,GLOSA 3 PORT,AXBYBZ,SIO
+226,j ɨ ʔ o,,FALSE,,21,,,mouth2,*jɨ-ʔo,,,j ɨ ʔ o ( - - ),,,AXBZ,*PT
+227,j ɨ t a,GLOSS 3 ENGL,FALSE,algodão do mato,22,PWT,GLOSA 2 ENGL,kapok,jɨta,PET,GLOSA 2 PORT,j - ɨ t a - -,jɨta,GLOSA 3 PORT,AXBZ,BAS
+228,j u d a,GLOSS 3 ENGL,FALSE,algodão do mato,22,PWT,GLOSA 2 ENGL,kapok,juda,PET,GLOSA 2 PORT,j - u d a - -,juda,GLOSA 3 PORT,AXBZ,DES
+229,j i t a,GLOSS 3 ENGL,FALSE,algodão do mato,22,PWT,GLOSA 2 ENGL,kapok,jita,PET,GLOSA 2 PORT,j - i t a - -,jita,GLOSA 3 PORT,AXBZ,KAR
+230,o j a,GLOSS 3 ENGL,FALSE,algodão do mato,147,PWT,GLOSA 2 ENGL,kapok,oja,PET,GLOSA 2 PORT,o j a - - ( - - ),oja,GLOSA 3 PORT,XBZ,KOR
+231,j ɨ i,GLOSS 3 ENGL,FALSE,algodão do mato,22,PWT,GLOSA 2 ENGL,kapok,jɨi,PET,GLOSA 2 PORT,j - ɨ - i - -,jɨi,GLOSA 3 PORT,AXZ,KUB
+232,i ʔ o t a h e,GLOSS 3 ENGL,FALSE,algodão do mato,22,PWT,GLOSA 2 ENGL,kapok,iʔotahe,PET,GLOSA 2 PORT,j ʔ o t a h e,iʔotahe,GLOSA 3 PORT,XBYBYBZ,KUE
+233,j ɨ i,GLOSS 3 ENGL,FALSE,algodão do mato,22,PWT,GLOSA 2 ENGL,kapok,jɨi,PET,GLOSA 2 PORT,j - ɨ - i - -,jɨi,GLOSA 3 PORT,AXZ,SEK
+234,j ɨ i,GLOSS 3 ENGL,FALSE,algodão do mato,22,PWT,GLOSA 2 ENGL,kapok,jɨi,PET,GLOSA 2 PORT,j - ɨ - i - -,jɨi,GLOSA 3 PORT,AXZ,SIO
+235,j u ʔt a,GLOSS 3 ENGL,FALSE,algodão do mato,22,PWT,GLOSA 2 ENGL,kapok,juʔta,PET,GLOSA 2 PORT,j - u ʔt a - -,juʔta,GLOSA 3 PORT,AXBZ,TAN
+236,j u t a,GLOSS 3 ENGL,FALSE,algodão do mato,22,PWT,GLOSA 2 ENGL,kapok,juta,PET,GLOSA 2 PORT,j - u t a - -,juta,GLOSA 3 PORT,AXBZ,TUK
+237,j u t a,GLOSS 3 ENGL,FALSE,algodão do mato,22,PWT,GLOSA 2 ENGL,kapok,juta,PET,GLOSA 2 PORT,j - u t a - -,juta,GLOSA 3 PORT,AXBZ,WAN
+238,j ɨ i,,TRUE,,22,,,kapok,*jɨi,,,j - ɨ - i - -,,,AXZ,*PT
+239,ɲ ĩ k ã,knee (kor),FALSE,perna,23,PWT,hips (kube),leg,~jika,PET,quadril (kub),ɲ ĩ k ã,~jika,joelho (kor),AXBZ,BAS
+240,ɲ ĩ g ã,knee (kor),FALSE,perna,23,PWT,hips (kube),leg,~jiga,PET,quadril (kub),ɲ ĩ ŋ ã,~jiga,joelho (kor),AXBZ,DES
+241,ɲ ĩ k ã,knee (kor),FALSE,perna,23,PWT,hips (kube),leg,~jika,PET,quadril (kub),ɲ ĩ k ã,~jika,joelho (kor),AXBZ,KAR
+242,j ũ k a,knee (kor),FALSE,perna,23,PWT,hips (kube),leg,jũka,PET,quadril (kub),j ũ k a,jũka,joelho (kor),AXBZ,KOR
+243,ɲ ɨ̃ ã,knee (kor),FALSE,perna,23,PWT,hips (kube),leg,~jɨa,PET,quadril (kub),ɲ ɨ̃ - ã,~jɨa,joelho (kor),AXZ,KUB
+244,d ɨ̃ k a,knee (kor),FALSE,perna,23,PWT,hips (kube),leg,dɨ̃ka,PET,quadril (kub),n ɨ̃ k a,dɨ̃ka,joelho (kor),AXBZ,SEK
+245,ɲ ĩ k ã,knee (kor),FALSE,perna,23,PWT,hips (kube),leg,~jika,PET,quadril (kub),ɲ ĩ k ã,~jika,joelho (kor),AXBZ,TAN
+246,ɲ ẽ k ã,knee (kor),FALSE,perna,23,PWT,hips (kube),leg,~jeka,PET,quadril (kub),ɲ ẽ k ã,~jeka,joelho (kor),AXBZ,TUK
+247,ɲ ĩ k ã,knee (kor),FALSE,perna,23,PWT,hips (kube),leg,~jika,PET,quadril (kub),ɲ ĩ k ã,~jika,joelho (kor),AXBZ,TUY
+248,ɲ ɨ̃ t∫ ɨ̃,knee (kor),FALSE,perna,23,PWT,hips (kube),leg,~jɨt∫ɨ,PET,quadril (kub),ɲ ɨ̃ t∫ ɨ̃,~jɨt∫ɨ,joelho (kor),AXBZ,WAN
+249,j ɨ̃ k a,,FALSE,,23,,,leg,*jɨ̃ka,,,j ɨ̃ k a,,,AXBZ,*PT
+250,j ɨ ɨ,GLOSS 3 ENGL,FALSE,Eu,24,PWT,GLOSA 2 ENGL,I,jɨɨ,PET,GLOSA 2 PORT,j ɨ - ɨ,jɨɨ,GLOSA 3 PORT,AXZ,BAS
+251,j ɨ ʔ ɨ,GLOSS 3 ENGL,FALSE,Eu,24,PWT,GLOSA 2 ENGL,I,jɨʔɨ,PET,GLOSA 2 PORT,j ɨ ʔ ɨ,jɨʔɨ,GLOSA 3 PORT,AXBZ,DES
+252,j ɨ ɨ,GLOSS 3 ENGL,FALSE,Eu,24,PWT,GLOSA 2 ENGL,I,jɨɨ,PET,GLOSA 2 PORT,j ɨ - ɨ,jɨɨ,GLOSA 3 PORT,AXZ,KAR
+253,j ɨ ʔ ɨ,GLOSS 3 ENGL,FALSE,Eu,24,PWT,GLOSA 2 ENGL,I,jɨʔɨ,PET,GLOSA 2 PORT,j ɨ ʔ ɨ,jɨʔɨ,GLOSA 3 PORT,AXBZ,KOR
+254,j ɨ,GLOSS 3 ENGL,FALSE,Eu,24,PWT,GLOSA 2 ENGL,I,jɨ,PET,GLOSA 2 PORT,j ɨ - -,jɨ,GLOSA 3 PORT,AX,KUB
+255,j e h ɨ,GLOSS 3 ENGL,FALSE,Eu,24,PWT,GLOSA 2 ENGL,I,jehɨ,PET,GLOSA 2 PORT,j e h ɨ,jehɨ,GLOSA 3 PORT,AXBZ,KUE
+256,j i,GLOSS 3 ENGL,FALSE,Eu,24,PWT,GLOSA 2 ENGL,I,ji,PET,GLOSA 2 PORT,j i - -,ji,GLOSA 3 PORT,AX,MAI
+257,j ɨ ʔ ɨ,GLOSS 3 ENGL,FALSE,Eu,24,PWT,GLOSA 2 ENGL,I,jɨʔɨ,PET,GLOSA 2 PORT,j ɨ ʔ ɨ,jɨʔɨ,GLOSA 3 PORT,AXBZ,SEK
+258,j ɨ ɨ,GLOSS 3 ENGL,FALSE,Eu,24,PWT,GLOSA 2 ENGL,I,jɨɨ,PET,GLOSA 2 PORT,j ɨ - ɨ,jɨɨ,GLOSA 3 PORT,AXZ,SIO
+259,j i ʔ i,GLOSS 3 ENGL,FALSE,Eu,24,PWT,GLOSA 2 ENGL,I,jiʔi,PET,GLOSA 2 PORT,j i ʔ i,jiʔi,GLOSA 3 PORT,AXBZ,TAN
+260,j ɨ ʔ ɨ,GLOSS 3 ENGL,FALSE,Eu,24,PWT,GLOSA 2 ENGL,I,jɨʔɨ,PET,GLOSA 2 PORT,j ɨ ʔ ɨ,jɨʔɨ,GLOSA 3 PORT,AXBZ,TUK
+261,j ɨ ɨ,GLOSS 3 ENGL,FALSE,Eu,24,PWT,GLOSA 2 ENGL,I,jɨɨ,PET,GLOSA 2 PORT,j ɨ - ɨ,jɨɨ,GLOSA 3 PORT,AXZ,TUY
+262,j ɨ ʔ ɨ,GLOSS 3 ENGL,FALSE,Eu,24,PWT,GLOSA 2 ENGL,I,jɨʔɨ,PET,GLOSA 2 PORT,j ɨ ʔ ɨ,jɨʔɨ,GLOSA 3 PORT,AXBZ,WAN
+263,j ɨ ʔ ɨ,,FALSE,,24,,,I,*jɨʔɨ,,,j ɨ ʔ ɨ,,,AXBZ,*PT
+264,ŋ ã m õ,GLOSS 3 ENGL,FALSE,orelha,25,PWT,GLOSA 2 ENGL,ear,~gabo,PET,GLOSA 2 PORT,ŋ ã m õ,~gabo,GLOSA 3 PORT,AXBZ,BAS
+265,ŋ ã m ĩ,GLOSS 3 ENGL,FALSE,orelha,25,PWT,GLOSA 2 ENGL,ear,~gabi,PET,GLOSA 2 PORT,ŋ ã m ĩ,~gabi,GLOSA 3 PORT,AXBZ,DES
+266,ã m õ,GLOSS 3 ENGL,FALSE,orelha,25,PWT,GLOSA 2 ENGL,ear,~abo,PET,GLOSA 2 PORT,- ã m õ,~abo,GLOSA 3 PORT,XBZ,KAR
+267,k ã h o,GLOSS 3 ENGL,FALSE,orelha,25,PWT,GLOSA 2 ENGL,ear,kãho,PET,GLOSA 2 PORT,k ã h o,kãho,GLOSA 3 PORT,AXBZ,KOR
+268,k ã m ũ,GLOSS 3 ENGL,FALSE,orelha,25,PWT,GLOSA 2 ENGL,ear,~kamu,PET,GLOSA 2 PORT,k ã m ũ,~kamu,GLOSA 3 PORT,AXBZ,KUB
+269,kj ã ũ,GLOSS 3 ENGL,FALSE,orelha,25,PWT,GLOSA 2 ENGL,ear,~kiau,PET,GLOSA 2 PORT,kj ã - ũ,~kiau,GLOSA 3 PORT,AXZ,KUE
+270,g ã h o,GLOSS 3 ENGL,FALSE,orelha,25,PWT,GLOSA 2 ENGL,ear,gãho,PET,GLOSA 2 PORT,ŋ ã h o,gãho,GLOSA 3 PORT,AXBZ,MAI
+271,k ã h o,GLOSS 3 ENGL,FALSE,orelha,25,PWT,GLOSA 2 ENGL,ear,kãho,PET,GLOSA 2 PORT,k ã h o,kãho,GLOSA 3 PORT,AXBZ,SEK
+272,kʔ ã h o,GLOSS 3 ENGL,FALSE,orelha,25,PWT,GLOSA 2 ENGL,ear,kʔãho,PET,GLOSA 2 PORT,kʔ ã h o,kʔãho,GLOSA 3 PORT,AXBZ,SIO
+273,ã m ũ,GLOSS 3 ENGL,FALSE,orelha,25,PWT,GLOSA 2 ENGL,ear,~abu,PET,GLOSA 2 PORT,- ã m ũ,~abu,GLOSA 3 PORT,XBZ,TAN
+274,õ ʔm ẽ,GLOSS 3 ENGL,FALSE,orelha,25,PWT,GLOSA 2 ENGL,ear,~oʔbe,PET,GLOSA 2 PORT,- õ ʔm ẽ,~oʔbe,GLOSA 3 PORT,XBZ,TUK
+275,k ã m õ,GLOSS 3 ENGL,FALSE,orelha,25,PWT,GLOSA 2 ENGL,ear,~kabo,PET,GLOSA 2 PORT,k ã m õ,~kabo,GLOSA 3 PORT,AXBZ,TUY
+276,k ã ʔm õ,GLOSS 3 ENGL,FALSE,orelha,25,PWT,GLOSA 2 ENGL,ear,~kaʔbo,PET,GLOSA 2 PORT,k ã ʔm õ,~kaʔbo,GLOSA 3 PORT,AXBZ,WAN
+277,kʔ ã p ʔ o,,TRUE,,25,,,ear,*kʔãpʔo,,,kʔ ã pʔ o,,,AXBZ,*PT
+278,g ɨ b o,GLOSS 3 ENGL,FALSE,pé,26,PWT,GLOSA 2 ENGL,foot,gɨbo,PET,GLOSA 2 PORT,g ɨ b o,gɨbo,GLOSA 3 PORT,AXBZ,BAS
+279,g u ʔb u,GLOSS 3 ENGL,FALSE,pé,26,PWT,GLOSA 2 ENGL,foot,guʔbu,PET,GLOSA 2 PORT,g u ʔb u,guʔbu,GLOSA 3 PORT,AXBZ,DES
+280,r ɨ p o,GLOSS 3 ENGL,FALSE,pé,26,PWT,GLOSA 2 ENGL,foot,rɨpo,PET,GLOSA 2 PORT,r ɨ p o,rɨpo,GLOSA 3 PORT,AXBZ,KAR
+281,k ũ ʔ ã,GLOSS 3 ENGL,FALSE,pé,26,PWT,GLOSA 2 ENGL,foot,~kuʔa,PET,GLOSA 2 PORT,k ũ ʔ ã,~kuʔa,GLOSA 3 PORT,AXBZ,KOR
+282,k ɨ b o,GLOSS 3 ENGL,FALSE,pé,26,PWT,GLOSA 2 ENGL,foot,kɨbo,PET,GLOSA 2 PORT,k ɨ b o,kɨbo,GLOSA 3 PORT,AXBZ,KUB
+283,k o h u,GLOSS 3 ENGL,FALSE,pé,26,PWT,GLOSA 2 ENGL,foot,kohu,PET,GLOSA 2 PORT,k o h u,kohu,GLOSA 3 PORT,AXBZ,KUE
+284,ŋ ɨ̃ õ,GLOSS 3 ENGL,FALSE,pé,26,PWT,GLOSA 2 ENGL,foot,~gɨo,PET,GLOSA 2 PORT,ŋ ɨ̃ - õ,~gɨo,GLOSA 3 PORT,AXZ,MAI
+285,k ɨ̃ õ,GLOSS 3 ENGL,FALSE,pé,26,PWT,GLOSA 2 ENGL,foot,~kɨo,PET,GLOSA 2 PORT,k ɨ̃ - õ,~kɨo,GLOSA 3 PORT,AXZ,SEK
+286,kʔ ɨ̃ õ,GLOSS 3 ENGL,FALSE,pé,26,PWT,GLOSA 2 ENGL,foot,~kʔɨo,PET,GLOSA 2 PORT,kʔ ɨ̃ - õ,~kʔɨo,GLOSA 3 PORT,AXZ,SIO
+287,ũ ʔp ũ,GLOSS 3 ENGL,FALSE,pé,26,PWT,GLOSA 2 ENGL,foot,~uʔpu,PET,GLOSA 2 PORT,- ũ ʔp ũ,~uʔpu,GLOSA 3 PORT,XBZ,TAN
+288,d ɨ ʔp o,GLOSS 3 ENGL,FALSE,pé,26,PWT,GLOSA 2 ENGL,foot,dɨʔpo,PET,GLOSA 2 PORT,d ɨ ʔp o,dɨʔpo,GLOSA 3 PORT,AXBZ,TUK
+289,d ɨ p o,GLOSS 3 ENGL,FALSE,pé,26,PWT,GLOSA 2 ENGL,foot,dɨpo,PET,GLOSA 2 PORT,d ɨ p o,dɨpo,GLOSA 3 PORT,AXBZ,TUY
+290,d a ʔp o,GLOSS 3 ENGL,FALSE,pé,26,PWT,GLOSA 2 ENGL,foot,daʔpo,PET,GLOSA 2 PORT,d a ʔp o,daʔpo,GLOSA 3 PORT,AXBZ,WAN
+291,kʔ ɨ p ʔ o,,TRUE,,26,,,foot,*kʔɨpʔo,,,kʔ ɨ pʔ o,,,AXBZ,*PT
+292,g ɨ d a,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,gɨda,PET,GLOSA 2 PORT,g ɨ d a,gɨda,GLOSA 3 PORT,AXBZ,BAS
+293,g ɨ d a,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,gɨda,PET,GLOSA 2 PORT,g ɨ d a,gɨda,GLOSA 3 PORT,AXBZ,DES
+294,g ɨ t a,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,gɨta,PET,GLOSA 2 PORT,g ɨ t a,gɨta,GLOSA 3 PORT,AXBZ,KAR
+295,k ɨ t a,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,kɨta,PET,GLOSA 2 PORT,k ɨ t a,kɨta,GLOSA 3 PORT,AXBZ,KOR
+296,k ɨ d a,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,kɨda,PET,GLOSA 2 PORT,k ɨ d a,kɨda,GLOSA 3 PORT,AXBZ,KUB
+297,ɨ t a,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,ɨta,PET,GLOSA 2 PORT,- ɨ t a,ɨta,GLOSA 3 PORT,XBZ,KUE
+298,ɨ̃ t a,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,ɨ̃ta,PET,GLOSA 2 PORT,- ɨ̃ t a,ɨ̃ta,GLOSA 3 PORT,XBZ,MAI
+299,k ɨ ʔt a,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,kɨʔta,PET,GLOSA 2 PORT,k ɨ ʔt a,kɨʔta,GLOSA 3 PORT,AXBZ,PIR
+300,ɨ̃ t a,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,ɨ̃ta,PET,GLOSA 2 PORT,- ɨ̃ t a,ɨ̃ta,GLOSA 3 PORT,XBZ,SEK
+301,kʔ ɨ t a,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,kʔɨta,PET,GLOSA 2 PORT,kʔ ɨ t a,kʔɨta,GLOSA 3 PORT,AXBZ,SIO
+302,i t a,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,ita,PET,GLOSA 2 PORT,- i t a,ita,GLOSA 3 PORT,XBZ,TAN
+303,ɨ ʔt a,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,ɨʔta,PET,GLOSA 2 PORT,- ɨ ʔt a,ɨʔta,GLOSA 3 PORT,XBZ,TUK
+304,k ɨ̃ n ã,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,~kɨda,PET,GLOSA 2 PORT,k ɨ̃ n ã,~kɨda,GLOSA 3 PORT,AXBZ,TUY
+305,t ã,GLOSS 3 ENGL,FALSE,fezes,27,PWT,GLOSA 2 ENGL,excrement,~ta,PET,GLOSA 2 PORT,- - t ã,~ta,GLOSA 3 PORT,AX,WAN
+306,kʔ ɨ tʔ a,,TRUE,,27,,,excrement,*kʔɨtʔa,,,kʔ ɨ tʔ a,,,AXBZ,*PT
+307,g u u,GLOSS 3 ENGL,FALSE,jabuti,28,PWT,turtle (tan),tortoise,guu,PET,tartaruga (tan),g u - u ( - - ),guu,GLOSA 3 PORT,AXZ,BAS
+308,g u i,GLOSS 3 ENGL,FALSE,jabuti,28,PWT,turtle (tan),tortoise,gui,PET,tartaruga (tan),g u - i ( - - ),gui,GLOSA 3 PORT,AXZ,DES
+309,u u,GLOSS 3 ENGL,FALSE,jabuti,28,PWT,turtle (tan),tortoise,uu,PET,tartaruga (tan),- u - u ( - - ),uu,GLOSA 3 PORT,XZ,KAR
+310,k o ɨ,GLOSS 3 ENGL,FALSE,jabuti,28,PWT,turtle (tan),tortoise,koɨ,PET,tartaruga (tan),k o - ɨ ( - - ),koɨ,GLOSA 3 PORT,AXZ,KOR
+311,k ũ ɨ̃,GLOSS 3 ENGL,FALSE,jabuti,28,PWT,turtle (tan),tortoise,~kuɨ,PET,tartaruga (tan),k ũ - ɨ̃ ( - - ),~kuɨ,GLOSA 3 PORT,AXZ,KUB
+312,k a ɨ,GLOSS 3 ENGL,FALSE,jabuti,28,PWT,turtle (tan),tortoise,kaɨ,PET,tartaruga (tan),k a - ɨ ( - - ),kaɨ,GLOSA 3 PORT,AXZ,KUE
+313,k o u,GLOSS 3 ENGL,FALSE,jabuti,28,PWT,turtle (tan),tortoise,kou,PET,tartaruga (tan),k o - u ( - - ),kou,GLOSA 3 PORT,AXZ,SEK
+314,kʔ o ɨ,GLOSS 3 ENGL,FALSE,jabuti,28,PWT,turtle (tan),tortoise,kʔoɨ,PET,tartaruga (tan),kʔ o - ɨ ( - - ),kʔoɨ,GLOSA 3 PORT,AXZ,SIO
+315,o ʔ i,GLOSS 3 ENGL,FALSE,jabuti,28,PWT,turtle (tan),tortoise,oʔi,PET,tartaruga (tan),- o ʔ i ( - - ),oʔi,GLOSA 3 PORT,XBZ,TAN
+316,u h u d i,GLOSS 3 ENGL,FALSE,jabuti,28,PWT,turtle (tan),tortoise,uhudi,PET,tartaruga (tan),- u h u ( d i ),uhudi,GLOSA 3 PORT,XBYBZ,TUK
+317,k u u,GLOSS 3 ENGL,FALSE,jabuti,28,PWT,turtle (tan),tortoise,kuu,PET,tartaruga (tan),k u - u ( - - ),kuu,GLOSA 3 PORT,AXZ,TUY
+318,k u,GLOSS 3 ENGL,FALSE,jabuti,28,PWT,turtle (tan),tortoise,ku,PET,tartaruga (tan),k u - - ( - - ),ku,GLOSA 3 PORT,AX,WAN
+319,kʔ o ɨ,,TRUE,,28,,,tortoise,*kʔoɨ,,,kʔ o - ɨ ( - - ),,,AXZ,*PT
+320,ŋ õ n ẽ,GLOSS 3 ENGL,FALSE,urinar,29,PWT,GLOSA 2 ENGL,urinate,~gode,PET,GLOSA 2 PORT,ŋ õ n ẽ,~gode,GLOSA 3 PORT,AXBZ,BAS
+321,ŋ õ n ẽ,GLOSS 3 ENGL,FALSE,urinar,29,PWT,GLOSA 2 ENGL,urinate,~gode,PET,GLOSA 2 PORT,ŋ õ n ẽ,~gode,GLOSA 3 PORT,AXBZ,DES
+322,õ n ẽ,GLOSS 3 ENGL,FALSE,urinar,29,PWT,GLOSA 2 ENGL,urinate,~ode,PET,GLOSA 2 PORT,- õ n ẽ,~ode,GLOSA 3 PORT,XBZ,KAR
+323,õ n e,GLOSS 3 ENGL,FALSE,urinar,29,PWT,GLOSA 2 ENGL,urinate,õne,PET,GLOSA 2 PORT,- õ n e,õne,GLOSA 3 PORT,XBZ,KOR
+324,k õ n ẽ,GLOSS 3 ENGL,FALSE,urinar,29,PWT,GLOSA 2 ENGL,urinate,~kode,PET,GLOSA 2 PORT,k õ n ẽ,~kode,GLOSA 3 PORT,AXBZ,KUB
+325,g o n e,GLOSS 3 ENGL,FALSE,urinar,29,PWT,GLOSA 2 ENGL,urinate,gone,PET,GLOSA 2 PORT,g o n e,gone,GLOSA 3 PORT,AXBZ,MAI
+326,k õ n e,GLOSS 3 ENGL,FALSE,urinar,29,PWT,GLOSA 2 ENGL,urinate,kõne,PET,GLOSA 2 PORT,k õ n e,kõne,GLOSA 3 PORT,AXBZ,SEK
+327,kʔ õ n e,GLOSS 3 ENGL,FALSE,urinar,29,PWT,GLOSA 2 ENGL,urinate,kʔõne,PET,GLOSA 2 PORT,kʔ õ n e,kʔõne,GLOSA 3 PORT,AXBZ,SIO
+328,õ ʔn ẽ,GLOSS 3 ENGL,FALSE,urinar,29,PWT,GLOSA 2 ENGL,urinate,~oʔde,PET,GLOSA 2 PORT,- õ ʔn ẽ,~oʔde,GLOSA 3 PORT,XBZ,TUK
+329,k õ n ẽ,GLOSS 3 ENGL,FALSE,urinar,29,PWT,GLOSA 2 ENGL,urinate,~kode,PET,GLOSA 2 PORT,k õ n ẽ,~kode,GLOSA 3 PORT,AXBZ,TUY
+330,kh ũ n ũ,GLOSS 3 ENGL,FALSE,urinar,29,PWT,GLOSA 2 ENGL,urinate,~khudu,PET,GLOSA 2 PORT,kh ũ n ũ,~khudu,GLOSA 3 PORT,AXBZ,WAN
+331,kʔ o n e,,TRUE,,29,,,urinate,*kʔone,,,kʔ o n e,,,AXBZ,*PT
+332,g o h e,GLOSS 3 ENGL,FALSE,buraco,30,PWT,GLOSA 2 ENGL,hole,gohe,PET,GLOSA 2 PORT,g o h e,gohe,GLOSA 3 PORT,AXBZ,BAS
+333,g o b e,GLOSS 3 ENGL,FALSE,buraco,30,PWT,GLOSA 2 ENGL,hole,gobe,PET,GLOSA 2 PORT,g o b e,gobe,GLOSA 3 PORT,AXBZ,DES
+334,o p e,GLOSS 3 ENGL,FALSE,buraco,30,PWT,GLOSA 2 ENGL,hole,ope,PET,GLOSA 2 PORT,- o p e,ope,GLOSA 3 PORT,XBZ,KAR
+335,k o h e,GLOSS 3 ENGL,FALSE,buraco,30,PWT,GLOSA 2 ENGL,hole,kohe,PET,GLOSA 2 PORT,k o h e,kohe,GLOSA 3 PORT,AXBZ,KOR
+336,k o b e,GLOSS 3 ENGL,FALSE,buraco,30,PWT,GLOSA 2 ENGL,hole,kobe,PET,GLOSA 2 PORT,k o b e,kobe,GLOSA 3 PORT,AXBZ,KUB
+337,g o h e,GLOSS 3 ENGL,FALSE,buraco,30,PWT,GLOSA 2 ENGL,hole,gohe,PET,GLOSA 2 PORT,g o h e,gohe,GLOSA 3 PORT,AXBZ,KUE
+338,g o h e,GLOSS 3 ENGL,FALSE,buraco,30,PWT,GLOSA 2 ENGL,hole,gohe,PET,GLOSA 2 PORT,g o h e,gohe,GLOSA 3 PORT,AXBZ,MAI
+339,k o h e,GLOSS 3 ENGL,FALSE,buraco,30,PWT,GLOSA 2 ENGL,hole,kohe,PET,GLOSA 2 PORT,k o h e,kohe,GLOSA 3 PORT,AXBZ,SEK
+340,kʔ o h e,GLOSS 3 ENGL,FALSE,buraco,30,PWT,GLOSA 2 ENGL,hole,kʔohe,PET,GLOSA 2 PORT,kʔ o h e,kʔohe,GLOSA 3 PORT,AXBZ,SIO
+341,k o ɸ e,GLOSS 3 ENGL,FALSE,buraco,30,PWT,GLOSA 2 ENGL,hole,kope,PET,GLOSA 2 PORT,k o ɸ e,kope,GLOSA 3 PORT,AXBZ,TAN
+342,k o p e,GLOSS 3 ENGL,FALSE,buraco,30,PWT,GLOSA 2 ENGL,hole,kope,PET,GLOSA 2 PORT,k o p e,kope,GLOSA 3 PORT,AXBZ,TUK
+343,k o p e,GLOSS 3 ENGL,FALSE,buraco,30,PWT,GLOSA 2 ENGL,hole,kope,PET,GLOSA 2 PORT,k o p e,kope,GLOSA 3 PORT,AXBZ,TUY
+344,k o p e,GLOSS 3 ENGL,FALSE,buraco,30,PWT,GLOSA 2 ENGL,hole,kope,PET,GLOSA 2 PORT,k o p e,kope,GLOSA 3 PORT,AXBZ,WAN
+345,kʔ o p e,,TRUE,,30,,,hole,*kʔope,,,kʔ o p e,,,AXBZ,*PT
+346,g u h i,GLOSS 3 ENGL,FALSE,dente,31,PWT,GLOSA 2 ENGL,tooth,guhi,PET,GLOSA 2 PORT,g u h i ( - - - - - ),guhi,GLOSA 3 PORT,AXBZ,BAS
+347,o p i,GLOSS 3 ENGL,FALSE,dente,31,PWT,GLOSA 2 ENGL,tooth,opi,PET,GLOSA 2 PORT,- o p i ( - - - - - ),opi,GLOSA 3 PORT,XBZ,KAR
+348,kh õ h ĩ,GLOSS 3 ENGL,FALSE,dente,31,PWT,GLOSA 2 ENGL,tooth,~khohi,PET,GLOSA 2 PORT,kh õ h ĩ ( - - - - - ),~khohi,GLOSA 3 PORT,AXBZ,KOR
+349,k õ p ĩ,GLOSS 3 ENGL,FALSE,dente,31,PWT,GLOSA 2 ENGL,tooth,~kopi,PET,GLOSA 2 PORT,k õ p ĩ ( - - - - - ),~kopi,GLOSA 3 PORT,AXBZ,KUB
+350,k o h i,GLOSS 3 ENGL,FALSE,dente,31,PWT,GLOSA 2 ENGL,tooth,kohi,PET,GLOSA 2 PORT,k o h i ( - - - - - ),kohi,GLOSA 3 PORT,AXBZ,KUE
+351,g ũ h i,GLOSS 3 ENGL,FALSE,dente,31,PWT,GLOSA 2 ENGL,tooth,gũhi,PET,GLOSA 2 PORT,ŋ ũ h i ( - - - - - ),gũhi,GLOSA 3 PORT,AXBZ,MAI
+352,k õ ʔh ĩ,GLOSS 3 ENGL,FALSE,dente,31,PWT,GLOSA 2 ENGL,tooth,~koʔhi,PET,GLOSA 2 PORT,k õ ʔh ĩ ( - - - - - ),~koʔhi,GLOSA 3 PORT,AXBZ,SEK
+353,kʔ ũ h ĩ,GLOSS 3 ENGL,FALSE,dente,31,PWT,GLOSA 2 ENGL,tooth,~kʔuhi,PET,GLOSA 2 PORT,kʔ ũ h ĩ ( - - - - - ),~kʔuhi,GLOSA 3 PORT,AXBZ,SIO
+354,o ɸ i,GLOSS 3 ENGL,FALSE,dente,31,PWT,GLOSA 2 ENGL,tooth,opi,PET,GLOSA 2 PORT,- o ɸ i ( - - - - - ),opi,GLOSA 3 PORT,XBZ,TAN
+355,u p i,GLOSS 3 ENGL,FALSE,dente,31,PWT,GLOSA 2 ENGL,tooth,upi,PET,GLOSA 2 PORT,- u p i ( - - - - - ),upi,GLOSA 3 PORT,XBZ,TUK
+356,u p i,GLOSS 3 ENGL,FALSE,dente,31,PWT,GLOSA 2 ENGL,tooth,upi,PET,GLOSA 2 PORT,- u p i ( - - - - - ),upi,GLOSA 3 PORT,XBZ,TUY
+357,p i d i a k a,GLOSS 3 ENGL,FALSE,dente,31,PWT,GLOSA 2 ENGL,tooth,pidiaka,PET,GLOSA 2 PORT,- - p i ( d i a k a ),pidiaka,GLOSA 3 PORT,AXBYYBZ,WAN
+358,kʔ õ p i,,TRUE,,31,,,tooth,*kʔõpi,,,kʔ õ p i ( - - - - - ),,,AXBZ,*PT
+359,ŋ õ ã,GLOSS 3 ENGL,FALSE,osso,32,PWT,GLOSA 2 ENGL,bone,~goa,PET,GLOSA 2 PORT,ŋ õ - ã,~goa,GLOSA 3 PORT,AXZ,BAS
+360,ŋ õ ã,GLOSS 3 ENGL,FALSE,osso,32,PWT,GLOSA 2 ENGL,bone,~goa,PET,GLOSA 2 PORT,ŋ õ - ã,~goa,GLOSA 3 PORT,AXZ,DES
+361,õ ʔ ã,GLOSS 3 ENGL,FALSE,osso,32,PWT,GLOSA 2 ENGL,bone,~oʔa,PET,GLOSA 2 PORT,- õ ʔ ã,~oʔa,GLOSA 3 PORT,XBZ,KAR
+362,k ũ ã,GLOSS 3 ENGL,FALSE,osso,32,PWT,GLOSA 2 ENGL,bone,~kua,PET,GLOSA 2 PORT,k ũ - ã,~kua,GLOSA 3 PORT,AXZ,KUB
+363,k o a,GLOSS 3 ENGL,FALSE,osso,32,PWT,GLOSA 2 ENGL,bone,koa,PET,GLOSA 2 PORT,k o - a,koa,GLOSA 3 PORT,AXZ,KUE
+364,kʔ õ ʔ a,GLOSS 3 ENGL,FALSE,osso,32,PWT,GLOSA 2 ENGL,bone,kʔõʔa,PET,GLOSA 2 PORT,kʔ õ ʔ a,kʔõʔa,GLOSA 3 PORT,AXBZ,SIO
+365,ũ ʔ ã,GLOSS 3 ENGL,FALSE,osso,32,PWT,GLOSA 2 ENGL,bone,~uʔa,PET,GLOSA 2 PORT,- ũ ʔ ã,~uʔa,GLOSA 3 PORT,XBZ,TAN
+366,õ ʔ ã,GLOSS 3 ENGL,FALSE,osso,32,PWT,GLOSA 2 ENGL,bone,~oʔa,PET,GLOSA 2 PORT,- õ ʔ ã,~oʔa,GLOSA 3 PORT,XBZ,TUK
+367,k õ ã,GLOSS 3 ENGL,FALSE,osso,32,PWT,GLOSA 2 ENGL,bone,~koa,PET,GLOSA 2 PORT,k õ - ã,~koa,GLOSA 3 PORT,AXZ,TUY
+368,kh õ ʔ ã,GLOSS 3 ENGL,FALSE,osso,32,PWT,GLOSA 2 ENGL,bone,~khoʔa,PET,GLOSA 2 PORT,kh õ ʔ ã,~khoʔa,GLOSA 3 PORT,AXBZ,WAN
+369,kʔ õ ʔ ã,,TRUE,,32,,,bone,*kʔoʔa,,,kʔ õ ʔ ã,,,AXBZ,*PT
+370,g o d o,GLOSS 3 ENGL,FALSE,flor,33,PWT,GLOSA 2 ENGL,flower,godo,PET,GLOSA 2 PORT,- - g o - - ( d o ),godo,GLOSA 3 PORT,AXBZ,BAS
+371,g o,GLOSS 3 ENGL,FALSE,flor,33,PWT,GLOSA 2 ENGL,flower,go,PET,GLOSA 2 PORT,- - g o - - ( - - ),go,GLOSA 3 PORT,AX,DES
+372,k o r o,GLOSS 3 ENGL,FALSE,flor,33,PWT,GLOSA 2 ENGL,flower,koro,PET,GLOSA 2 PORT,- - k o - - ( r o ),koro-,GLOSA 3 PORT,AXBZ,KOR
+373,k o w ɨ,GLOSS 3 ENGL,FALSE,flor,33,PWT,GLOSA 2 ENGL,flower,kowɨ,PET,GLOSA 2 PORT,- - k o w ɨ ( - - ),kowɨ,GLOSA 3 PORT,AXBZ,KUB
+374,t e k o,GLOSS 3 ENGL,FALSE,flor,33,PWT,GLOSA 2 ENGL,flower,teko,PET,GLOSA 2 PORT,t e k o - - ( - - ),teko,GLOSA 3 PORT,AXBZ,KUE
+375,h o d o,GLOSS 3 ENGL,FALSE,flor,33,PWT,GLOSA 2 ENGL,flower,hodo,PET,GLOSA 2 PORT,- - h o - - ( d o ),hodo,GLOSA 3 PORT,AXBZ,SEK
+376,k o d o,GLOSS 3 ENGL,FALSE,flor,33,PWT,GLOSA 2 ENGL,flower,kodo,PET,GLOSA 2 PORT,- - k o - - ( d o ),kodo,GLOSA 3 PORT,AXBZ,SIO
+377,õ ʔ õ,GLOSS 3 ENGL,FALSE,flor,33,PWT,GLOSA 2 ENGL,flower,~oʔo,PET,GLOSA 2 PORT,- - - õ ʔ õ ( - - ),~oʔo,GLOSA 3 PORT,XBZ,TAN
+378,o ʔ o,GLOSS 3 ENGL,FALSE,flor,33,PWT,GLOSA 2 ENGL,flower,oʔo,PET,GLOSA 2 PORT,- - - o ʔ o ( - - ),oʔo,GLOSA 3 PORT,XBZ,TUK
+379,k o o,GLOSS 3 ENGL,FALSE,flor,33,PWT,GLOSA 2 ENGL,flower,koo,PET,GLOSA 2 PORT,- - k o - o ( - - ),koo,GLOSA 3 PORT,AXZ,TUY
+380,k o ʔ o,GLOSS 3 ENGL,FALSE,flor,33,PWT,GLOSA 2 ENGL,flower,koʔo,PET,GLOSA 2 PORT,- - k o ʔ o ( - - ),koʔo,GLOSA 3 PORT,AXBZ,WAN
+381,kʔ o ʔ o,,TRUE,,33,,,flower,*kʔoʔo,,,- - kʔ o ʔ o ( - - ),,,AXBZ,*PT
+382,k ã n ĩ,GLOSS 3 ENGL,FALSE,dormir,34,PWT,GLOSA 2 ENGL,sleep,~kadi,PET,GLOSA 2 PORT,k ã n ĩ,~kadi,GLOSA 3 PORT,AXBZ,BAS
+383,k ã n ĩ,GLOSS 3 ENGL,FALSE,dormir,34,PWT,GLOSA 2 ENGL,sleep,~kadi,PET,GLOSA 2 PORT,k ã n ĩ,~kadi,GLOSA 3 PORT,AXBZ,DES
+384,k ã n ĩ,GLOSS 3 ENGL,FALSE,dormir,34,PWT,GLOSA 2 ENGL,sleep,~kadi,PET,GLOSA 2 PORT,k ã n ĩ,~kadi,GLOSA 3 PORT,AXBZ,KAR
+385,k ã + i,GLOSS 3 ENGL,FALSE,dormir,34,PWT,GLOSA 2 ENGL,sleep,kã+i,PET,GLOSA 2 PORT,k ã - -,kã-i,GLOSA 3 PORT,AX,KOR
+386,k ã,GLOSS 3 ENGL,FALSE,dormir,34,PWT,GLOSA 2 ENGL,sleep,kã,PET,GLOSA 2 PORT,k ã - -,kã,GLOSA 3 PORT,AX,KUB
+387,k ã + i,GLOSS 3 ENGL,FALSE,dormir,34,PWT,GLOSA 2 ENGL,sleep,kã+i,PET,GLOSA 2 PORT,k ã - -,kã-i,GLOSA 3 PORT,AX,MAI
+388,k ã + i,GLOSS 3 ENGL,FALSE,dormir,34,PWT,GLOSA 2 ENGL,sleep,kã+i,PET,GLOSA 2 PORT,k ã - -,kã-i,GLOSA 3 PORT,AX,SEK
+389,k ã + i,GLOSS 3 ENGL,TRUE,dormir,34,PWT,GLOSA 2 ENGL,sleep,kã+i,PET,GLOSA 2 PORT,k ã - -,kã-i,GLOSA 3 PORT,AX,SIO
+390,k ã r̃ ĩ,GLOSS 3 ENGL,FALSE,dormir,34,PWT,GLOSA 2 ENGL,sleep,~kari,PET,GLOSA 2 PORT,k ã r ĩ,~kari,GLOSA 3 PORT,AXBZ,TAN
+391,k ã n ĩ,GLOSS 3 ENGL,FALSE,dormir,34,PWT,GLOSA 2 ENGL,sleep,~kadi,PET,GLOSA 2 PORT,k ã n ĩ,~kadi,GLOSA 3 PORT,AXBZ,TUK
+392,k ã n ĩ,GLOSS 3 ENGL,FALSE,dormir,34,PWT,GLOSA 2 ENGL,sleep,~kadi,PET,GLOSA 2 PORT,k ã n ĩ,~kadi,GLOSA 3 PORT,AXBZ,TUY
+393,kh ã n ĩ,GLOSS 3 ENGL,FALSE,dormir,34,PWT,GLOSA 2 ENGL,sleep,~khadi,PET,GLOSA 2 PORT,kh ã n ĩ,~khadi,GLOSA 3 PORT,AXBZ,WAN
+394,k ã,,FALSE,,34,,,sleep,*kã-,,,k ã - -,,,AX,*PT
+395,k a t∫ a,GLOSS 3 ENGL,FALSE,jirau,35,PWT,GLOSA 2 ENGL,elevated structure (shelves roof etc.),kaca,PET,GLOSA 2 PORT,k a t∫ a,kaca,GLOSA 3 PORT,AXBZ,BAS
+396,k a j a,GLOSS 3 ENGL,FALSE,jirau,35,PWT,GLOSA 2 ENGL,elevated structure (shelves roof etc.),kaja,PET,GLOSA 2 PORT,k a j a,kaja,GLOSA 3 PORT,AXBZ,DES
+397,k a j a,GLOSS 3 ENGL,FALSE,jirau,35,PWT,GLOSA 2 ENGL,elevated structure (shelves roof etc.),kaja,PET,GLOSA 2 PORT,k a j a,kaja,GLOSA 3 PORT,AXBZ,KAR
+398,kh a j a,GLOSS 3 ENGL,FALSE,jirau,35,PWT,GLOSA 2 ENGL,elevated structure (shelves roof etc.),khaja,PET,GLOSA 2 PORT,kh a j a,khaja,GLOSA 3 PORT,AXBZ,KOR
+399,k a j a,GLOSS 3 ENGL,FALSE,jirau,35,PWT,GLOSA 2 ENGL,elevated structure (shelves roof etc.),kaja,PET,GLOSA 2 PORT,k a j a,kaja,GLOSA 3 PORT,AXBZ,KUB
+400,k a s a,GLOSS 3 ENGL,FALSE,jirau,35,PWT,GLOSA 2 ENGL,elevated structure (shelves roof etc.),kasa,PET,GLOSA 2 PORT,k a s a,kasa,GLOSA 3 PORT,AXBZ,TUK
+401,k a s a,GLOSS 3 ENGL,FALSE,jirau,35,PWT,GLOSA 2 ENGL,elevated structure (shelves roof etc.),kasa,PET,GLOSA 2 PORT,k a s a,kasa,GLOSA 3 PORT,AXBZ,WAN
+402,k a j a,,FALSE,,35,,,elevated structure (shelves roof etc.),*kaja,,,k a j a,,,AXBZ,*PT
+403,k ĩ ĩ,GLOSS 3 ENGL,FALSE,mandioca,36,PWT,GLOSA 2 ENGL,manioc,kĩ,PET,GLOSA 2 PORT,k ĩ ĩ,kĩ,GLOSA 3 PORT,AXZ,BAS
+404,k ĩ ĩ,GLOSS 3 ENGL,FALSE,mandioca,36,PWT,GLOSA 2 ENGL,manioc,kĩĩ,PET,GLOSA 2 PORT,k ĩ ĩ,kĩĩ,GLOSA 3 PORT,AXZ,DES
+405,k i i,GLOSS 3 ENGL,FALSE,mandioca,36,PWT,GLOSA 2 ENGL,manioc,kii,PET,GLOSA 2 PORT,k i i,kii,GLOSA 3 PORT,AXZ,KAR
+406,kh ɨ i,GLOSS 3 ENGL,FALSE,mandioca,36,PWT,GLOSA 2 ENGL,manioc,khɨi,PET,GLOSA 2 PORT,kh ɨ i,khɨi,GLOSA 3 PORT,AXZ,KOR
+407,k ɨ i,GLOSS 3 ENGL,FALSE,mandioca,36,PWT,GLOSA 2 ENGL,manioc,kɨi,PET,GLOSA 2 PORT,k ɨ i,kɨi,GLOSA 3 PORT,AXZ,KUB
+408,k ɨ,GLOSS 3 ENGL,FALSE,mandioca,36,PWT,GLOSA 2 ENGL,manioc,kɨ,PET,GLOSA 2 PORT,k ɨ -,kɨ,GLOSA 3 PORT,AX,KUE
+409,k ɨ i,GLOSS 3 ENGL,FALSE,mandioca,36,PWT,GLOSA 2 ENGL,manioc,kɨi,PET,GLOSA 2 PORT,k ɨ i,kɨi,GLOSA 3 PORT,AXZ,MAI
+410,k ɨ i,GLOSS 3 ENGL,FALSE,mandioca,36,PWT,GLOSA 2 ENGL,manioc,kɨi,PET,GLOSA 2 PORT,k ɨ i,kɨi,GLOSA 3 PORT,AXZ,SIO
+411,k i,GLOSS 3 ENGL,FALSE,mandioca,36,PWT,GLOSA 2 ENGL,manioc,ki,PET,GLOSA 2 PORT,k - i,ki,GLOSA 3 PORT,AX,TAN
+412,k i i,GLOSS 3 ENGL,FALSE,mandioca,36,PWT,GLOSA 2 ENGL,manioc,kii,PET,GLOSA 2 PORT,k i i,kii,GLOSA 3 PORT,AXZ,TUK
+413,kh ɨ ɨ,GLOSS 3 ENGL,FALSE,mandioca,36,PWT,GLOSA 2 ENGL,manioc,khɨɨ,PET,GLOSA 2 PORT,kh ɨ ɨ,khɨɨ,GLOSA 3 PORT,AXZ,WAN
+414,k ɨ i,,TRUE,,36,,,manioc,*kɨi,,,k ɨ i,,,AXZ,*PT
+415,k õ n ẽ,GLOSS 3 ENGL,FALSE,pica-pau,37,PWT,GLOSA 2 ENGL,woodpecker,~kode,PET,GLOSA 2 PORT,k õ n ẽ,~kode,GLOSA 3 PORT,AXBZ,BAS
+416,k õ n ẽ,GLOSS 3 ENGL,FALSE,pica-pau,37,PWT,GLOSA 2 ENGL,woodpecker,~kode,PET,GLOSA 2 PORT,k õ n ẽ,~kode,GLOSA 3 PORT,AXBZ,DES
+417,k õ n ẽ,GLOSS 3 ENGL,FALSE,pica-pau,37,PWT,GLOSA 2 ENGL,woodpecker,~kode,PET,GLOSA 2 PORT,k õ n ẽ,~kode,GLOSA 3 PORT,AXBZ,KAR
+418,kh õ n e,GLOSS 3 ENGL,FALSE,pica-pau,37,PWT,GLOSA 2 ENGL,woodpecker,khõne,PET,GLOSA 2 PORT,kh õ n e,khõne,GLOSA 3 PORT,AXBZ,KOR
+419,k õ n ẽ,GLOSS 3 ENGL,FALSE,pica-pau,37,PWT,GLOSA 2 ENGL,woodpecker,~kode,PET,GLOSA 2 PORT,k õ n ẽ,~kode,GLOSA 3 PORT,AXBZ,KUB
+420,k o n e,GLOSS 3 ENGL,FALSE,pica-pau,37,PWT,GLOSA 2 ENGL,woodpecker,kone,PET,GLOSA 2 PORT,k o n e,kone,GLOSA 3 PORT,AXBZ,MAI
+421,k õ n e,GLOSS 3 ENGL,FALSE,pica-pau,37,PWT,GLOSA 2 ENGL,woodpecker,kõne,PET,GLOSA 2 PORT,k õ n e,kõne,GLOSA 3 PORT,AXBZ,SEK
+422,k o n e,GLOSS 3 ENGL,FALSE,pica-pau,37,PWT,GLOSA 2 ENGL,woodpecker,kone,PET,GLOSA 2 PORT,k o n e,kone,GLOSA 3 PORT,AXBZ,SIO
+423,k õ n ẽ,GLOSS 3 ENGL,FALSE,pica-pau,37,PWT,GLOSA 2 ENGL,woodpecker,~kode,PET,GLOSA 2 PORT,k õ n ẽ,~kode,GLOSA 3 PORT,AXBZ,TUK
+424,kh õ n ẽ,GLOSS 3 ENGL,FALSE,pica-pau,37,PWT,GLOSA 2 ENGL,woodpecker,~khode,PET,GLOSA 2 PORT,kh õ n ẽ,~khode,GLOSA 3 PORT,AXBZ,WAN
+425,k o n e,,FALSE,,37,,,woodpecker,*kone,,,k o n e,,,AXBZ,*PT
+426,k ũ n ĩ,GLOSS 3 ENGL,FALSE,morder,38,PWT,GLOSA 2 ENGL,to bite,~kuni,PET,GLOSA 2 PORT,k ũ n ĩ,~kuni,GLOSA 3 PORT,AXBZ,BAS
+427,k ũ n ĩ,GLOSS 3 ENGL,FALSE,morder,38,PWT,GLOSA 2 ENGL,to bite,~kudi,PET,GLOSA 2 PORT,k ũ n ĩ,~kudi,GLOSA 3 PORT,AXBZ,DES
+428,kh ũ ʔ i,GLOSS 3 ENGL,FALSE,morder,38,PWT,GLOSA 2 ENGL,to bite,khũʔi,PET,GLOSA 2 PORT,kh ũ ʔ i,khũʔi,GLOSA 3 PORT,AXBZ,KOR
+429,k ũ,GLOSS 3 ENGL,FALSE,morder,38,PWT,GLOSA 2 ENGL,to bite,~ku,PET,GLOSA 2 PORT,k ũ - -,~ku,GLOSA 3 PORT,AX,KUB
+430,k ũ i,GLOSS 3 ENGL,FALSE,morder,38,PWT,GLOSA 2 ENGL,to bite,kũi,PET,GLOSA 2 PORT,k ũ - i,kũi,GLOSA 3 PORT,AXZ,MAI
+431,k õ k ɨ,GLOSS 3 ENGL,FALSE,morder,38,PWT,GLOSA 2 ENGL,to bite,kõkɨ,PET,GLOSA 2 PORT,k õ k ɨ,kõkɨ,GLOSA 3 PORT,AXBZ,SEK
+432,k ũ ʔ i,GLOSS 3 ENGL,FALSE,morder,38,PWT,GLOSA 2 ENGL,to bite,kũʔi,PET,GLOSA 2 PORT,k ũ ʔ i,kũʔi,GLOSA 3 PORT,AXBZ,SIO
+433,k u ʔk u,GLOSS 3 ENGL,FALSE,morder,38,PWT,GLOSA 2 ENGL,to bite,kuʔku,PET,GLOSA 2 PORT,k u ʔk u,kuʔku,GLOSA 3 PORT,AXBZ,TAN
+434,k ũ ʔn ĩ,GLOSS 3 ENGL,FALSE,morder,38,PWT,GLOSA 2 ENGL,to bite,~kuʔdi,PET,GLOSA 2 PORT,k ũ ʔn ĩ,~kuʔdi,GLOSA 3 PORT,AXBZ,TUK
+435,b a k a,GLOSS 3 ENGL,FALSE,morder,142,PWT,GLOSA 2 ENGL,to bite,baka,PET,GLOSA 2 PORT,b a k a - -,baka,GLOSA 3 PORT,AXBZ,TUY
+436,k ũ r̃ ĩ,GLOSS 3 ENGL,FALSE,morder,38,PWT,GLOSA 2 ENGL,to bite,~kuri,PET,GLOSA 2 PORT,k ũ r ĩ,~kuri,GLOSA 3 PORT,AXBZ,YUP
+437,k ũ,,FALSE,,38,,,to bite,*kũ,,,k ũ - -,,,AX,*PT
+438,k u ẽ s o,GLOSS 3 ENGL,FALSE,Capivara,39,PWT,GLOSA 2 ENGL,capybara,kuẽso,PET,GLOSA 2 PORT,kw ẽ s o,kuẽso,GLOSA 3 PORT,AXYBZ,KOR
+439,k e t u,GLOSS 3 ENGL,FALSE,Capivara,39,PWT,GLOSA 2 ENGL,capybara,ketu,PET,GLOSA 2 PORT,k e t u,ketu,GLOSA 3 PORT,AXBZ,KUE
+440,k u e s o,GLOSS 3 ENGL,FALSE,Capivara,39,PWT,GLOSA 2 ENGL,capybara,kueso,PET,GLOSA 2 PORT,kw e s o,kueso,GLOSA 3 PORT,AXYBZ,SEK
+441,kʔ u e s o,GLOSS 3 ENGL,FALSE,Capivara,39,PWT,GLOSA 2 ENGL,capybara,kʔueso,PET,GLOSA 2 PORT,kwʔ e s o,kʔueso,GLOSA 3 PORT,AXYBZ,SIO
+442,k e e h u,GLOSS 3 ENGL,FALSE,Capivara,39,PWT,GLOSA 2 ENGL,capybara,keehu,PET,GLOSA 2 PORT,k e h u,keehu,GLOSA 3 PORT,AXYBZ,TAN
+443,k w e t j u,,FALSE,,39,,,capybara,*kwetju,,,kw e tj u,,,AXBZ,*PT
+444,k o d e,GLOSS 3 ENGL,FALSE,esperar,40,PWT,GLOSA 2 ENGL,wait,kode,PET,GLOSA 2 PORT,k o d e,kode,GLOSA 3 PORT,AXBZ,BAS
+445,k o d e,GLOSS 3 ENGL,FALSE,esperar,40,PWT,GLOSA 2 ENGL,wait,kode,PET,GLOSA 2 PORT,k o d e,kode,GLOSA 3 PORT,AXBZ,DES
+446,k o d e,GLOSS 3 ENGL,FALSE,esperar,40,PWT,GLOSA 2 ENGL,wait,kode,PET,GLOSA 2 PORT,k o d e,kode,GLOSA 3 PORT,AXBZ,KUB
+447,h o t e,GLOSS 3 ENGL,FALSE,esperar,40,PWT,GLOSA 2 ENGL,wait,hote,PET,GLOSA 2 PORT,h o t e,hote,GLOSA 3 PORT,AXBZ,KUE
+448,ɨ̃ t e,GLOSS 3 ENGL,FALSE,esperar,40,PWT,GLOSA 2 ENGL,wait,ɨ̃te,PET,GLOSA 2 PORT,- ɨ̃ t e,ɨ̃te,GLOSA 3 PORT,XBZ,MAI
+449,u t e,GLOSS 3 ENGL,FALSE,esperar,40,PWT,GLOSA 2 ENGL,wait,ute,PET,GLOSA 2 PORT,- u t e,ute,GLOSA 3 PORT,XBZ,SEK
+450,k o ʔt e,GLOSS 3 ENGL,FALSE,esperar,40,PWT,GLOSA 2 ENGL,wait,koʔte,PET,GLOSA 2 PORT,k o ʔt e,koʔte,GLOSA 3 PORT,AXBZ,TUK
+451,k o ʔt a,GLOSS 3 ENGL,FALSE,esperar,40,PWT,GLOSA 2 ENGL,wait,koʔta,PET,GLOSA 2 PORT,k o ʔt a,koʔta,GLOSA 3 PORT,AXBZ,WAN
+452,k o r e,GLOSS 3 ENGL,FALSE,esperar,40,PWT,GLOSA 2 ENGL,wait,kore,PET,GLOSA 2 PORT,k o r e,kore,GLOSA 3 PORT,AXBZ,YUP
+453,kw ɨ tʔ e,,TRUE,,40,,,wait,*kwɨtʔe,,,kw ɨ tʔ e,,,AXBZ,*PT
+454,m ã h ã,GLOSS 3 ENGL,FALSE,arara,41,PWT,GLOSA 2 ENGL,macaw,~baha,PET,GLOSA 2 PORT,( - - - ) m ã h ã,~baha,GLOSA 3 PORT,AXBZ,BAS
+455,m ã h ã,GLOSS 3 ENGL,FALSE,arara,41,PWT,GLOSA 2 ENGL,macaw,~baha,PET,GLOSA 2 PORT,( - - - ) m ã h ã,~baha,GLOSA 3 PORT,AXBZ,DES
+456,m a a,GLOSS 3 ENGL,FALSE,arara,41,PWT,GLOSA 2 ENGL,macaw,~baa,PET,GLOSA 2 PORT,( - - - ) m a - a,~baa,GLOSA 3 PORT,AXZ,KAR
+457,m a a,GLOSS 3 ENGL,FALSE,arara,41,PWT,GLOSA 2 ENGL,macaw,maa,PET,GLOSA 2 PORT,( - - - ) m a - a,maa,GLOSA 3 PORT,AXZ,KOR
+458,m ã,GLOSS 3 ENGL,FALSE,arara,41,PWT,GLOSA 2 ENGL,macaw,~ma,PET,GLOSA 2 PORT,( - - - ) m ã - -,~ma,GLOSA 3 PORT,AX,KUB
+459,m a,GLOSS 3 ENGL,FALSE,arara,41,PWT,GLOSA 2 ENGL,macaw,ma,PET,GLOSA 2 PORT,( - - - ) m a - -,ma,GLOSA 3 PORT,AX,MAI
+460,t o a m a,GLOSS 3 ENGL,FALSE,arara,41,PWT,GLOSA 2 ENGL,macaw,toa+ma,PET,GLOSA 2 PORT,( t o a ) m a - -,toa-ma,GLOSA 3 PORT,AXYBZ,SEK
+461,m a,GLOSS 3 ENGL,FALSE,arara,41,PWT,GLOSA 2 ENGL,macaw,ma,PET,GLOSA 2 PORT,( - - - ) m a - -,ma,GLOSA 3 PORT,AX,SIO
+462,m ã h ã,GLOSS 3 ENGL,FALSE,arara,41,PWT,GLOSA 2 ENGL,macaw,~baha,PET,GLOSA 2 PORT,( - - - ) m ã h ã,~baha,GLOSA 3 PORT,AXBZ,TUK
+463,m ã h ã,GLOSS 3 ENGL,FALSE,arara,41,PWT,GLOSA 2 ENGL,macaw,~baha,PET,GLOSA 2 PORT,( - - - ) m ã h ã,~baha,GLOSA 3 PORT,AXBZ,WAN
+464,m a h a,,FALSE,,41,,,macaw,*maha,,,( - - - ) m a h a,,,AXBZ,*PT
+465,m ã c ĩ,GLOSS 3 ENGL,FALSE,saber,42,PWT,GLOSA 2 ENGL,know,~baci,PET,GLOSA 2 PORT,m ã ts ĩ,~baci,GLOSA 3 PORT,AXBZ,BAS
+466,m ã s ĩ,GLOSS 3 ENGL,FALSE,saber,42,PWT,GLOSA 2 ENGL,know,~basi,PET,GLOSA 2 PORT,m ã s ĩ,~basi,GLOSA 3 PORT,AXBZ,DES
+467,m a s i,GLOSS 3 ENGL,FALSE,saber,42,PWT,GLOSA 2 ENGL,know,masi,PET,GLOSA 2 PORT,m a s i,masi,GLOSA 3 PORT,AXBZ,KOR
+468,m a h i,GLOSS 3 ENGL,FALSE,saber,42,PWT,GLOSA 2 ENGL,know,mahi,PET,GLOSA 2 PORT,m a h i,mahi,GLOSA 3 PORT,AXBZ,KUB
+469,m a s i,GLOSS 3 ENGL,FALSE,saber,42,PWT,GLOSA 2 ENGL,know,masi,PET,GLOSA 2 PORT,m a s i,masi,GLOSA 3 PORT,AXBZ,KUE
+470,m a ʔs i,GLOSS 3 ENGL,TRUE,saber,42,PWT,GLOSA 2 ENGL,know,maʔsi,PET,GLOSA 2 PORT,m a ʔs i,maʔsi,GLOSA 3 PORT,AXBZ,SIO
+471,m ã s ĩ,GLOSS 3 ENGL,FALSE,saber,42,PWT,GLOSA 2 ENGL,know,~basi,PET,GLOSA 2 PORT,m ã s ĩ,~basi,GLOSA 3 PORT,AXBZ,TUK
+472,m ã s ĩ,GLOSS 3 ENGL,FALSE,saber,42,PWT,GLOSA 2 ENGL,know,~basi,PET,GLOSA 2 PORT,m ã s ĩ,~basi,GLOSA 3 PORT,AXBZ,TUY
+473,m ã s ĩ,GLOSS 3 ENGL,FALSE,saber,42,PWT,GLOSA 2 ENGL,know,~basi,PET,GLOSA 2 PORT,m ã s ĩ,~basi,GLOSA 3 PORT,AXBZ,WAN
+474,m a s i,,FALSE,,42,,,know,*masi,,,m a s i,,,AXBZ,*PT
+475,m a a,GLOSS 3 ENGL,FALSE,caminho,43,PWT,GLOSA 2 ENGL,path,~baa,PET,GLOSA 2 PORT,m a - a,~baa,GLOSA 3 PORT,AXZ,BAS
+476,m ã ʔ ã,GLOSS 3 ENGL,FALSE,caminho,43,PWT,GLOSA 2 ENGL,path,~baʔa,PET,GLOSA 2 PORT,m ã ʔ ã,~baʔa,GLOSA 3 PORT,AXBZ,DES
+477,m ã ʔ ã,GLOSS 3 ENGL,FALSE,caminho,43,PWT,GLOSA 2 ENGL,path,~baʔa,PET,GLOSA 2 PORT,m ã ʔ ã,~baʔa,GLOSA 3 PORT,AXBZ,KAR
+478,m a ʔ a,GLOSS 3 ENGL,FALSE,caminho,43,PWT,GLOSA 2 ENGL,path,maʔa,PET,GLOSA 2 PORT,m a ʔ a,maʔa,GLOSA 3 PORT,AXBZ,KOR
+479,m ã,GLOSS 3 ENGL,FALSE,caminho,43,PWT,GLOSA 2 ENGL,path,~ba,PET,GLOSA 2 PORT,m ã - -,~ba,GLOSA 3 PORT,AX,KUB
+480,m a a,GLOSS 3 ENGL,FALSE,caminho,43,PWT,GLOSA 2 ENGL,path,maa,PET,GLOSA 2 PORT,m a - a,maa,GLOSA 3 PORT,AXZ,KUE
+481,m a,GLOSS 3 ENGL,FALSE,caminho,43,PWT,GLOSA 2 ENGL,path,ma,PET,GLOSA 2 PORT,m a - -,ma,GLOSA 3 PORT,AX,MAI
+482,m a ʔ a,GLOSS 3 ENGL,FALSE,caminho,43,PWT,GLOSA 2 ENGL,path,maʔa,PET,GLOSA 2 PORT,m a ʔ a,maʔa,GLOSA 3 PORT,AXBZ,SEK
+483,m a ʔ a,GLOSS 3 ENGL,FALSE,caminho,43,PWT,GLOSA 2 ENGL,path,maʔa,PET,GLOSA 2 PORT,m a ʔ a,maʔa,GLOSA 3 PORT,AXBZ,SIO
+484,m ã ʔ ã,GLOSS 3 ENGL,FALSE,caminho,43,PWT,GLOSA 2 ENGL,path,~baʔa,PET,GLOSA 2 PORT,m ã ʔ ã,~baʔa,GLOSA 3 PORT,AXBZ,TAN
+485,m ã,GLOSS 3 ENGL,FALSE,caminho,43,PWT,GLOSA 2 ENGL,path,~ba,PET,GLOSA 2 PORT,m ã - -,~ba,GLOSA 3 PORT,AX,TUK
+486,m a a,GLOSS 3 ENGL,FALSE,caminho,43,PWT,GLOSA 2 ENGL,path,~baa,PET,GLOSA 2 PORT,m a - a,~baa,GLOSA 3 PORT,AXZ,TUY
+487,m ã ʔ ã,GLOSS 3 ENGL,FALSE,caminho,43,PWT,GLOSA 2 ENGL,path,~baʔa,PET,GLOSA 2 PORT,m ã ʔ ã,~baʔa,GLOSA 3 PORT,AXBZ,WAN
+488,m a ʔ a,,FALSE,,43,,,path,*maʔa,,,m a ʔ a,,,AXBZ,*PT
+489,m ẽ k ã,GLOSS 3 ENGL,FALSE,formiga sp.,44,PWT,GLOSA 2 ENGL,ant sp.,~beka,PET,GLOSA 2 PORT,m ẽ k ã,~beka,GLOSA 3 PORT,AXBZ,BAS
+490,m ẽ ŋ ã,GLOSS 3 ENGL,FALSE,formiga sp.,44,PWT,GLOSA 2 ENGL,ant sp.,~bega,PET,GLOSA 2 PORT,m ẽ ŋ ã,~bega,GLOSA 3 PORT,AXBZ,DES
+491,m ẽ k ã,GLOSS 3 ENGL,FALSE,formiga sp.,44,PWT,GLOSA 2 ENGL,ant sp.,~beka,PET,GLOSA 2 PORT,m ẽ k ã,~beka,GLOSA 3 PORT,AXBZ,KAR
+492,m e kh a,GLOSS 3 ENGL,FALSE,formiga sp.,44,PWT,GLOSA 2 ENGL,ant sp.,mekha,PET,GLOSA 2 PORT,m e kh a,mekha,GLOSA 3 PORT,AXBZ,KOR
+493,m ẽ ã,GLOSS 3 ENGL,FALSE,formiga sp.,44,PWT,GLOSA 2 ENGL,ant sp.,~bea,PET,GLOSA 2 PORT,m ẽ - ã,~bea,GLOSA 3 PORT,AXZ,KUB
+494,m e ki a,GLOSS 3 ENGL,FALSE,formiga sp.,44,PWT,GLOSA 2 ENGL,ant sp.,mekia,PET,GLOSA 2 PORT,m e kj a,mekia,GLOSA 3 PORT,AXBZ,KUE
+495,m e k a,GLOSS 3 ENGL,FALSE,formiga sp.,44,PWT,GLOSA 2 ENGL,ant sp.,meka,PET,GLOSA 2 PORT,m e k a,meka,GLOSA 3 PORT,AXBZ,MAI
+496,m e a,GLOSS 3 ENGL,FALSE,formiga sp.,44,PWT,GLOSA 2 ENGL,ant sp.,mea,PET,GLOSA 2 PORT,m e - a,mea,GLOSA 3 PORT,AXZ,SIO
+497,m ẽ k ã,GLOSS 3 ENGL,FALSE,formiga sp.,44,PWT,GLOSA 2 ENGL,ant sp.,~beka,PET,GLOSA 2 PORT,m ẽ k ã,~beka,GLOSA 3 PORT,AXBZ,TAN
+498,m ẽ k ã,GLOSS 3 ENGL,FALSE,formiga sp.,44,PWT,GLOSA 2 ENGL,ant sp.,~beka,PET,GLOSA 2 PORT,m ẽ k ã,~beka,GLOSA 3 PORT,AXBZ,TUK
+499,m ã t∫ ɨ̃,GLOSS 3 ENGL,FALSE,formiga sp.,44,PWT,GLOSA 2 ENGL,ant sp.,~bat∫ɨ,PET,GLOSA 2 PORT,m ã t∫ ɨ̃,~bat∫ɨ,GLOSA 3 PORT,AXBZ,WAN
+500,m e k a,,FALSE,,44,,,ant sp.,*meka,,,m e k a,,,AXBZ,*PT
+501,m ĩ m ĩ,GLOSS 3 ENGL,FALSE,beija-flor,45,PWT,GLOSA 2 ENGL,hummingbird,~bibi,PET,GLOSA 2 PORT,m ĩ m ĩ,~bibi,GLOSA 3 PORT,AXBZ,BAS
+502,m ĩ m ĩ,GLOSS 3 ENGL,FALSE,beija-flor,45,PWT,GLOSA 2 ENGL,hummingbird,~bibi,PET,GLOSA 2 PORT,m ĩ m ĩ,~bibi,GLOSA 3 PORT,AXBZ,DES
+503,m ĩ m ĩ,GLOSS 3 ENGL,FALSE,beija-flor,45,PWT,GLOSA 2 ENGL,hummingbird,~bibi,PET,GLOSA 2 PORT,m ĩ m ĩ,~bibi,GLOSA 3 PORT,AXBZ,KAR
+504,m i m i,GLOSS 3 ENGL,FALSE,beija-flor,45,PWT,GLOSA 2 ENGL,hummingbird,mimi,PET,GLOSA 2 PORT,m i m i,mimi,GLOSA 3 PORT,AXBZ,KOR
+505,m ĩ m ĩ,GLOSS 3 ENGL,FALSE,beija-flor,45,PWT,GLOSA 2 ENGL,hummingbird,~bibi,PET,GLOSA 2 PORT,m ĩ m ĩ,~bibi,GLOSA 3 PORT,AXBZ,KUB
+506,m i m i,GLOSS 3 ENGL,FALSE,beija-flor,45,PWT,GLOSA 2 ENGL,hummingbird,mimi,PET,GLOSA 2 PORT,m i m i,mimi,GLOSA 3 PORT,AXBZ,KUE
+507,m i m i,GLOSS 3 ENGL,FALSE,beija-flor,45,PWT,GLOSA 2 ENGL,hummingbird,mimi,PET,GLOSA 2 PORT,m i m i,mimi,GLOSA 3 PORT,AXBZ,MAI
+508,m i m i,GLOSS 3 ENGL,FALSE,beija-flor,45,PWT,GLOSA 2 ENGL,hummingbird,mimi,PET,GLOSA 2 PORT,m i m i,mimi,GLOSA 3 PORT,AXBZ,SEK
+509,m i m i,GLOSS 3 ENGL,FALSE,beija-flor,45,PWT,GLOSA 2 ENGL,hummingbird,mimi,PET,GLOSA 2 PORT,m i m i,mimi,GLOSA 3 PORT,AXBZ,SIO
+510,m ĩ m ĩ,GLOSS 3 ENGL,FALSE,beija-flor,45,PWT,GLOSA 2 ENGL,hummingbird,~bibi,PET,GLOSA 2 PORT,m ĩ m ĩ,~bibi,GLOSA 3 PORT,AXBZ,TUK
+511,w̃ ĩ ʔm ĩ,GLOSS 3 ENGL,FALSE,beija-flor,45,PWT,GLOSA 2 ENGL,hummingbird,~wiʔbi,PET,GLOSA 2 PORT,w̃ ĩ ʔm ĩ,~wiʔbi,GLOSA 3 PORT,AXBZ,WAN
+512,m i m i,,FALSE,,45,,,hummingbird,*mimi,,,m i m i,,,AXBZ,*PT
+513,m ɨ̃ ã,GLOSS 3 ENGL,FALSE,vocês,46,PWT,GLOSA 2 ENGL,you all,~bɨa,PET,GLOSA 2 PORT,m ɨ̃ - ã ( - - - - - - ),~bɨa,GLOSA 3 PORT,AXZ,BAS
+514,m ɨ̃ ã,GLOSS 3 ENGL,FALSE,vocês,46,PWT,GLOSA 2 ENGL,you all,~bɨa,PET,GLOSA 2 PORT,m ɨ̃ - ã ( - - - - - - ),~bɨa,GLOSA 3 PORT,AXZ,DES
+515,m ɨ̃ s ã,GLOSS 3 ENGL,FALSE,vocês,46,PWT,GLOSA 2 ENGL,you all,~bɨsa,PET,GLOSA 2 PORT,m ɨ̃ s ã ( - - - - - - ),~bɨsa,GLOSA 3 PORT,AXBZ,KAR
+516,m ɨ s a n ɨ kh o n a,GLOSS 3 ENGL,FALSE,vocês,46,PWT,GLOSA 2 ENGL,you all,mɨsanɨkhona,PET,GLOSA 2 PORT,m ɨ s a ( n ɨ kh o n a ),mɨsanɨkhona,GLOSA 3 PORT,AXBYBYBYBZ,KOR
+517,m ɨ̃ h ã,GLOSS 3 ENGL,FALSE,vocês,46,PWT,GLOSA 2 ENGL,you all,~bɨha,PET,GLOSA 2 PORT,m ɨ̃ h ã ( - - - - - - ),~bɨha,GLOSA 3 PORT,AXBZ,KUB
+518,m ɨ t a,GLOSS 3 ENGL,FALSE,vocês,46,PWT,GLOSA 2 ENGL,you all,mɨta,PET,GLOSA 2 PORT,m ɨ t a ( - - - - - - ),mɨta,GLOSA 3 PORT,AXBZ,KUE
+519,m ɨ s a,GLOSS 3 ENGL,FALSE,vocês,46,PWT,GLOSA 2 ENGL,you all,mɨsa,PET,GLOSA 2 PORT,m ɨ s a ( - - - - - - ),mɨsa,GLOSA 3 PORT,AXBZ,MAI
+520,m ɨ s a r u,GLOSS 3 ENGL,FALSE,vocês,46,PWT,GLOSA 2 ENGL,you all,mɨsaru,PET,GLOSA 2 PORT,m ɨ s a ( - - r - - u ),mɨsaru,GLOSA 3 PORT,AXBYBZ,SEK
+521,m ɨ s a k w a,GLOSS 3 ENGL,FALSE,vocês,46,PWT,GLOSA 2 ENGL,you all,mɨsakwa,PET,GLOSA 2 PORT,m ɨ s a ( - - k - w a ),mɨsakwa,GLOSA 3 PORT,AXBYBCZ,SIO
+522,m ĩ h ã,GLOSS 3 ENGL,FALSE,vocês,46,PWT,GLOSA 2 ENGL,you all,~biha,PET,GLOSA 2 PORT,m ĩ h ã ( - - - - - - ),~biha,GLOSA 3 PORT,AXBZ,TAN
+523,m ɨ̃ s ã,GLOSS 3 ENGL,FALSE,vocês,46,PWT,GLOSA 2 ENGL,you all,~bɨsa,PET,GLOSA 2 PORT,m ɨ̃ s ã ( - - - - - - ),~bɨsa,GLOSA 3 PORT,AXBZ,TUK
+524,m ɨ̃ ã,GLOSS 3 ENGL,FALSE,vocês,46,PWT,GLOSA 2 ENGL,you all,~bɨa,PET,GLOSA 2 PORT,m ɨ̃ - ã ( - - - - - - ),~bɨa,GLOSA 3 PORT,AXZ,TUY
+525,m ɨ̃ h ã,GLOSS 3 ENGL,FALSE,vocês,46,PWT,GLOSA 2 ENGL,you all,~bɨha,PET,GLOSA 2 PORT,m ɨ̃ h ã ( - - - - - - ),~bɨha,GLOSA 3 PORT,AXBZ,WAN
+526,m ɨ tj a,,FALSE,,46,,,you all,*mɨ-tja,,,m ɨ ts a ( - - - - - - ),,,AXBZ,*PT
+527,m ɨ̃ ʔn õ,GLOSS 3 ENGL,FALSE,tabaco,47,PWT,GLOSA 2 ENGL,tobacco,~bɨʔdo,PET,GLOSA 2 PORT,m ɨ̃ ʔn õ,~bɨʔdo,GLOSA 3 PORT,AXBZ,BAS
+528,m ũ n ũ,GLOSS 3 ENGL,FALSE,tabaco,47,PWT,GLOSA 2 ENGL,tobacco,~budu,PET,GLOSA 2 PORT,m ũ n ũ,~budu,GLOSA 3 PORT,AXBZ,DES
+529,m ɨ̃ n õ,GLOSS 3 ENGL,FALSE,tabaco,47,PWT,GLOSA 2 ENGL,tobacco,~bɨdo,PET,GLOSA 2 PORT,m ɨ̃ n õ,~bɨdo,GLOSA 3 PORT,AXBZ,KAR
+530,m ɨ t o,GLOSS 3 ENGL,FALSE,tabaco,47,PWT,GLOSA 2 ENGL,tobacco,mɨto,PET,GLOSA 2 PORT,m ɨ t o,mɨto,GLOSA 3 PORT,AXBZ,KOR
+531,m ɨ n o,GLOSS 3 ENGL,FALSE,tabaco,47,PWT,GLOSA 2 ENGL,tobacco,mɨno,PET,GLOSA 2 PORT,m ɨ n o,mɨno,GLOSA 3 PORT,AXBZ,KUE
+532,m ɨ t o,GLOSS 3 ENGL,FALSE,tabaco,47,PWT,GLOSA 2 ENGL,tobacco,mɨto,PET,GLOSA 2 PORT,m ɨ t o,mɨto,GLOSA 3 PORT,AXBZ,MAI
+533,m ɨ t o,GLOSS 3 ENGL,FALSE,tabaco,47,PWT,GLOSA 2 ENGL,tobacco,mɨto,PET,GLOSA 2 PORT,m ɨ t o,mɨto,GLOSA 3 PORT,AXBZ,SEK
+534,m u t o,GLOSS 3 ENGL,FALSE,tabaco,47,PWT,GLOSA 2 ENGL,tobacco,muto,PET,GLOSA 2 PORT,m u t o,muto,GLOSA 3 PORT,AXBZ,SIO
+535,m ĩ ʔr̃ õ,GLOSS 3 ENGL,FALSE,tabaco,47,PWT,GLOSA 2 ENGL,tobacco,~biʔro,PET,GLOSA 2 PORT,m ĩ ʔr õ,~biʔro,GLOSA 3 PORT,AXBZ,TAN
+536,m ɨ̃ ʔn õ,GLOSS 3 ENGL,FALSE,tabaco,47,PWT,GLOSA 2 ENGL,tobacco,~bɨʔdo,PET,GLOSA 2 PORT,m ɨ̃ ʔn õ,~bɨʔdo,GLOSA 3 PORT,AXBZ,TUK
+537,m ɨ̃ n õ,GLOSS 3 ENGL,FALSE,tabaco,47,PWT,GLOSA 2 ENGL,tobacco,~bɨdo,PET,GLOSA 2 PORT,m ɨ̃ n õ,~bɨdo,GLOSA 3 PORT,AXBZ,TUY
+538,m ɨ̃ ʔt õ,GLOSS 3 ENGL,FALSE,tabaco,47,PWT,GLOSA 2 ENGL,tobacco,~bɨʔto,PET,GLOSA 2 PORT,m ɨ̃ ʔt õ,~bɨʔto,GLOSA 3 PORT,AXBZ,WAN
+539,m ɨ tʔ o,,TRUE,,47,,,tobacco,*mɨtʔo,,,m ɨ tʔ o,,,AXBZ,*PT
+540,m ɨ̃ t ẽ,GLOSS 3 ENGL,FALSE,caba,48,PWT,GLOSA 2 ENGL,mosquito,~bɨte,PET,GLOSA 2 PORT,m ɨ̃ t ẽ,~bɨte,GLOSA 3 PORT,AXBZ,BAS
+541,m ɨ̃ n ẽ,GLOSS 3 ENGL,FALSE,caba,48,PWT,GLOSA 2 ENGL,mosquito,~bɨde,PET,GLOSA 2 PORT,m ɨ̃ n ẽ,~bɨde,GLOSA 3 PORT,AXBZ,DES
+542,m ɨ̃ t ẽ,GLOSS 3 ENGL,FALSE,caba,48,PWT,GLOSA 2 ENGL,mosquito,~bɨte,PET,GLOSA 2 PORT,m ɨ̃ t ẽ,~bɨte,GLOSA 3 PORT,AXBZ,KAR
+543,m ɨ th e,GLOSS 3 ENGL,FALSE,caba,48,PWT,GLOSA 2 ENGL,mosquito,mɨthe,PET,GLOSA 2 PORT,m ɨ th e,mɨthe,GLOSA 3 PORT,AXBZ,KOR
+544,m ɨ̃ t ẽ,GLOSS 3 ENGL,FALSE,caba,48,PWT,GLOSA 2 ENGL,mosquito,~bɨte,PET,GLOSA 2 PORT,m ɨ̃ t ẽ,~bɨte,GLOSA 3 PORT,AXBZ,KUB
+545,m ɨ n e,GLOSS 3 ENGL,FALSE,caba,48,PWT,GLOSA 2 ENGL,mosquito,mɨne,PET,GLOSA 2 PORT,m ɨ n e,mɨne,GLOSA 3 PORT,AXBZ,KUE
+546,m ɨ t e,GLOSS 3 ENGL,FALSE,caba,48,PWT,GLOSA 2 ENGL,mosquito,mɨte,PET,GLOSA 2 PORT,m ɨ t e,mɨte,GLOSA 3 PORT,AXBZ,MAI
+547,m u ʔt e,GLOSS 3 ENGL,FALSE,caba,48,PWT,GLOSA 2 ENGL,mosquito,muʔte,PET,GLOSA 2 PORT,m u ʔt e,muʔte,GLOSA 3 PORT,AXBZ,SEK
+548,m ɨ t e,GLOSS 3 ENGL,FALSE,caba,48,PWT,GLOSA 2 ENGL,mosquito,mɨte,PET,GLOSA 2 PORT,m ɨ t e,mɨte,GLOSA 3 PORT,AXBZ,SIO
+549,m ĩ r̃ ĩ,GLOSS 3 ENGL,FALSE,caba,48,PWT,GLOSA 2 ENGL,mosquito,~biri,PET,GLOSA 2 PORT,m ĩ r ĩ,~biri,GLOSA 3 PORT,AXBZ,TAN
+550,m ɨ̃ t ẽ,GLOSS 3 ENGL,FALSE,caba,48,PWT,GLOSA 2 ENGL,mosquito,~bɨte,PET,GLOSA 2 PORT,m ɨ̃ t ẽ,~bɨte,GLOSA 3 PORT,AXBZ,TUK
+551,m ɨ̃ t ẽ,GLOSS 3 ENGL,FALSE,caba,48,PWT,GLOSA 2 ENGL,mosquito,~bɨte,PET,GLOSA 2 PORT,m ɨ̃ t ẽ,~bɨte,GLOSA 3 PORT,AXBZ,TUY
+552,m ɨ̃ t ẽ,GLOSS 3 ENGL,FALSE,caba,48,PWT,GLOSA 2 ENGL,mosquito,~bɨte,PET,GLOSA 2 PORT,m ɨ̃ t ẽ,~bɨte,GLOSA 3 PORT,AXBZ,WAN
+553,m ɨ t e,,FALSE,,48,,,mosquito,*mɨte,,,m ɨ t e,,,AXBZ,*PT
+554,n e o,GLOSS 3 ENGL,FALSE,carvão,49,PWT,grease (kub),charcoal (2),neo,PET,gordura (kub),n e o,neo,GLOSA 3 PORT,AXZ,KOR
+555,n ẽ õ,GLOSS 3 ENGL,FALSE,carvão,49,PWT,grease (kub),charcoal (2),~deo,PET,gordura (kub),n ẽ õ,~deo,GLOSA 3 PORT,AXZ,KUB
+556,n e o,GLOSS 3 ENGL,FALSE,carvão,49,PWT,grease (kub),charcoal (2),neo,PET,gordura (kub),n e o,neo,GLOSA 3 PORT,AXZ,MAI
+557,n ẽ õ,GLOSS 3 ENGL,FALSE,carvão,49,PWT,grease (kub),charcoal (2),~deo,PET,gordura (kub),n ẽ õ,~deo,GLOSA 3 PORT,AXZ,SEK
+558,n e o,GLOSS 3 ENGL,FALSE,carvão,49,PWT,grease (kub),charcoal (2),neo,PET,gordura (kub),n e o,neo,GLOSA 3 PORT,AXZ,SIO
+559,n e o,,TRUE,,49,,,charcoal (2),*neo,,,n e o,,,AXZ,*PT
+560,r̃ e e,GLOSS 3 ENGL,FALSE,buriti,50,PWT,GLOSA 2 ENGL,buriti palm,~ree,PET,GLOSA 2 PORT,r ẽ - e,~ree,GLOSA 3 PORT,AXZ,BAS
+561,n ẽ ʔ ẽ,GLOSS 3 ENGL,FALSE,buriti,50,PWT,GLOSA 2 ENGL,buriti palm,~deʔe,PET,GLOSA 2 PORT,n ẽ ʔ ẽ,~deʔe,GLOSA 3 PORT,AXBZ,DES
+562,n e e,GLOSS 3 ENGL,FALSE,buriti,50,PWT,GLOSA 2 ENGL,buriti palm,~dee,PET,GLOSA 2 PORT,n e - e,~dee,GLOSA 3 PORT,AXZ,KAR
+563,n e ʔ e,GLOSS 3 ENGL,FALSE,buriti,50,PWT,GLOSA 2 ENGL,buriti palm,neʔe,PET,GLOSA 2 PORT,n e ʔ e,neʔe,GLOSA 3 PORT,AXBZ,KOR
+564,n ẽ ĩ,GLOSS 3 ENGL,FALSE,buriti,50,PWT,GLOSA 2 ENGL,buriti palm,~dei,PET,GLOSA 2 PORT,n ẽ - ĩ,~dei,GLOSA 3 PORT,AXZ,KUB
+565,n ẽ ʔ ẽ,GLOSS 3 ENGL,FALSE,buriti,50,PWT,GLOSA 2 ENGL,buriti palm,~deʔe,PET,GLOSA 2 PORT,n ẽ ʔ ẽ,~deʔe,GLOSA 3 PORT,AXBZ,SEK
+566,n e ʔ e,GLOSS 3 ENGL,FALSE,buriti,50,PWT,GLOSA 2 ENGL,buriti palm,neʔe,PET,GLOSA 2 PORT,n e ʔ e,neʔe,GLOSA 3 PORT,AXBZ,SIO
+567,n ẽ ʔ ẽ,GLOSS 3 ENGL,FALSE,buriti,50,PWT,GLOSA 2 ENGL,buriti palm,~deʔe,PET,GLOSA 2 PORT,n ẽ ʔ ẽ,~deʔe,GLOSA 3 PORT,AXBZ,TUK
+568,n ã ʔ ã,GLOSS 3 ENGL,FALSE,buriti,50,PWT,GLOSA 2 ENGL,buriti palm,~daʔa,PET,GLOSA 2 PORT,n ã ʔ ã,~daʔa,GLOSA 3 PORT,AXBZ,WAN
+569,n e ʔ e,,FALSE,,50,,,buriti palm,*neʔe,,,n e ʔ e,,,AXBZ,*PT
+570,r̃ ĩ t ĩ,GLOSS 3 ENGL,FALSE,carvão,51,PWT,GLOSA 2 ENGL,charcoal (1),~riti,PET,GLOSA 2 PORT,r ĩ t ĩ,~riti,GLOSA 3 PORT,AXBZ,BAS
+571,n ĩ t ĩ,GLOSS 3 ENGL,FALSE,carvão,51,PWT,GLOSA 2 ENGL,charcoal (1),~diti,PET,GLOSA 2 PORT,n ĩ t ĩ,~diti,GLOSA 3 PORT,AXBZ,DES
+572,n ĩ t ĩ,GLOSS 3 ENGL,FALSE,carvão,51,PWT,GLOSA 2 ENGL,charcoal (1),~diti,PET,GLOSA 2 PORT,n ĩ t ĩ,~diti,GLOSA 3 PORT,AXBZ,KAR
+573,n ĩ t ĩ,GLOSS 3 ENGL,FALSE,carvão,51,PWT,GLOSA 2 ENGL,charcoal (1),~diti,PET,GLOSA 2 PORT,n ĩ t ĩ,~diti,GLOSA 3 PORT,AXBZ,TAN
+574,n ĩ t ĩ,GLOSS 3 ENGL,FALSE,carvão,51,PWT,GLOSA 2 ENGL,charcoal (1),~diti,PET,GLOSA 2 PORT,n ĩ t ĩ,~diti,GLOSA 3 PORT,AXBZ,TUK
+575,n ĩ t ĩ,GLOSS 3 ENGL,FALSE,carvão,51,PWT,GLOSA 2 ENGL,charcoal (1),~diti,PET,GLOSA 2 PORT,n ĩ t ĩ,~diti,GLOSA 3 PORT,AXBZ,TUY
+576,n ĩ t ĩ,GLOSS 3 ENGL,FALSE,carvão,51,PWT,GLOSA 2 ENGL,charcoal (1),~diti,PET,GLOSA 2 PORT,n ĩ t ĩ,~diti,GLOSA 3 PORT,AXBZ,WAN
+577,n i t t i,,TRUE,,51,,,charcoal (1),*nitti,,,n i tt i,,,AXBZ,*PT
+578,r̃ ɨ̃ ŋ õ,GLOSS 3 ENGL,FALSE,parar,52,PWT,GLOSA 2 ENGL,stop,~rɨgo,PET,GLOSA 2 PORT,r ɨ̃ ŋ õ,~rɨgo,GLOSA 3 PORT,AXBZ,BAS
+579,n ũ ŋ ũ,GLOSS 3 ENGL,FALSE,parar,52,PWT,GLOSA 2 ENGL,stop,~dugu,PET,GLOSA 2 PORT,n ũ ŋ ũ,~dugu,GLOSA 3 PORT,AXBZ,DES
+580,n ɨ̃ k ã,GLOSS 3 ENGL,FALSE,parar,52,PWT,GLOSA 2 ENGL,stop,~dɨka,PET,GLOSA 2 PORT,n ɨ̃ k ã,~dɨka,GLOSA 3 PORT,AXBZ,KAR
+581,n ɨ kh a,GLOSS 3 ENGL,FALSE,parar,52,PWT,GLOSA 2 ENGL,stop,nɨkha,PET,GLOSA 2 PORT,n ɨ kh a,nɨkha,GLOSA 3 PORT,AXBZ,KOR
+582,n ú,GLOSS 3 ENGL,FALSE,parar,52,PWT,GLOSA 2 ENGL,stop,~dú,PET,GLOSA 2 PORT,n ú - -,~dú,GLOSA 3 PORT,AX,KUB
+583,n ɨ k a,GLOSS 3 ENGL,FALSE,parar,52,PWT,GLOSA 2 ENGL,stop,nɨka,PET,GLOSA 2 PORT,n ɨ k a,nɨka,GLOSA 3 PORT,AXBZ,MAI
+584,d ɨ̃ k a,GLOSS 3 ENGL,FALSE,parar,52,PWT,GLOSA 2 ENGL,stop,dɨ̃ka,PET,GLOSA 2 PORT,n ɨ̃ k a,dɨ̃ka,GLOSA 3 PORT,AXBZ,SEK
+585,n ɨ k a,GLOSS 3 ENGL,FALSE,parar,52,PWT,GLOSA 2 ENGL,stop,̃dɨka,PET,GLOSA 2 PORT,n ɨ̃ k a,nɨka,GLOSA 3 PORT,AXBZ,SIO
+586,n ɨ̃ ʔk ã,GLOSS 3 ENGL,FALSE,parar,52,PWT,GLOSA 2 ENGL,stop,̃dɨʔka,PET,GLOSA 2 PORT,n ɨ̃ ʔk ã,~dɨʔka,GLOSA 3 PORT,AXBZ,TUK
+587,n ũ k ũ,GLOSS 3 ENGL,FALSE,parar,52,PWT,GLOSA 2 ENGL,stop,~duku,PET,GLOSA 2 PORT,n ũ k ũ,~duku,GLOSA 3 PORT,AXBZ,TUY
+588,n ɨ kʔ,,TRUE,,52,,,stop,*nɨkʔ-,,,n ɨ kʔ -,,,AXN,*PT
+589,n ũ n ĩ,GLOSS 3 ENGL,FALSE,pênis,53,PWT,GLOSA 2 ENGL,penis,~dudi,PET,GLOSA 2 PORT,n ũ - ( n ĩ ),~dudi,GLOSA 3 PORT,AXBZ,KAR
+590,n õ ẽ,GLOSS 3 ENGL,FALSE,pênis,53,PWT,GLOSA 2 ENGL,penis,~doe,PET,GLOSA 2 PORT,n õ ẽ ( - - ),~doe,GLOSA 3 PORT,AXZ,KUB
+591,n o n i,GLOSS 3 ENGL,FALSE,pênis,53,PWT,GLOSA 2 ENGL,penis,noni,PET,GLOSA 2 PORT,n o - ( n i ),noni,GLOSA 3 PORT,AXBZ,KUE
+592,n o a,GLOSS 3 ENGL,FALSE,pênis,53,PWT,GLOSA 2 ENGL,penis,noa,PET,GLOSA 2 PORT,n o a ( - - ),noa,GLOSA 3 PORT,AXZ,MAI
+593,r ũ r i,GLOSS 3 ENGL,FALSE,pênis,53,PWT,GLOSA 2 ENGL,penis,rũri,PET,GLOSA 2 PORT,r ũ - ( r i ),rũri,GLOSA 3 PORT,AXBZ,TAN
+594,n ũ n ĩ,GLOSS 3 ENGL,FALSE,pênis,53,PWT,GLOSA 2 ENGL,penis,~dudi,PET,GLOSA 2 PORT,n ũ - ( n ĩ ),~dudi,GLOSA 3 PORT,AXBZ,TUK
+595,s e j u a,GLOSS 3 ENGL,FALSE,pênis,143,PWT,GLOSA 2 ENGL,penis,sejua,PET,GLOSA 2 PORT,s e j u a,sejua,GLOSA 3 PORT,AXBYZ,TUY
+596,n ũ n ɨ̃,GLOSS 3 ENGL,FALSE,pênis,53,PWT,GLOSA 2 ENGL,penis,~dudɨ,PET,GLOSA 2 PORT,n ũ - ( n ɨ̃ ),~dudɨ,GLOSA 3 PORT,AXBZ,WAN
+597,n o,,FALSE,,53,,,penis,*no-,,,n o - ( - - ),,,AX,*PT
+598,o t i,GLOSS 3 ENGL,FALSE,chorar,54,PWT,GLOSA 2 ENGL,to cry,oti,PET,GLOSA 2 PORT,o t i,oti,GLOSA 3 PORT,XBZ,BAS
+599,o t i,GLOSS 3 ENGL,FALSE,chorar,54,PWT,GLOSA 2 ENGL,to cry,oti,PET,GLOSA 2 PORT,o t i,oti,GLOSA 3 PORT,XBZ,DES
+600,o t i,GLOSS 3 ENGL,FALSE,chorar,54,PWT,GLOSA 2 ENGL,to cry,oti,PET,GLOSA 2 PORT,o t i,oti,GLOSA 3 PORT,XBZ,KAR
+601,o i,GLOSS 3 ENGL,FALSE,chorar,54,PWT,GLOSA 2 ENGL,to cry,oi,PET,GLOSA 2 PORT,o - i,oi,GLOSA 3 PORT,XZ,KOR
+602,o,GLOSS 3 ENGL,FALSE,chorar,54,PWT,GLOSA 2 ENGL,to cry,o,PET,GLOSA 2 PORT,o - -,o,GLOSA 3 PORT,X,KUB
+604,o i,GLOSS 3 ENGL,FALSE,chorar,54,PWT,GLOSA 2 ENGL,to cry,oi,PET,GLOSA 2 PORT,o - i,oi,GLOSA 3 PORT,XZ,MAI
+605,o i,GLOSS 3 ENGL,FALSE,chorar,54,PWT,GLOSA 2 ENGL,to cry,oi,PET,GLOSA 2 PORT,o - i,oi,GLOSA 3 PORT,XZ,SEK
+606,o i,GLOSS 3 ENGL,FALSE,chorar,54,PWT,GLOSA 2 ENGL,to cry,oi,PET,GLOSA 2 PORT,o - i,oi,GLOSA 3 PORT,XZ,SIO
+607,u t i,GLOSS 3 ENGL,FALSE,chorar,54,PWT,GLOSA 2 ENGL,to cry,uti,PET,GLOSA 2 PORT,u t i,uti,GLOSA 3 PORT,XBZ,TUY
+608,t i,GLOSS 3 ENGL,FALSE,chorar,54,PWT,GLOSA 2 ENGL,to cry,ti,PET,GLOSA 2 PORT,- t i,ti,GLOSA 3 PORT,AX,WAN
+609,o t i,GLOSS 3 ENGL,FALSE,chorar,54,PWT,GLOSA 2 ENGL,to cry,oti,PET,GLOSA 2 PORT,o t i,oti,GLOSA 3 PORT,XBZ,YUP
+610,o,,FALSE,,54,,,to cry,*o-,,,o - -,,,X,*PT
+611,o c o,GLOSS 3 ENGL,FALSE,morcego,55,PWT,GLOSA 2 ENGL,bat,oco,PET,GLOSA 2 PORT,- o - t∫ o,oco,GLOSA 3 PORT,XBZ,BAS
+612,o j o,GLOSS 3 ENGL,FALSE,morcego,55,PWT,GLOSA 2 ENGL,bat,ojo,PET,GLOSA 2 PORT,- o - j o,ojo,GLOSA 3 PORT,XBZ,DES
+613,o s o,GLOSS 3 ENGL,FALSE,morcego,55,PWT,GLOSA 2 ENGL,bat,oso,PET,GLOSA 2 PORT,- o - s o,oso,GLOSA 3 PORT,XBZ,KAR
+614,o j o,GLOSS 3 ENGL,FALSE,morcego,55,PWT,GLOSA 2 ENGL,bat,ojo,PET,GLOSA 2 PORT,- o - j o,ojo,GLOSA 3 PORT,XBZ,KOR
+615,o j o,GLOSS 3 ENGL,FALSE,morcego,55,PWT,GLOSA 2 ENGL,bat,ojo,PET,GLOSA 2 PORT,- o - j o,ojo,GLOSA 3 PORT,XBZ,KUB
+616,h o i j o,GLOSS 3 ENGL,FALSE,morcego,55,PWT,GLOSA 2 ENGL,bat,hoijo,PET,GLOSA 2 PORT,h o i j o,hoijo,GLOSA 3 PORT,AXYBZ,KUE
+617,o j o,GLOSS 3 ENGL,FALSE,morcego,55,PWT,GLOSA 2 ENGL,bat,ojo,PET,GLOSA 2 PORT,- o - j o,ojo,GLOSA 3 PORT,XBZ,MAI
+618,o s o,GLOSS 3 ENGL,FALSE,morcego,55,PWT,GLOSA 2 ENGL,bat,oso,PET,GLOSA 2 PORT,- o - s o,oso,GLOSA 3 PORT,XBZ,PIR
+619,o j o,GLOSS 3 ENGL,FALSE,morcego,55,PWT,GLOSA 2 ENGL,bat,ojo,PET,GLOSA 2 PORT,- o - j o,ojo,GLOSA 3 PORT,XBZ,SEK
+620,o j o,GLOSS 3 ENGL,FALSE,morcego,55,PWT,GLOSA 2 ENGL,bat,ojo,PET,GLOSA 2 PORT,- o - j o,ojo,GLOSA 3 PORT,XBZ,SIO
+621,o j o,GLOSS 3 ENGL,FALSE,morcego,55,PWT,GLOSA 2 ENGL,bat,ojo,PET,GLOSA 2 PORT,- o - j o,ojo,GLOSA 3 PORT,XBZ,TAN
+622,o s o,GLOSS 3 ENGL,FALSE,morcego,55,PWT,GLOSA 2 ENGL,bat,oso,PET,GLOSA 2 PORT,- o - s o,oso,GLOSA 3 PORT,XBZ,TUK
+623,o s o,GLOSS 3 ENGL,FALSE,morcego,55,PWT,GLOSA 2 ENGL,bat,oso,PET,GLOSA 2 PORT,- o - s o,oso,GLOSA 3 PORT,XBZ,TUY
+624,o j o,,FALSE,,55,,,bat,*ojo,,,- o - j o,,,XBZ,*PT
+625,o k o,GLOSS 3 ENGL,FALSE,água,56,PWT,GLOSA 2 ENGL,water,oko,PET,GLOSA 2 PORT,- - o k o ( - - - - ),oko,GLOSA 3 PORT,XBZ,BAS
+626,d e k o,GLOSS 3 ENGL,FALSE,água,56,PWT,GLOSA 2 ENGL,water,deko,PET,GLOSA 2 PORT,d e - k o ( - - - - ),deko,GLOSA 3 PORT,AXBZ,DES
+627,o k o,GLOSS 3 ENGL,FALSE,água,56,PWT,GLOSA 2 ENGL,water,oko,PET,GLOSA 2 PORT,- - o k o ( - - - - ),oko,GLOSA 3 PORT,XBZ,KAR
+628,o kh o,GLOSS 3 ENGL,FALSE,água,56,PWT,GLOSA 2 ENGL,water,okho,PET,GLOSA 2 PORT,- - o kh o ( - - - - ),okho,GLOSA 3 PORT,XBZ,KOR
+629,o k o,GLOSS 3 ENGL,FALSE,água,56,PWT,GLOSA 2 ENGL,water,oko,PET,GLOSA 2 PORT,- - o k o ( - - - - ),oko,GLOSA 3 PORT,XBZ,KUB
+630,k o t a p u,GLOSS 3 ENGL,FALSE,água,56,PWT,GLOSA 2 ENGL,water,kotapu,PET,GLOSA 2 PORT,- - - k o ( t a p u ),kotapu,GLOSA 3 PORT,AXBYBZ,KUE
+631,o k o,GLOSS 3 ENGL,FALSE,água,56,PWT,GLOSA 2 ENGL,water,oko,PET,GLOSA 2 PORT,- - o k o ( - - - - ),oko,GLOSA 3 PORT,XBZ,MAI
+632,o k o,GLOSS 3 ENGL,FALSE,água,56,PWT,GLOSA 2 ENGL,water,oko,PET,GLOSA 2 PORT,- - o k o ( - - - - ),oko,GLOSA 3 PORT,XBZ,SEK
+633,o k o,GLOSS 3 ENGL,FALSE,água,56,PWT,GLOSA 2 ENGL,water,oko,PET,GLOSA 2 PORT,- - o k o ( - - - - ),oko,GLOSA 3 PORT,XBZ,SIO
+634,o k o,GLOSS 3 ENGL,FALSE,água,56,PWT,GLOSA 2 ENGL,water,oko,PET,GLOSA 2 PORT,- - o k o ( - - - - ),oko,GLOSA 3 PORT,XBZ,TAN
+635,o k o,GLOSS 3 ENGL,FALSE,água,56,PWT,GLOSA 2 ENGL,water,oko,PET,GLOSA 2 PORT,- - o k o ( - - - - ),oko,GLOSA 3 PORT,XBZ,TUK
+636,o k o,GLOSS 3 ENGL,FALSE,água,56,PWT,GLOSA 2 ENGL,water,oko,PET,GLOSA 2 PORT,- - o k o ( - - - - ),oko,GLOSA 3 PORT,XBZ,TUY
+637,k o,GLOSS 3 ENGL,FALSE,água,56,PWT,GLOSA 2 ENGL,water,ko,PET,GLOSA 2 PORT,- - - k o ( - - - - ),ko,GLOSA 3 PORT,AX,WAN
+638,o k k o,,TRUE,,56,,,water,*okko,,,- - o kk o ( - - - - ),,,XBZ,*PT
+639,o t e,GLOSS 3 ENGL,FALSE,planta,57,PWT,GLOSA 2 ENGL,plant,ote,PET,GLOSA 2 PORT,- o t e -,ote,GLOSA 3 PORT,XBZ,BAS
+640,o t e,GLOSS 3 ENGL,FALSE,planta,57,PWT,GLOSA 2 ENGL,plant,ote,PET,GLOSA 2 PORT,- o t e -,ote,GLOSA 3 PORT,XBZ,DES
+641,o t e,GLOSS 3 ENGL,FALSE,planta,57,PWT,GLOSA 2 ENGL,plant,ote,PET,GLOSA 2 PORT,- o t e -,ote,GLOSA 3 PORT,XBZ,KAR
+642,o th e,GLOSS 3 ENGL,FALSE,planta,57,PWT,GLOSA 2 ENGL,plant,othe,PET,GLOSA 2 PORT,- o th e -,othe,GLOSA 3 PORT,XBZ,KOR
+643,o t e,GLOSS 3 ENGL,FALSE,planta,57,PWT,GLOSA 2 ENGL,plant,ote,PET,GLOSA 2 PORT,- o t e -,ote,GLOSA 3 PORT,XBZ,KUB
+644,o t e,GLOSS 3 ENGL,FALSE,planta,57,PWT,GLOSA 2 ENGL,plant,ote,PET,GLOSA 2 PORT,- o t e -,ote,GLOSA 3 PORT,XBZ,MAI
+645,o t e,GLOSS 3 ENGL,FALSE,planta,57,PWT,GLOSA 2 ENGL,plant,ote,PET,GLOSA 2 PORT,- o t e -,ote,GLOSA 3 PORT,XBZ,SEK
+646,o t e,GLOSS 3 ENGL,FALSE,planta,57,PWT,GLOSA 2 ENGL,plant,ote,PET,GLOSA 2 PORT,- o t e -,ote,GLOSA 3 PORT,XBZ,SIO
+647,h o t o,GLOSS 3 ENGL,FALSE,planta,57,PWT,GLOSA 2 ENGL,plant,hoto,PET,GLOSA 2 PORT,h o t o -,hoto,GLOSA 3 PORT,AXBZ,TAN
+648,o t e,GLOSS 3 ENGL,FALSE,planta,57,PWT,GLOSA 2 ENGL,plant,ote,PET,GLOSA 2 PORT,- o t e -,ote,GLOSA 3 PORT,XBZ,TUK
+649,o t e,GLOSS 3 ENGL,FALSE,planta,57,PWT,GLOSA 2 ENGL,plant,ote,PET,GLOSA 2 PORT,- o t e -,ote,GLOSA 3 PORT,XBZ,TUY
+650,t o a,GLOSS 3 ENGL,FALSE,planta,57,PWT,GLOSA 2 ENGL,plant,toa,PET,GLOSA 2 PORT,- - t o a,toa,GLOSA 3 PORT,AXZ,WAN
+651,o t t e,,TRUE,,57,,,plant,*otte,,,- o tt e -,,,XBZ,*PT
+652,b e k o,GLOSS 3 ENGL,FALSE,larva,58,PWT,GLOSA 2 ENGL,larva,beko,PET,GLOSA 2 PORT,b e k o,beko,GLOSA 3 PORT,AXBZ,BAS
+653,b e k a,GLOSS 3 ENGL,FALSE,larva,58,PWT,GLOSA 2 ENGL,larva,beka,PET,GLOSA 2 PORT,b e k a,beka,GLOSA 3 PORT,AXBZ,DES
+654,b e k o,GLOSS 3 ENGL,FALSE,larva,58,PWT,GLOSA 2 ENGL,larva,beko,PET,GLOSA 2 PORT,b e k o,beko,GLOSA 3 PORT,AXBZ,KAR
+655,p e kh o,GLOSS 3 ENGL,FALSE,larva,58,PWT,GLOSA 2 ENGL,larva,pekho,PET,GLOSA 2 PORT,p e kh o,pekho,GLOSA 3 PORT,AXBZ,KOR
+656,b e k u,GLOSS 3 ENGL,FALSE,larva,58,PWT,GLOSA 2 ENGL,larva,beku,PET,GLOSA 2 PORT,b e k u,beku,GLOSA 3 PORT,AXBZ,MAI
+657,p e k o,GLOSS 3 ENGL,FALSE,larva,58,PWT,GLOSA 2 ENGL,larva,peko,PET,GLOSA 2 PORT,pʔ e k o,peko,GLOSA 3 PORT,AXBZ,SEK
+658,pʔ e k o,GLOSS 3 ENGL,FALSE,larva,58,PWT,GLOSA 2 ENGL,larva,pʔeko,PET,GLOSA 2 PORT,pʔ e k o,pʔeko,GLOSA 3 PORT,AXBZ,SIO
+659,b e k o,GLOSS 3 ENGL,FALSE,larva,58,PWT,GLOSA 2 ENGL,larva,beko,PET,GLOSA 2 PORT,b e k o,beko,GLOSA 3 PORT,AXBZ,TUK
+660,pʔ e k k o,,TRUE,,58,,,larva,*pʔekko,,,pʔ e kk o,,,AXBZ,*PT
+661,b ɨ h ɨ,GLOSS 3 ENGL,FALSE,aranha,59,PWT,GLOSA 2 ENGL,spider,bɨhɨ,PET,GLOSA 2 PORT,b ɨ h ɨ,bɨhɨ,GLOSA 3 PORT,AXBZ,BAS
+662,b ɨ p ɨ,GLOSS 3 ENGL,FALSE,aranha,59,PWT,GLOSA 2 ENGL,spider,bɨpɨ,PET,GLOSA 2 PORT,b ɨ p ɨ,bɨpɨ,GLOSA 3 PORT,AXBZ,DES
+663,b ɨ p ɨ,GLOSS 3 ENGL,FALSE,aranha,59,PWT,GLOSA 2 ENGL,spider,bɨpɨ,PET,GLOSA 2 PORT,b ɨ p ɨ,bɨpɨ,GLOSA 3 PORT,AXBZ,KAR
+664,h ɨ̃ h ɨ̃,GLOSS 3 ENGL,FALSE,aranha,59,PWT,GLOSA 2 ENGL,spider,~hɨhɨ,PET,GLOSA 2 PORT,h ɨ̃ h ɨ̃,~hɨhɨ,GLOSA 3 PORT,AXBZ,KOR
+665,p ɨ̃ p ɨ̃,GLOSS 3 ENGL,FALSE,aranha,59,PWT,GLOSA 2 ENGL,spider,~pɨpɨ,PET,GLOSA 2 PORT,p ɨ̃ p ɨ̃,~pɨpɨ,GLOSA 3 PORT,AXBZ,KUB
+666,h e h e,GLOSS 3 ENGL,FALSE,aranha,59,PWT,GLOSA 2 ENGL,spider,hehe,PET,GLOSA 2 PORT,h e h e,hehe,GLOSA 3 PORT,AXBZ,KUE
+667,h ɨ̃ h ɨ̃,GLOSS 3 ENGL,FALSE,aranha,59,PWT,GLOSA 2 ENGL,spider,~hɨhɨ,PET,GLOSA 2 PORT,h ɨ̃ h ɨ̃,~hɨhɨ,GLOSA 3 PORT,AXBZ,MAI
+668,h ɨ̃ h ɨ̃,GLOSS 3 ENGL,TRUE,aranha,59,PWT,GLOSA 2 ENGL,spider,~hɨhɨ,PET,GLOSA 2 PORT,h ɨ̃ h ɨ̃,~hɨhɨ,GLOSA 3 PORT,AXBZ,SIO
+669,b ɨ p ɨ,GLOSS 3 ENGL,FALSE,aranha,59,PWT,GLOSA 2 ENGL,spider,bɨpɨ,PET,GLOSA 2 PORT,b ɨ p ɨ,bɨpɨ,GLOSA 3 PORT,AXBZ,TUK
+670,b ɨ p ɨ,GLOSS 3 ENGL,FALSE,aranha,59,PWT,GLOSA 2 ENGL,spider,bɨpɨ,PET,GLOSA 2 PORT,b ɨ p ɨ,bɨpɨ,GLOSA 3 PORT,AXBZ,TUY
+671,w ɨ p ɨ,GLOSS 3 ENGL,FALSE,aranha,59,PWT,GLOSA 2 ENGL,spider,wɨpɨ,PET,GLOSA 2 PORT,w ɨ p ɨ,wɨpɨ,GLOSA 3 PORT,AXBZ,WAN
+672,b ɨ b ɨ,GLOSS 3 ENGL,FALSE,aranha,59,PWT,GLOSA 2 ENGL,spider,bɨbɨ,PET,GLOSA 2 PORT,b ɨ b ɨ,bɨbɨ,GLOSA 3 PORT,AXBZ,YUP
+673,pʔ ɨ p ɨ,,TRUE,,59,,,spider,*pʔɨpɨ,,,pʔ ɨ p ɨ,,,AXBZ,*PT
+674,b u t u,GLOSS 3 ENGL,FALSE,cupim,60,PWT,GLOSA 2 ENGL,termite,butu,*pʔutu,GLOSA 2 PORT,b u t u,butu,GLOSA 3 PORT,AXBZ,BAS
+675,b u d u,GLOSS 3 ENGL,FALSE,cupim,60,PWT,GLOSA 2 ENGL,termite,budu,*pʔutu,GLOSA 2 PORT,b u d u,budu,GLOSA 3 PORT,AXBZ,DES
+676,b u t u,GLOSS 3 ENGL,FALSE,cupim,60,PWT,GLOSA 2 ENGL,termite,butu,*pʔutu,GLOSA 2 PORT,b u t u,butu,GLOSA 3 PORT,AXBZ,KAR
+677,p o r u,GLOSS 3 ENGL,FALSE,cupim,60,PWT,GLOSA 2 ENGL,termite,poru,*pʔutu,GLOSA 2 PORT,p o r u,poru,GLOSA 3 PORT,AXBZ,KUE
+678,b u t u,GLOSS 3 ENGL,FALSE,cupim,60,PWT,GLOSA 2 ENGL,termite,butu,*pʔutu,GLOSA 2 PORT,b u t u,butu,GLOSA 3 PORT,AXBZ,TAN
+679,b u t u,GLOSS 3 ENGL,FALSE,cupim,60,PWT,GLOSA 2 ENGL,termite,butu,*pʔutu,GLOSA 2 PORT,b u t u,butu,GLOSA 3 PORT,AXBZ,TUK
+680,b u t u,GLOSS 3 ENGL,FALSE,cupim,60,PWT,GLOSA 2 ENGL,termite,butu,*pʔutu,GLOSA 2 PORT,b u t u,butu,GLOSA 3 PORT,AXBZ,WAN
+681,pʔ u t u,,TRUE,,60,,,termite,*pʔutu,,,pʔ u t u,,,AXBZ,*PT
+682,m ã c ã,GLOSS 3 ENGL,FALSE,pessoa(s),61,PWT,we inclusive (kub),people,~baca,PET,nós inclusivo (kub),m ã t∫ ã ( - - ),~baca,GLOSA 3 PORT,AXBZ,BAS
+683,m ã s ã,GLOSS 3 ENGL,FALSE,pessoa(s),61,PWT,we inclusive (kub),people,~basa,PET,nós inclusivo (kub),m ã s ã ( - - ),~basa,GLOSA 3 PORT,AXBZ,KAR
+684,p ã + i,GLOSS 3 ENGL,FALSE,pessoa(s),61,PWT,we inclusive (kub),people,pã+i,PET,nós inclusivo (kub),p ã - - ( i - ),pã-i,GLOSA 3 PORT,AXZ,KOR
+685,m ã h ã,GLOSS 3 ENGL,FALSE,pessoa(s),61,PWT,we inclusive (kub),people,~baha,PET,nós inclusivo (kub),m ã h ã ( - - ),~baha,GLOSA 3 PORT,AXBZ,KUB
+686,m a t a r ɨ,GLOSS 3 ENGL,FALSE,pessoa(s),61,PWT,we inclusive (kub),people,matarɨ,PET,nós inclusivo (kub),m a t a ( r ɨ ),matarɨ,GLOSA 3 PORT,AXBYBZ,KUE
+687,m ã + ĩ,GLOSS 3 ENGL,FALSE,pessoa(s),61,PWT,we inclusive (kub),people,~ba+i,PET,nós inclusivo (kub),m ã - - ( ĩ - ),~ba-i,GLOSA 3 PORT,AXZ,MAI
+688,p ã + i,GLOSS 3 ENGL,FALSE,pessoa(s),61,PWT,we inclusive (kub),people,pã+i,PET,nós inclusivo (kub),pʔ ã - - ( i - ),pã-i,GLOSA 3 PORT,AXZ,SEK
+689,pʔ ã i,GLOSS 3 ENGL,TRUE,pessoa(s),61,PWT,we inclusive (kub),people,pʔã+i,PET,nós inclusivo (kub),pʔ ã - - ( - - ),pʔã-i,GLOSA 3 PORT,AX,SIO
+690,m ã h ã,GLOSS 3 ENGL,FALSE,pessoa(s),61,PWT,we inclusive (kub),people,~baha,PET,nós inclusivo (kub),m ã h ã ( - - ),~baha,GLOSA 3 PORT,AXBZ,TAN
+691,m ã s ã,GLOSS 3 ENGL,FALSE,pessoa(s),61,PWT,we inclusive (kub),people,~basa,PET,nós inclusivo (kub),m ã s ã ( - - ),~basa,GLOSA 3 PORT,AXBZ,TUK
+692,b a s o,GLOSS 3 ENGL,FALSE,pessoa(s),61,PWT,we inclusive (kub),people,baso,PET,nós inclusivo (kub),b a s o ( - - ),baso,GLOSA 3 PORT,AXBZ,TUY
+693,m ã h ã,GLOSS 3 ENGL,FALSE,pessoa(s),61,PWT,we inclusive (kub),people,~baha,PET,nós inclusivo (kub),m ã h ã ( - - ),~baha,GLOSA 3 PORT,AXBZ,WAN
+694,m ã ts ã,GLOSS 3 ENGL,TRUE,pessoa(s),61,PWT,we inclusive (kub),people,~batsa,PET,nós inclusivo (kub),m ã ts ã ( - - ),~batsa,GLOSA 3 PORT,AXBZ,YUP
+695,pʔ ã tj ã,,TRUE,,61,,,people,*pʔã-tjã,,,pʔ ã ts ã ( - - ),,,AXBZ,*PT
+696,b a c a,GLOSS 3 ENGL,FALSE,dançar,62,PWT,GLOSA 2 ENGL,dance,baca,PET,ritualized songs (kub),b a ts a,baca,GLOSA 3 PORT,AXBZ,BAS
+697,b a j a,GLOSS 3 ENGL,FALSE,dançar,62,PWT,GLOSA 2 ENGL,dance,baja,PET,ritualized songs (kub),b a j a,baja,GLOSA 3 PORT,AXBZ,DES
+698,b a s a,GLOSS 3 ENGL,FALSE,dançar,62,PWT,GLOSA 2 ENGL,dance,basa,PET,ritualized songs (kub),b a s a,basa,GLOSA 3 PORT,AXBZ,KAR
+699,b a j a,GLOSS 3 ENGL,FALSE,dançar,62,PWT,GLOSA 2 ENGL,dance,baja,PET,ritualized songs (kub),b a j a,baja,GLOSA 3 PORT,AXBZ,KUB
+700,t ɨ t e,GLOSS 3 ENGL,FALSE,dançar,62,PWT,GLOSA 2 ENGL,dance,tɨte,PET,ritualized songs (kub),t ɨ t e,tɨte,GLOSA 3 PORT,AXBZ,MAI
+701,b a j a,GLOSS 3 ENGL,FALSE,dançar,62,PWT,GLOSA 2 ENGL,dance,baja,PET,ritualized songs (kub),b a j a,baja,GLOSA 3 PORT,AXBZ,TAN
+702,b a s a,GLOSS 3 ENGL,FALSE,dançar,62,PWT,GLOSA 2 ENGL,dance,basa,PET,ritualized songs (kub),b a s a,basa,GLOSA 3 PORT,AXBZ,TUK
+703,b a s a,GLOSS 3 ENGL,FALSE,dançar,62,PWT,GLOSA 2 ENGL,dance,basa,PET,ritualized songs (kub),b a s a,basa,GLOSA 3 PORT,AXBZ,TUY
+704,b a s a,GLOSS 3 ENGL,FALSE,dançar,62,PWT,GLOSA 2 ENGL,dance,basa,PET,ritualized songs (kub),b a s a,basa,GLOSA 3 PORT,AXBZ,WAN
+705,pʔ a j a,,TRUE,,62,,,dance,*pʔaja,,,pʔ a j a,,,AXBZ,*PT
+706,b a h i,GLOSS 3 ENGL,FALSE,rede de pesca,63,PWT,GLOSA 2 ENGL,fishing net,bahi,*pʔapi,GLOSA 2 PORT,b a h i,bahi,GLOSA 3 PORT,AXBZ,BAS
+707,b a p i,GLOSS 3 ENGL,FALSE,rede de pesca,63,PWT,GLOSA 2 ENGL,fishing net,bapi,*pʔapi,GLOSA 2 PORT,b a p i,bapi,GLOSA 3 PORT,AXBZ,KAR
+708,p á p i,GLOSS 3 ENGL,FALSE,rede de pesca,63,PWT,GLOSA 2 ENGL,fishing net,pápi,*pʔapi,GLOSA 2 PORT,p á p i,pápi,GLOSA 3 PORT,AXBZ,KUB
+709,b a p i,GLOSS 3 ENGL,FALSE,rede de pesca,63,PWT,GLOSA 2 ENGL,fishing net,bapi,*pʔapi,GLOSA 2 PORT,b a p i,bapi,GLOSA 3 PORT,AXBZ,TUY
+710,pʔ a p i,,TRUE,,63,,,fishing net,*pʔapi,,,pʔ a p i,,,AXBZ,*PT
+711,m ẽ n ẽ,GLOSS 3 ENGL,FALSE,ingá,64,PWT,GLOSA 2 ENGL,inga (fruit sp.),~bede,PET,GLOSA 2 PORT,m ẽ n ẽ,~bede,GLOSA 3 PORT,AXBZ,BAS
+712,m ẽ h ẽ,GLOSS 3 ENGL,FALSE,ingá,64,PWT,GLOSA 2 ENGL,inga (fruit sp.),~behe,PET,GLOSA 2 PORT,m ẽ h ẽ,~behe,GLOSA 3 PORT,AXBZ,DES
+713,m ẽ n ẽ,GLOSS 3 ENGL,FALSE,ingá,64,PWT,GLOSA 2 ENGL,inga (fruit sp.),~bede,PET,GLOSA 2 PORT,m ẽ n ẽ,~bede,GLOSA 3 PORT,AXBZ,KAR
+714,p e n e,GLOSS 3 ENGL,FALSE,ingá,64,PWT,GLOSA 2 ENGL,inga (fruit sp.),pene,PET,GLOSA 2 PORT,p e n e,pene,GLOSA 3 PORT,AXBZ,KOR
+715,m ẽ n ẽ,GLOSS 3 ENGL,FALSE,ingá,64,PWT,GLOSA 2 ENGL,inga (fruit sp.),~bede,PET,GLOSA 2 PORT,m ẽ n ẽ,~bede,GLOSA 3 PORT,AXBZ,KUB
+716,m e ʔn e,GLOSS 3 ENGL,FALSE,ingá,64,PWT,GLOSA 2 ENGL,inga (fruit sp.),meʔne,PET,GLOSA 2 PORT,m e ʔn e,meʔne,GLOSA 3 PORT,AXBZ,KUE
+717,m e n e,GLOSS 3 ENGL,FALSE,ingá,64,PWT,GLOSA 2 ENGL,inga (fruit sp.),mene,PET,GLOSA 2 PORT,m e n e,mene,GLOSA 3 PORT,AXBZ,MAI
+718,p e n ẽ,GLOSS 3 ENGL,FALSE,ingá,64,PWT,GLOSA 2 ENGL,inga (fruit sp.),pedẽ,PET,GLOSA 2 PORT,pʔ e n ẽ,pedẽ,GLOSA 3 PORT,AXBZ,SEK
+719,pʔ e n e,GLOSS 3 ENGL,FALSE,ingá,64,PWT,GLOSA 2 ENGL,inga (fruit sp.),pʔene,PET,GLOSA 2 PORT,pʔ e n e,pʔene,GLOSA 3 PORT,AXBZ,SIO
+720,m ẽ n ẽ,GLOSS 3 ENGL,FALSE,ingá,64,PWT,GLOSA 2 ENGL,inga (fruit sp.),~bede,PET,GLOSA 2 PORT,m ẽ n ẽ,~bede,GLOSA 3 PORT,AXBZ,TUK
+721,m ẽ n ẽ,GLOSS 3 ENGL,FALSE,ingá,64,PWT,GLOSA 2 ENGL,inga (fruit sp.),~bede,PET,GLOSA 2 PORT,m ẽ n ẽ,~bede,GLOSA 3 PORT,AXBZ,WAN
+722,pʔ e n e,,TRUE,,64,,,inga (fruit sp.),*pʔene,,,pʔ e n e,,,AXBZ,*PT
+723,p e t e,GLOSS 3 ENGL,FALSE,pato,65,PWT,GLOSA 2 ENGL,duck,pete,PET,GLOSA 2 PORT,p e t e,pete,GLOSA 3 PORT,AXBZ,KOR
+724,b e d e,GLOSS 3 ENGL,FALSE,pato,65,PWT,GLOSA 2 ENGL,duck,bede,PET,GLOSA 2 PORT,b e d e,bede,GLOSA 3 PORT,AXBZ,KUB
+725,p e t e,GLOSS 3 ENGL,FALSE,pato,65,PWT,GLOSA 2 ENGL,duck,pete,PET,GLOSA 2 PORT,pʔ e t e,pete,GLOSA 3 PORT,AXBZ,SEK
+726,pʔ e t e,GLOSS 3 ENGL,FALSE,pato,65,PWT,GLOSA 2 ENGL,duck,pʔete,PET,GLOSA 2 PORT,pʔ e t e,pʔete,GLOSA 3 PORT,AXBZ,SIO
+727,pʔ e t e,,TRUE,,65,,,duck,*pʔete,,,pʔ e t e,,,AXBZ,*PT
+728,b i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,bia,PET,GLOSA 2 PORT,b i a,bia,GLOSA 3 PORT,AXZ,BAS
+729,b i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,bia,PET,GLOSA 2 PORT,b i a,bia,GLOSA 3 PORT,AXZ,DES
+730,b i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,bia,PET,GLOSA 2 PORT,b i a,bia,GLOSA 3 PORT,AXZ,KAR
+731,p i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,pia,PET,GLOSA 2 PORT,p i a,pia,GLOSA 3 PORT,AXZ,KOR
+732,b i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,bia,PET,GLOSA 2 PORT,b i a,bia,GLOSA 3 PORT,AXZ,KUB
+733,b i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,bia,PET,GLOSA 2 PORT,b i a,bia,GLOSA 3 PORT,AXZ,KUE
+734,b i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,bia,PET,GLOSA 2 PORT,b i a,bia,GLOSA 3 PORT,AXZ,MAI
+735,b i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,bia,PET,GLOSA 2 PORT,b i a,bia,GLOSA 3 PORT,AXZ,PIR
+736,p i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,pia,PET,GLOSA 2 PORT,pʔ i a,pia,GLOSA 3 PORT,AXZ,SEK
+737,pʔ i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,pʔia,PET,GLOSA 2 PORT,pʔ i a,pʔia,GLOSA 3 PORT,AXZ,SIO
+738,b i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,bia,PET,GLOSA 2 PORT,b i a,bia,GLOSA 3 PORT,AXZ,TAN
+739,b i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,bia,PET,GLOSA 2 PORT,b i a,bia,GLOSA 3 PORT,AXZ,TUK
+740,b i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,bia,PET,GLOSA 2 PORT,b i a,bia,GLOSA 3 PORT,AXZ,TUY
+741,b i a,GLOSS 3 ENGL,FALSE,pimenta,66,PWT,GLOSA 2 ENGL,chili,bia,PET,GLOSA 2 PORT,b i a,bia,GLOSA 3 PORT,AXZ,WAN
+742,pʔ i a,,TRUE,,66,,,chili,*pʔia,,,pʔ i a,,,AXZ,*PT
+743,b u h e,GLOSS 3 ENGL,FALSE,espremer,67,PWT,GLOSA 2 ENGL,squeeze,buhe,*pʔipo,GLOSA 2 PORT,b u h e,buhe,GLOSA 3 PORT,AXBZ,BAS
+744,b i p i,GLOSS 3 ENGL,FALSE,espremer,67,PWT,GLOSA 2 ENGL,squeeze,bipi,*pʔipo,GLOSA 2 PORT,b i p i,bipi,GLOSA 3 PORT,AXBZ,DES
+745,p i p o,GLOSS 3 ENGL,FALSE,espremer,67,PWT,GLOSA 2 ENGL,squeeze,pipo,*pʔipo,GLOSA 2 PORT,p i p o,pipo,GLOSA 3 PORT,AXBZ,KUB
+746,b i p e,GLOSS 3 ENGL,FALSE,espremer,67,PWT,GLOSA 2 ENGL,squeeze,bipe,*pʔipo,GLOSA 2 PORT,b i p e,bipe,GLOSA 3 PORT,AXBZ,TUK
+747,w̃ ã j ĩ ã,GLOSS 3 ENGL,FALSE,espremer,144,PWT,GLOSA 2 ENGL,squeeze,~wayia,*pʔipo,GLOSA 2 PORT,w̃ ã j ĩ ã,~wayia,GLOSA 3 PORT,AXYYZ,TUY
+748,w i p e,GLOSS 3 ENGL,FALSE,espremer,67,PWT,GLOSA 2 ENGL,squeeze,wipe,*pʔipo,GLOSA 2 PORT,w i p e,wipe,GLOSA 3 PORT,AXBZ,WAN
+749,pʔ i p o,,TRUE,,67,,,squeeze,*pʔipo,,,pʔ i p o,,,AXBZ,*PT
+750,b ɨ k ɨ,GLOSS 3 ENGL,FALSE,velho,68,PWT,GLOSA 2 ENGL,elder,bɨkɨ,PET,GLOSA 2 PORT,b ɨ - k ɨ,bɨkɨ,GLOSA 3 PORT,AXBZ,BAS
+751,b ɨ g ɨ,GLOSS 3 ENGL,FALSE,velho,68,PWT,GLOSA 2 ENGL,elder,bɨgɨ,PET,GLOSA 2 PORT,b ɨ - g ɨ,bɨgɨ,GLOSA 3 PORT,AXBZ,DES
+752,b ɨ k ɨ,GLOSS 3 ENGL,FALSE,velho,68,PWT,GLOSA 2 ENGL,elder,bɨkɨ,PET,GLOSA 2 PORT,b ɨ - k ɨ,bɨkɨ,GLOSA 3 PORT,AXBZ,KAR
+753,b ɨ k ɨ,GLOSS 3 ENGL,FALSE,velho,68,PWT,GLOSA 2 ENGL,elder,bɨkɨ,PET,GLOSA 2 PORT,b ɨ - k ɨ,bɨkɨ,GLOSA 3 PORT,AXBZ,KUB
+754,b ɨ i k ɨ,GLOSS 3 ENGL,FALSE,velho,68,PWT,GLOSA 2 ENGL,elder,bɨikɨ,PET,GLOSA 2 PORT,b ɨ i k ɨ,bɨikɨ,GLOSA 3 PORT,AXYBZ,KUE
+755,b ɨ k ɨ,GLOSS 3 ENGL,FALSE,velho,68,PWT,GLOSA 2 ENGL,elder,bɨkɨ,PET,GLOSA 2 PORT,b ɨ - k ɨ,bɨkɨ,GLOSA 3 PORT,AXBZ,TUK
+756,b ɨ k ɨ,GLOSS 3 ENGL,FALSE,velho,68,PWT,GLOSA 2 ENGL,elder,bɨkɨ,PET,GLOSA 2 PORT,b ɨ - k ɨ,bɨkɨ,GLOSA 3 PORT,AXBZ,TUY
+757,b ɨ k ɨ,GLOSS 3 ENGL,FALSE,velho,68,PWT,GLOSA 2 ENGL,elder,bɨkɨ,PET,GLOSA 2 PORT,b ɨ - k ɨ,bɨkɨ,GLOSA 3 PORT,AXBZ,WAN
+758,pʔ ɨ k ɨ,,TRUE,,68,,,elder,*pʔɨkɨ,,,pʔ ɨ - k ɨ,,,AXBZ,*PT
+759,b o t i,GLOSS 3 ENGL,FALSE,branco,69,PWT,GLOSA 2 ENGL,white,boti,PET,whitewash (wan),b o t i,boti,GLOSA 3 PORT,AXBZ,BAS
+760,b o d e,GLOSS 3 ENGL,FALSE,branco,69,PWT,GLOSA 2 ENGL,white,bode,PET,whitewash (wan),b o d e,bode,GLOSA 3 PORT,AXBZ,DES
+761,b o t i,GLOSS 3 ENGL,FALSE,branco,69,PWT,GLOSA 2 ENGL,white,boti,PET,whitewash (wan),b o t i,boti,GLOSA 3 PORT,AXBZ,KAR
+762,p o,GLOSS 3 ENGL,FALSE,branco,69,PWT,GLOSA 2 ENGL,white,po,PET,whitewash (wan),p o - -,po,GLOSA 3 PORT,AX,KOR
+763,b o,GLOSS 3 ENGL,FALSE,branco,69,PWT,GLOSA 2 ENGL,white,bo,PET,whitewash (wan),b o - -,bo,GLOSA 3 PORT,AX,KUB
+764,p o,GLOSS 3 ENGL,FALSE,branco,69,PWT,GLOSA 2 ENGL,white,po,PET,whitewash (wan),p o - -,po(le),GLOSA 3 PORT,AX,KUE
+765,b o,GLOSS 3 ENGL,FALSE,branco,69,PWT,GLOSA 2 ENGL,white,bo,PET,whitewash (wan),b o - -,bo,GLOSA 3 PORT,AX,MAI
+766,p o,GLOSS 3 ENGL,FALSE,branco,69,PWT,GLOSA 2 ENGL,white,po,PET,whitewash (wan),pʔ o - -,po,GLOSA 3 PORT,AX,SEK
+767,pʔ o,GLOSS 3 ENGL,FALSE,branco,69,PWT,GLOSA 2 ENGL,white,pʔo,PET,whitewash (wan),pʔ o - -,pʔo,GLOSA 3 PORT,AX,SIO
+768,b o i,GLOSS 3 ENGL,FALSE,branco,69,PWT,GLOSA 2 ENGL,white,boi,PET,whitewash (wan),b o - i,boi,GLOSA 3 PORT,AXZ,TAN
+769,b u t i,GLOSS 3 ENGL,FALSE,branco,69,PWT,GLOSA 2 ENGL,white,buti,PET,whitewash (wan),b u t i,buti,GLOSA 3 PORT,AXBZ,TUK
+770,b u t i,GLOSS 3 ENGL,FALSE,branco,69,PWT,GLOSA 2 ENGL,white,buti,PET,whitewash (wan),b u t i,buti,GLOSA 3 PORT,AXBZ,TUY
+771,b o ʔt a,GLOSS 3 ENGL,FALSE,branco,69,PWT,GLOSA 2 ENGL,white,boʔta,PET,whitewash (wan),b o ʔt a,boʔta,GLOSA 3 PORT,AXBZ,WAN
+772,pʔ o,,TRUE,,69,,,white,*pʔo-,,,pʔ o - -,,,AX,*PT
+773,m o m o,GLOSS 3 ENGL,FALSE,sapo,70,PWT,GLOSA 2 ENGL,toad sp.,momo,PET,GLOSA 2 PORT,m o m o,momo,GLOSA 3 PORT,AXBZ,BAS
+774,m o m a,GLOSS 3 ENGL,FALSE,sapo,70,PWT,GLOSA 2 ENGL,toad sp.,moma,PET,GLOSA 2 PORT,m o m a,moma,GLOSA 3 PORT,AXBZ,DES
+775,h o h o,GLOSS 3 ENGL,FALSE,sapo,70,PWT,GLOSA 2 ENGL,toad sp.,hoho,PET,GLOSA 2 PORT,h o h o,hoho,GLOSA 3 PORT,AXBZ,KOR
+776,p o p o,GLOSS 3 ENGL,FALSE,sapo,70,PWT,GLOSA 2 ENGL,toad sp.,popo,PET,GLOSA 2 PORT,p o p o,popo,GLOSA 3 PORT,AXBZ,KUB
+777,h o h o,GLOSS 3 ENGL,FALSE,sapo,70,PWT,GLOSA 2 ENGL,toad sp.,hoho,PET,GLOSA 2 PORT,h o h o,hoho,GLOSA 3 PORT,AXBZ,SEK
+778,m o ʔm o,GLOSS 3 ENGL,FALSE,sapo,70,PWT,GLOSA 2 ENGL,toad sp.,moʔmo,PET,GLOSA 2 PORT,m o ʔm o,moʔmo,GLOSA 3 PORT,AXBZ,TUK
+779,w a ʔm u,GLOSS 3 ENGL,FALSE,sapo,70,PWT,GLOSA 2 ENGL,toad sp.,waʔmu,PET,GLOSA 2 PORT,w a ʔm u,waʔmu,GLOSA 3 PORT,AXBZ,WAN
+780,pʔ o p a,,TRUE,,70,,,toad sp.,*pʔopa,,,pʔ o p a,,,AXBZ,*PT
+781,b o h e,GLOSS 3 ENGL,FALSE,quebrar,71,PWT,GLOSA 2 ENGL,break,bohe,PET,GLOSA 2 PORT,b o h e,bohe,GLOSA 3 PORT,AXBZ,BAS
+782,b o h e,GLOSS 3 ENGL,FALSE,quebrar,71,PWT,GLOSA 2 ENGL,break,bohe,PET,GLOSA 2 PORT,b o h e,bohe,GLOSA 3 PORT,AXBZ,DES
+783,h ũ h e,GLOSS 3 ENGL,FALSE,quebrar,71,PWT,GLOSA 2 ENGL,break,hũhe,PET,GLOSA 2 PORT,h ũ h e,hũhe,GLOSA 3 PORT,AXBZ,KOR
+784,p o p e,GLOSS 3 ENGL,FALSE,quebrar,71,PWT,GLOSA 2 ENGL,break,pope,PET,GLOSA 2 PORT,p o p e,pope,GLOSA 3 PORT,AXBZ,KUB
+785,h o a,GLOSS 3 ENGL,FALSE,quebrar,71,PWT,GLOSA 2 ENGL,break,hoa,PET,GLOSA 2 PORT,h o - a,hoa,GLOSA 3 PORT,AXZ,MAI
+786,h o ʔ a,GLOSS 3 ENGL,FALSE,quebrar,71,PWT,GLOSA 2 ENGL,break,hoʔa,PET,GLOSA 2 PORT,h o ʔ a,hoʔa,GLOSA 3 PORT,AXBZ,SEK
+787,b o p e,GLOSS 3 ENGL,FALSE,quebrar,71,PWT,GLOSA 2 ENGL,break,bope,PET,GLOSA 2 PORT,b o p e,bope,GLOSA 3 PORT,AXBZ,TUK
+788,p a a,GLOSS 3 ENGL,FALSE,quebrar,71,PWT,GLOSA 2 ENGL,break,paa,PET,GLOSA 2 PORT,p a - a,paa,GLOSA 3 PORT,AXZ,TUY
+789,p o ʔ a,GLOSS 3 ENGL,FALSE,quebrar,71,PWT,GLOSA 2 ENGL,break,poʔa,PET,GLOSA 2 PORT,p o ʔ a,poʔa,GLOSA 3 PORT,AXBZ,WAN
+790,pʔ o p e,,TRUE,,71,,,break,*pʔope,,,pʔ o p e,,,AXBZ,*PT
+791,m ũ t∫ ã,GLOSS 3 ENGL,FALSE,urucm,72,PWT,GLOSA 2 ENGL,urucum (achiote),~buca,PET,GLOSA 2 PORT,m ũ t∫ ã,~buca,GLOSA 3 PORT,AXBZ,BAS
+792,m ũ s ã,GLOSS 3 ENGL,FALSE,urucm,72,PWT,GLOSA 2 ENGL,urucum (achiote),~busa,PET,GLOSA 2 PORT,m ũ s ã,~busa,GLOSA 3 PORT,AXBZ,DES
+793,m ũ s ã,GLOSS 3 ENGL,FALSE,urucm,72,PWT,GLOSA 2 ENGL,urucum (achiote),~busa,PET,GLOSA 2 PORT,m ũ s ã,~busa,GLOSA 3 PORT,AXBZ,KAR
+794,p ũ s a,GLOSS 3 ENGL,FALSE,urucm,72,PWT,GLOSA 2 ENGL,urucum (achiote),pũsa,PET,GLOSA 2 PORT,p ũ s a,pũsa,GLOSA 3 PORT,AXBZ,KOR
+795,m ũ h ã,GLOSS 3 ENGL,FALSE,urucm,72,PWT,GLOSA 2 ENGL,urucum (achiote),~buha,PET,GLOSA 2 PORT,m ũ h ã,~buha,GLOSA 3 PORT,AXBZ,KUB
+796,m u h i a,GLOSS 3 ENGL,FALSE,urucm,72,PWT,GLOSA 2 ENGL,urucum (achiote),muhia,PET,GLOSA 2 PORT,m u hj a,muhia,GLOSA 3 PORT,AXBZ,KUE
+797,b o s a,GLOSS 3 ENGL,FALSE,urucm,72,PWT,GLOSA 2 ENGL,urucum (achiote),bosa,PET,GLOSA 2 PORT,b o s a,bosa,GLOSA 3 PORT,AXBZ,MAI
+798,pʔ õ s a,GLOSS 3 ENGL,FALSE,urucm,72,PWT,GLOSA 2 ENGL,urucum (achiote),pʔõsa,PET,GLOSA 2 PORT,pʔ õ s a,pʔõsa,GLOSA 3 PORT,AXBZ,SEK
+799,pʔ õ s a,GLOSS 3 ENGL,FALSE,urucm,72,PWT,GLOSA 2 ENGL,urucum (achiote),pʔõsa,PET,GLOSA 2 PORT,pʔ õ s a,pʔõsa,GLOSA 3 PORT,AXBZ,SIO
+800,m ũ h ã,GLOSS 3 ENGL,FALSE,urucm,72,PWT,GLOSA 2 ENGL,urucum (achiote),~buha,PET,GLOSA 2 PORT,m ũ h ã,~buha,GLOSA 3 PORT,AXBZ,TAN
+801,m õ s ã,GLOSS 3 ENGL,FALSE,urucm,72,PWT,GLOSA 2 ENGL,urucum (achiote),~bosa,PET,GLOSA 2 PORT,m õ s ã,~bosa,GLOSA 3 PORT,AXBZ,TUK
+802,m ã s ĩ _ s õ a,GLOSS 3 ENGL,FALSE,urucm,148,PWT,GLOSA 2 ENGL,urucum (achiote),~basi_sõa,PET,GLOSA 2 PORT,- - - - ( m ã s ĩ _ s õ a ),~basi sõa,GLOSA 3 PORT,AXBZ_AXZ,WAN
+803,pʔ õ s a,,TRUE,,72,,,urucum (achiote),*pʔõsa,,,pʔ õ s a,,,AXBZ,*PT
+804,b o d e k a,GLOSS 3 ENGL,FALSE,aracu fish,73,PWT,GLOSA 2 ENGL,aracu fish,bodeka,*pʔotʔika,GLOSA 2 PORT,b o d e k a,bodeka,GLOSA 3 PORT,AXBYBZ,BAS
+805,b o d e k a,GLOSS 3 ENGL,FALSE,aracu fish,73,PWT,GLOSA 2 ENGL,aracu fish,bodeka,*pʔotʔika,GLOSA 2 PORT,b o d e k a,bodeka,GLOSA 3 PORT,AXBYBZ,DES
+806,b o t e k a,GLOSS 3 ENGL,FALSE,aracu fish,73,PWT,GLOSA 2 ENGL,aracu fish,boteka,*pʔotʔika,GLOSA 2 PORT,b o t e k a,boteka,GLOSA 3 PORT,AXBYBZ,KAR
+807,b o d i k a,GLOSS 3 ENGL,FALSE,aracu fish,73,PWT,GLOSA 2 ENGL,aracu fish,bodika,*pʔotʔika,GLOSA 2 PORT,b o d i k a,bodika,GLOSA 3 PORT,AXBYBZ,KUB
+808,p o l e ki a,GLOSS 3 ENGL,FALSE,aracu fish,73,PWT,GLOSA 2 ENGL,aracu fish,polekia,*pʔotʔika,GLOSA 2 PORT,p o r e kj a,polekia,GLOSA 3 PORT,AXBYBZ,KUE
+809,b o t a k a,GLOSS 3 ENGL,FALSE,aracu fish,73,PWT,GLOSA 2 ENGL,aracu fish,botaka,*pʔotʔika,GLOSA 2 PORT,b o t a k a,botaka,GLOSA 3 PORT,AXBYBZ,TAN
+810,b o ʔt e a,GLOSS 3 ENGL,FALSE,aracu fish,73,PWT,GLOSA 2 ENGL,aracu fish,boʔtea,*pʔotʔika,GLOSA 2 PORT,b o ʔt e - a,boʔtea,GLOSA 3 PORT,AXBYZ,TUK
+811,b o ʔt e a,GLOSS 3 ENGL,FALSE,aracu fish,73,PWT,GLOSA 2 ENGL,aracu fish,boʔtea,*pʔotʔika,GLOSA 2 PORT,b o ʔt e - a,boʔtea,GLOSA 3 PORT,AXBYZ,WAN
+812,pʔ o tʔ i k a,,TRUE,,73,,,aracu fish,*pʔotʔika,,,pʔ o tʔ i k a,,,AXBYBZ,*PT
+813,m ĩ h ĩ,GLOSS 3 ENGL,FALSE,inchação,74,PWT,GLOSA 2 ENGL,swell,~bihi,PET,GLOSA 2 PORT,m ĩ h ĩ,~bihi,GLOSA 3 PORT,AXBZ,BAS
+814,b i h i,GLOSS 3 ENGL,FALSE,inchação,74,PWT,GLOSA 2 ENGL,swell,bihi,PET,GLOSA 2 PORT,b i h i,bihi,GLOSA 3 PORT,AXBZ,DES
+815,h u h u,GLOSS 3 ENGL,FALSE,inchação,74,PWT,GLOSA 2 ENGL,swell,huhu,PET,GLOSA 2 PORT,h u h u,huhu,GLOSA 3 PORT,AXBZ,MAI
+816,h u h u,GLOSS 3 ENGL,FALSE,inchação,74,PWT,GLOSA 2 ENGL,swell,huhu,PET,GLOSA 2 PORT,h u h u,huhu,GLOSA 3 PORT,AXBZ,SIO
+817,ɸ ĩ ɸ i,GLOSS 3 ENGL,FALSE,inchação,74,PWT,GLOSA 2 ENGL,swell,pĩpi,PET,GLOSA 2 PORT,ɸ ĩ ɸ i,pĩpi,GLOSA 3 PORT,AXBZ,TAN
+818,b i p i,GLOSS 3 ENGL,FALSE,inchação,74,PWT,GLOSA 2 ENGL,swell,bipi,PET,GLOSA 2 PORT,b i p i,bipi,GLOSA 3 PORT,AXBZ,TUK
+819,b i p i,GLOSS 3 ENGL,FALSE,inchação,74,PWT,GLOSA 2 ENGL,swell,bipi,PET,GLOSA 2 PORT,b i p i,bipi,GLOSA 3 PORT,AXBZ,TUY
+820,w i p i,GLOSS 3 ENGL,FALSE,inchação,74,PWT,GLOSA 2 ENGL,swell,wipi,PET,GLOSA 2 PORT,w i p i,wipi,GLOSA 3 PORT,AXBZ,WAN
+821,pʔ u p i,,TRUE,,74,,,swell,*pʔupi,,,pʔ u p i,,,AXBZ,*PT
+822,h a k ɨ,GLOSS 3 ENGL,FALSE,pai,75,PWT,GLOSA 2 ENGL,father,hakɨ,PET,GLOSA 2 PORT,h a k ɨ,hakɨ,GLOSA 3 PORT,AXBZ,BAS
+823,p a g ɨ,GLOSS 3 ENGL,FALSE,pai,75,PWT,GLOSA 2 ENGL,father,pagɨ,PET,GLOSA 2 PORT,p a g ɨ,pagɨ,GLOSA 3 PORT,AXBZ,DES
+824,p a k ɨ,GLOSS 3 ENGL,FALSE,pai,75,PWT,GLOSA 2 ENGL,father,pakɨ,PET,GLOSA 2 PORT,p a k ɨ,pakɨ,GLOSA 3 PORT,AXBZ,KAR
+825,h a kh ɨ,GLOSS 3 ENGL,FALSE,pai,75,PWT,GLOSA 2 ENGL,father,hakhɨ,PET,GLOSA 2 PORT,h a kh ɨ,hakhɨ,GLOSA 3 PORT,AXBZ,KOR
+826,p a k ɨ,GLOSS 3 ENGL,FALSE,pai,75,PWT,GLOSA 2 ENGL,father,pakɨ,PET,GLOSA 2 PORT,p a k ɨ,pakɨ,GLOSA 3 PORT,AXBZ,KUB
+827,h a k ɨ,GLOSS 3 ENGL,FALSE,pai,75,PWT,GLOSA 2 ENGL,father,hakɨ,PET,GLOSA 2 PORT,h a k ɨ,hakɨ,GLOSA 3 PORT,AXBZ,KUE
+828,h a k ɨ,GLOSS 3 ENGL,FALSE,pai,75,PWT,GLOSA 2 ENGL,father,hakɨ,PET,GLOSA 2 PORT,h a k ɨ,hakɨ,GLOSA 3 PORT,AXBZ,MAI
+829,h a k ɨ,GLOSS 3 ENGL,FALSE,pai,75,PWT,GLOSA 2 ENGL,father,hakɨ,PET,GLOSA 2 PORT,h a k ɨ,hakɨ,GLOSA 3 PORT,AXBZ,SEK
+830,h a k ɨ,GLOSS 3 ENGL,FALSE,pai,75,PWT,GLOSA 2 ENGL,father,hakɨ,PET,GLOSA 2 PORT,h a k ɨ,hakɨ,GLOSA 3 PORT,AXBZ,SIO
+831,ɸ a k i,GLOSS 3 ENGL,FALSE,pai,75,PWT,GLOSA 2 ENGL,father,paki,PET,GLOSA 2 PORT,ɸ a k i,paki,GLOSA 3 PORT,AXBZ,TAN
+832,p a k ɨ,GLOSS 3 ENGL,FALSE,pai,75,PWT,GLOSA 2 ENGL,father,pakɨ,PET,GLOSA 2 PORT,p a k ɨ,pakɨ,GLOSA 3 PORT,AXBZ,TUK
+833,p a k ɨ,GLOSS 3 ENGL,FALSE,pai,75,PWT,GLOSA 2 ENGL,father,pakɨ,PET,GLOSA 2 PORT,p a k ɨ,pakɨ,GLOSA 3 PORT,AXBZ,TUY
+834,ph ɨ k ɨ,GLOSS 3 ENGL,FALSE,pai,75,PWT,GLOSA 2 ENGL,father,phɨkɨ,PET,GLOSA 2 PORT,ph ɨ k ɨ,phɨkɨ,GLOSA 3 PORT,AXBZ,WAN
+835,p a k ɨ,,FALSE,,75,,,father,*pa-kɨ,,,p a k ɨ,,,AXBZ,*PT
+836,h a i,GLOSS 3 ENGL,FALSE,grande,76,PWT,GLOSA 2 ENGL,big,hai,PET,GLOSA 2 PORT,h a - i,hai,GLOSA 3 PORT,AXZ,BAS
+837,p a i,GLOSS 3 ENGL,FALSE,grande,76,PWT,GLOSA 2 ENGL,big,pai,PET,GLOSA 2 PORT,p a - i,pai,GLOSA 3 PORT,AXZ,KAR
+838,h a i,GLOSS 3 ENGL,FALSE,grande,76,PWT,GLOSA 2 ENGL,big,hai,PET,GLOSA 2 PORT,h a - i,hai,GLOSA 3 PORT,AXZ,MAI
+839,p a h i,GLOSS 3 ENGL,FALSE,grande,76,PWT,GLOSA 2 ENGL,big,pahi,PET,GLOSA 2 PORT,p a h i,pahi,GLOSA 3 PORT,AXBZ,PIR
+840,h a i,GLOSS 3 ENGL,FALSE,grande,76,PWT,GLOSA 2 ENGL,big,hai,PET,GLOSA 2 PORT,h a - i,hai,GLOSA 3 PORT,AXZ,SEK
+841,h a i,GLOSS 3 ENGL,FALSE,grande,76,PWT,GLOSA 2 ENGL,big,hai,PET,GLOSA 2 PORT,h a - i,hai,GLOSA 3 PORT,AXZ,SIO
+842,p a h i,GLOSS 3 ENGL,FALSE,grande,76,PWT,GLOSA 2 ENGL,big,pahi,PET,GLOSA 2 PORT,p a h i,pahi,GLOSA 3 PORT,AXBZ,TUK
+843,p a i,GLOSS 3 ENGL,FALSE,grande,76,PWT,GLOSA 2 ENGL,big,pai,PET,GLOSA 2 PORT,p a - i,pai,GLOSA 3 PORT,AXZ,TUY
+844,p a h i,,FALSE,,76,,,big,*pahi,,,p a h i,,,AXBZ,*PT
+845,h ã m õ,GLOSS 3 ENGL,FALSE,tatu,77,PWT,GLOSA 2 ENGL,armadillo,~habo,PET,GLOSA 2 PORT,h ã m õ,~habo,GLOSA 3 PORT,AXBZ,BAS
+846,p ã m õ,GLOSS 3 ENGL,FALSE,tatu,77,PWT,GLOSA 2 ENGL,armadillo,~pabo,PET,GLOSA 2 PORT,p ã m õ,~pabo,GLOSA 3 PORT,AXBZ,DES
+847,p ã m õ,GLOSS 3 ENGL,FALSE,tatu,77,PWT,GLOSA 2 ENGL,armadillo,~pabo,PET,GLOSA 2 PORT,p ã m õ,~pabo,GLOSA 3 PORT,AXBZ,KAR
+848,h a m u,GLOSS 3 ENGL,FALSE,tatu,77,PWT,GLOSA 2 ENGL,armadillo,hamu,PET,GLOSA 2 PORT,h a m u,hamu,GLOSA 3 PORT,AXBZ,KOR
+849,p ã m ũ,GLOSS 3 ENGL,FALSE,tatu,77,PWT,GLOSA 2 ENGL,armadillo,~pabu,PET,GLOSA 2 PORT,p ã m ũ,~pabu,GLOSA 3 PORT,AXBZ,KUB
+850,h a m u,GLOSS 3 ENGL,FALSE,tatu,77,PWT,GLOSA 2 ENGL,armadillo,hamu,PET,GLOSA 2 PORT,h a m u,hamu,GLOSA 3 PORT,AXBZ,KUE
+851,p ã m õ,GLOSS 3 ENGL,FALSE,tatu,77,PWT,GLOSA 2 ENGL,armadillo,~pabo,PET,GLOSA 2 PORT,p ã m õ,~pabo,GLOSA 3 PORT,AXBZ,PIR
+852,h ã m o,GLOSS 3 ENGL,FALSE,tatu,77,PWT,GLOSA 2 ENGL,armadillo,hãmo,PET,GLOSA 2 PORT,h ã m o,hãmo,GLOSA 3 PORT,AXBZ,SEK
+853,h ã m u,GLOSS 3 ENGL,FALSE,tatu,77,PWT,GLOSA 2 ENGL,armadillo,hãmu,PET,GLOSA 2 PORT,h ã m u,hãmu,GLOSA 3 PORT,AXBZ,SIO
+854,ɸ ã m ũ,GLOSS 3 ENGL,FALSE,tatu,77,PWT,GLOSA 2 ENGL,armadillo,~pabu,PET,GLOSA 2 PORT,ɸ ã m ũ,~pabu,GLOSA 3 PORT,AXBZ,TAN
+855,p ã m õ,GLOSS 3 ENGL,FALSE,tatu,77,PWT,GLOSA 2 ENGL,armadillo,~pabo,PET,GLOSA 2 PORT,p ã m õ,~pabo,GLOSA 3 PORT,AXBZ,TUK
+856,p ã m õ,GLOSS 3 ENGL,FALSE,tatu,77,PWT,GLOSA 2 ENGL,armadillo,~pabo,PET,GLOSA 2 PORT,p ã m õ,~pabo,GLOSA 3 PORT,AXBZ,WAN
+857,p ã m u,,FALSE,,77,,,armadillo,*pãmu,,,p ã m u,,,AXBZ,*PT
+858,h a j a,GLOSS 3 ENGL,FALSE,flutuar,78,PWT,GLOSA 2 ENGL,float,haja,PET,GLOSA 2 PORT,h a j a,haja,GLOSA 3 PORT,AXBZ,BAS
+859,p á j a,GLOSS 3 ENGL,FALSE,flutuar,78,PWT,GLOSA 2 ENGL,float,pája,PET,GLOSA 2 PORT,p á j a,pája,GLOSA 3 PORT,AXBZ,DES
+860,p a s a,GLOSS 3 ENGL,FALSE,flutuar,78,PWT,GLOSA 2 ENGL,float,pasa,PET,GLOSA 2 PORT,p a s a,pasa,GLOSA 3 PORT,AXBZ,KAR
+861,p a ʔs a,GLOSS 3 ENGL,FALSE,flutuar,78,PWT,GLOSA 2 ENGL,float,paʔsa,PET,GLOSA 2 PORT,p a ʔs a,paʔsa,GLOSA 3 PORT,AXBZ,TUK
+862,p a s a,GLOSS 3 ENGL,FALSE,flutuar,78,PWT,GLOSA 2 ENGL,float,pasa,PET,GLOSA 2 PORT,p a s a,pasa,GLOSA 3 PORT,AXBZ,TUY
+863,p a ʔs a,GLOSS 3 ENGL,FALSE,flutuar,78,PWT,GLOSA 2 ENGL,float,paʔsa,PET,GLOSA 2 PORT,p a ʔs a,paʔsa,GLOSA 3 PORT,AXBZ,WAN
+864,p a ʔj a,,TRUE,,78,,,float,*paʔja,,,p a ʔj a,,,AXBZ,*PT
+865,h e a,GLOSS 3 ENGL,FALSE,fogo,79,PWT,firewood,fire,hea,PET,lenha,h e - a,hea,GLOSA 3 PORT,AXZ,BAS
+866,p e a,GLOSS 3 ENGL,FALSE,fogo,79,PWT,firewood,fire,pea,PET,lenha,p e - a,pea,GLOSA 3 PORT,AXZ,DES
+867,p e e,GLOSS 3 ENGL,FALSE,fogo,79,PWT,firewood,fire,pee,PET,lenha,p e - e,pee,GLOSA 3 PORT,AXZ,KAR
+868,h ẽ kh a,GLOSS 3 ENGL,FALSE,fogo,79,PWT,firewood,fire,hẽkha,PET,lenha,h ẽ kh a,hẽkha,GLOSA 3 PORT,AXBZ,KOR
+869,p e k a,GLOSS 3 ENGL,FALSE,fogo,79,PWT,firewood,fire,peka,PET,lenha,p e k a,peka,GLOSA 3 PORT,AXBZ,KUB
+870,h e kj a,GLOSS 3 ENGL,FALSE,fogo,79,PWT,firewood,fire,hekia,PET,lenha,h e kj a,hekia,GLOSA 3 PORT,AXBZ,KUE
+871,h e k a,GLOSS 3 ENGL,FALSE,fogo,79,PWT,firewood,fire,heka,PET,lenha,h e k a,heka,GLOSA 3 PORT,AXBZ,MAI
+872,h e k a,GLOSS 3 ENGL,FALSE,fogo,79,PWT,firewood,fire,heka,PET,lenha,h e k a,heka,GLOSA 3 PORT,AXBZ,SEK
+873,h ẽ k a,GLOSS 3 ENGL,FALSE,fogo,79,PWT,firewood,fire,hẽka,PET,lenha,h ẽ k a,hẽka,GLOSA 3 PORT,AXBZ,SIO
+874,ɸ e k a,GLOSS 3 ENGL,FALSE,fogo,79,PWT,firewood,fire,peka,PET,lenha,ɸ e k a,peka,GLOSA 3 PORT,AXBZ,TAN
+875,p e k a,GLOSS 3 ENGL,FALSE,fogo,79,PWT,firewood,fire,peka,PET,lenha,p e k a,peka,GLOSA 3 PORT,AXBZ,TUK
+876,p e k a,GLOSS 3 ENGL,FALSE,fogo,79,PWT,firewood,fire,peka,PET,lenha,p e k a,peka,GLOSA 3 PORT,AXBZ,TUY
+877,ph i t∫ a,GLOSS 3 ENGL,FALSE,fogo,79,PWT,firewood,fire,phit∫a,PET,lenha,ph i t∫ a,phit∫a,GLOSA 3 PORT,AXBZ,WAN
+878,p e k a,,FALSE,,79,,,fire,*peka,,,p e k a,,,AXBZ,*PT
+879,h e d i,GLOSS 3 ENGL,FALSE,terminar,80,PWT,GLOSA 2 ENGL,end,hedi,PET,GLOSA 2 PORT,h e d i -,hedi,GLOSA 3 PORT,AXBZ,BAS
+880,p e ʔd e a,GLOSS 3 ENGL,FALSE,terminar,80,PWT,GLOSA 2 ENGL,end,peʔdea,PET,GLOSA 2 PORT,p e ʔd e a,peʔdea,GLOSA 3 PORT,AXBYZ,DES
+881,p e t i,GLOSS 3 ENGL,FALSE,terminar,80,PWT,GLOSA 2 ENGL,end,peti,PET,GLOSA 2 PORT,p e t i -,peti,GLOSA 3 PORT,AXBZ,KUE
+882,p e ʔt i,GLOSS 3 ENGL,FALSE,terminar,80,PWT,GLOSA 2 ENGL,end,peʔti,PET,GLOSA 2 PORT,p e ʔt i -,peʔti,GLOSA 3 PORT,AXBZ,TUK
+883,p i ʔt i,GLOSS 3 ENGL,FALSE,terminar,80,PWT,GLOSA 2 ENGL,end,piʔti,PET,GLOSA 2 PORT,p i ʔt i -,piʔti,GLOSA 3 PORT,AXBZ,WAN
+884,p e tʔ i,,TRUE,,80,,,end,*petʔi,,,p e tʔ i -,,,AXBZ,*PT
+885,h e t a,GLOSS 3 ENGL,FALSE,tocandira,81,PWT,GLOSA 2 ENGL,tocandira ant,heta,PET,GLOSA 2 PORT,h e - t a,heta,GLOSA 3 PORT,AXBZ,BAS
+886,p e d a,GLOSS 3 ENGL,FALSE,tocandira,81,PWT,GLOSA 2 ENGL,tocandira ant,peda,PET,GLOSA 2 PORT,p e - d a,peda,GLOSA 3 PORT,AXBZ,DES
+887,p e t a,GLOSS 3 ENGL,FALSE,tocandira,81,PWT,GLOSA 2 ENGL,tocandira ant,peta,PET,GLOSA 2 PORT,p e - t a,peta,GLOSA 3 PORT,AXBZ,KAR
+888,p i a d a,GLOSS 3 ENGL,FALSE,tocandira,81,PWT,GLOSA 2 ENGL,tocandira ant,piada,PET,GLOSA 2 PORT,p i a d a,piada,GLOSA 3 PORT,AXYBZ,KUB
+889,h a t a,GLOSS 3 ENGL,FALSE,tocandira,81,PWT,GLOSA 2 ENGL,tocandira ant,hata,PET,GLOSA 2 PORT,h a - t a,hata,GLOSA 3 PORT,AXBZ,KUE
+890,ɸ a t a,GLOSS 3 ENGL,FALSE,tocandira,81,PWT,GLOSA 2 ENGL,tocandira ant,patajah,PET,GLOSA 2 PORT,ɸ a - t a,patajah,GLOSA 3 PORT,AXBZ,TAN
+891,p e t a,GLOSS 3 ENGL,FALSE,tocandira,81,PWT,GLOSA 2 ENGL,tocandira ant,peta,PET,GLOSA 2 PORT,p e - t a,peta,GLOSA 3 PORT,AXBZ,TUK
+892,ph i t a,GLOSS 3 ENGL,FALSE,tocandira,81,PWT,GLOSA 2 ENGL,tocandira ant,phita,PET,GLOSA 2 PORT,ph i - t a,phita,GLOSA 3 PORT,AXBZ,WAN
+893,p i a t a,,TRUE,,81,,,tocandira ant,*piata,,,p i a t a,,,AXYBZ,*PT
+894,h ĩ k õ,GLOSS 3 ENGL,FALSE,muxiva,82,PWT,GLOSA 2 ENGL,palm-weevil,~hiko,PET,GLOSA 2 PORT,h ĩ k õ,~hiko,GLOSA 3 PORT,AXBZ,BAS
+895,p ĩ ŋ ũ,GLOSS 3 ENGL,FALSE,muxiva,82,PWT,GLOSA 2 ENGL,palm-weevil,~pigu,PET,GLOSA 2 PORT,p ĩ ŋ ũ,~pigu,GLOSA 3 PORT,AXBZ,DES
+896,h ĩ ʔkh o,GLOSS 3 ENGL,FALSE,muxiva,82,PWT,GLOSA 2 ENGL,palm-weevil,hĩʔkho,PET,GLOSA 2 PORT,h ĩ ʔkh o,hĩʔkho,GLOSA 3 PORT,AXBZ,KOR
+897,p ĩ k õ,GLOSS 3 ENGL,FALSE,muxiva,82,PWT,GLOSA 2 ENGL,palm-weevil,~piko,PET,GLOSA 2 PORT,p ĩ k õ,~piko,GLOSA 3 PORT,AXBZ,KUB
+898,h ɨ̃ k o,GLOSS 3 ENGL,FALSE,muxiva,82,PWT,GLOSA 2 ENGL,palm-weevil,hɨ̃ko,PET,GLOSA 2 PORT,h ɨ̃ k o,hɨ̃ko,GLOSA 3 PORT,AXBZ,MAI
+899,h ĩ k o,GLOSS 3 ENGL,FALSE,muxiva,82,PWT,GLOSA 2 ENGL,palm-weevil,hĩko,PET,GLOSA 2 PORT,h ĩ k o,hĩko,GLOSA 3 PORT,AXBZ,SEK
+900,h ĩ k o,GLOSS 3 ENGL,FALSE,muxiva,82,PWT,GLOSA 2 ENGL,palm-weevil,hĩko,PET,GLOSA 2 PORT,h ĩ k o,hĩko,GLOSA 3 PORT,AXBZ,SIO
+901,ɸ ĩ k õ,GLOSS 3 ENGL,FALSE,muxiva,82,PWT,GLOSA 2 ENGL,palm-weevil,~piko,PET,GLOSA 2 PORT,ɸ ĩ k õ,~piko,GLOSA 3 PORT,AXBZ,TAN
+902,p ĩ k õ,GLOSS 3 ENGL,FALSE,muxiva,82,PWT,GLOSA 2 ENGL,palm-weevil,~piko,PET,GLOSA 2 PORT,p ĩ k õ,~piko,GLOSA 3 PORT,AXBZ,TUK
+903,_ ph i t∫ o,GLOSS 3 ENGL,FALSE,muxiva,82,PWT,GLOSA 2 ENGL,palm-weevil,~_phit∫o,PET,GLOSA 2 PORT,ph i t∫ o,~ phit∫o,GLOSA 3 PORT,AXBZ,WAN
+904,p ĩ k o,,FALSE,,82,,,palm-weevil,*pĩko,,,p ĩ k o,,,AXBZ,*PT
+905,h ɨ̃ th ɨ,GLOSS 3 ENGL,FALSE,palma da mão,83,PWT,GLOSA 2 ENGL,handpalm,hɨ̃thɨ,PET,GLOSA 2 PORT,h ɨ̃ th ɨ,hɨ̃thɨ,GLOSA 3 PORT,AXBZ,KOR
+906,p ɨ d ɨ,GLOSS 3 ENGL,FALSE,palma da mão,83,PWT,GLOSA 2 ENGL,handpalm,pɨdɨ,PET,GLOSA 2 PORT,p ɨ d ɨ,pɨdɨ,GLOSA 3 PORT,AXBZ,KUB
+907,h ɨ̃ t ɨ,GLOSS 3 ENGL,FALSE,palma da mão,83,PWT,GLOSA 2 ENGL,handpalm,hɨ̃tɨ,PET,GLOSA 2 PORT,h ɨ̃ t ɨ,hɨ̃tɨ,GLOSA 3 PORT,AXBZ,MAI
+908,h ɨ̃ t ɨ,GLOSS 3 ENGL,FALSE,palma da mão,83,PWT,GLOSA 2 ENGL,handpalm,hɨ̃tɨ,PET,GLOSA 2 PORT,h ɨ̃ t ɨ,hɨ̃tɨ,GLOSA 3 PORT,AXBZ,SEK
+909,ɨ̃ t ɨ,GLOSS 3 ENGL,FALSE,palma da mão,83,PWT,GLOSA 2 ENGL,handpalm,ɨ̃tɨ,PET,GLOSA 2 PORT,- ɨ̃ t ɨ,ɨ̃tɨ,GLOSA 3 PORT,XBZ,SIO
+910,ɸ i t a,GLOSS 3 ENGL,FALSE,palma da mão,83,PWT,GLOSA 2 ENGL,handpalm,pita,PET,GLOSA 2 PORT,ɸ i t a,pita,GLOSA 3 PORT,AXBZ,TAN
+911,p ɨ t ɨ,,FALSE,,83,,,handpalm,*pɨtɨ,,,p ɨ t ɨ,,,AXBZ,*PT
+912,h o t a,GLOSS 3 ENGL,FALSE,espinho,84,PWT,fishhook (tan),thorn,hota,*pota,anzol (tan),h o t a,hota,GLOSA 3 PORT,AXBZ,BAS
+913,p o d a,GLOSS 3 ENGL,FALSE,espinho,84,PWT,fishhook (tan),thorn,poda,*pota,anzol (tan),p o d a,poda,GLOSA 3 PORT,AXBZ,DES
+914,p o t a,GLOSS 3 ENGL,FALSE,espinho,84,PWT,fishhook (tan),thorn,pota,*pota,anzol (tan),p o t a,pota,GLOSA 3 PORT,AXBZ,KAR
+915,ɸ o t a,GLOSS 3 ENGL,FALSE,espinho,84,PWT,fishhook (tan),thorn,ɸota,*pota,anzol (tan),ɸ o t a,ɸota,GLOSA 3 PORT,AXBZ,TAN
+916,p o t a,GLOSS 3 ENGL,FALSE,espinho,84,PWT,fishhook (tan),thorn,pota,*pota,anzol (tan),p o t a,pota,GLOSA 3 PORT,AXBZ,TUK
+917,ph o t a,GLOSS 3 ENGL,FALSE,espinho,84,PWT,fishhook (tan),thorn,phota,*pota,anzol (tan),ph o t a,phota,GLOSA 3 PORT,AXBZ,WAN
+918,p o t a,,FALSE,,84,,,thorn,*pota,,,p o t a,,,AXBZ,*PT
+919,h u t i,GLOSS 3 ENGL,FALSE,assoprar,85,PWT,GLOSA 2 ENGL,blow,huti,PET,GLOSA 2 PORT,h u ( t i ),huti,GLOSA 3 PORT,AXBZ,BAS
+920,p u d i,GLOSS 3 ENGL,FALSE,assoprar,85,PWT,GLOSA 2 ENGL,blow,pudi,PET,GLOSA 2 PORT,p u ( d i ),pudi,GLOSA 3 PORT,AXBZ,DES
+921,p u t i,GLOSS 3 ENGL,FALSE,assoprar,85,PWT,GLOSA 2 ENGL,blow,puti,PET,GLOSA 2 PORT,p u ( t i ),puti,GLOSA 3 PORT,AXBZ,KAR
+922,h u + i,GLOSS 3 ENGL,FALSE,assoprar,85,PWT,GLOSA 2 ENGL,blow,hu+i,PET,GLOSA 2 PORT,h u ( i - ),hu-i,GLOSA 3 PORT,AXZ,KOR
+923,p u,GLOSS 3 ENGL,FALSE,assoprar,85,PWT,GLOSA 2 ENGL,blow,pu,PET,GLOSA 2 PORT,p u ( - - ),pu,GLOSA 3 PORT,AX,KUB
+924,h ú + i,GLOSS 3 ENGL,FALSE,assoprar,85,PWT,GLOSA 2 ENGL,blow,hú+i,PET,GLOSA 2 PORT,h ú ( i - ),hú-i,GLOSA 3 PORT,AXZ,MAI
+925,h u,GLOSS 3 ENGL,FALSE,assoprar,85,PWT,GLOSA 2 ENGL,blow,hu,PET,GLOSA 2 PORT,h u ( - - ),hu,GLOSA 3 PORT,AX,SEK
+926,h u + i,GLOSS 3 ENGL,TRUE,assoprar,85,PWT,GLOSA 2 ENGL,blow,hu+i,PET,GLOSA 2 PORT,h u ( i - ),hu-i,GLOSA 3 PORT,AXZ,SIO
+927,p u t i,GLOSS 3 ENGL,FALSE,assoprar,85,PWT,GLOSA 2 ENGL,blow,puti,PET,GLOSA 2 PORT,p u ( t i ),puti,GLOSA 3 PORT,AXBZ,TUK
+928,p u t i,GLOSS 3 ENGL,FALSE,assoprar,85,PWT,GLOSA 2 ENGL,blow,puti,PET,GLOSA 2 PORT,p u ( t i ),puti,GLOSA 3 PORT,AXBZ,WAN
+929,p u r i,GLOSS 3 ENGL,FALSE,assoprar,85,PWT,GLOSA 2 ENGL,blow,puri,PET,GLOSA 2 PORT,p u ( r i ),puri,GLOSA 3 PORT,AXBZ,YUP
+930,p u,,FALSE,,85,,,blow,*pu-,,,p u ( - - ),,,AX,*PT
+931,c ẽ m ẽ,GLOSS 3 ENGL,FALSE,paca,86,PWT,GLOSA 2 ENGL,paca,~cebe,PET,GLOSA 2 PORT,t∫ ẽ m ẽ,~cebe,GLOSA 3 PORT,AXBZ,BAS
+932,s ẽ m ẽ,GLOSS 3 ENGL,FALSE,paca,86,PWT,GLOSA 2 ENGL,paca,~sebe,PET,GLOSA 2 PORT,s ẽ m ẽ,~sebe,GLOSA 3 PORT,AXBZ,DES
+933,h ẽ m ẽ,GLOSS 3 ENGL,FALSE,paca,86,PWT,GLOSA 2 ENGL,paca,~hebe,PET,GLOSA 2 PORT,h ẽ m ẽ,~hebe,GLOSA 3 PORT,AXBZ,KAR
+934,s e m e,GLOSS 3 ENGL,FALSE,paca,86,PWT,GLOSA 2 ENGL,paca,seme,PET,GLOSA 2 PORT,s e m e,seme,GLOSA 3 PORT,AXBZ,KOR
+935,h ẽ m ẽ,GLOSS 3 ENGL,FALSE,paca,86,PWT,GLOSA 2 ENGL,paca,~hebe,PET,GLOSA 2 PORT,h ẽ m ẽ,~hebe,GLOSA 3 PORT,AXBZ,KUB
+936,s e m e,GLOSS 3 ENGL,FALSE,paca,86,PWT,GLOSA 2 ENGL,paca,seme,PET,GLOSA 2 PORT,s e m e,seme,GLOSA 3 PORT,AXBZ,MAI
+937,s e m e,GLOSS 3 ENGL,FALSE,paca,86,PWT,GLOSA 2 ENGL,paca,seme,PET,GLOSA 2 PORT,s e m e,seme,GLOSA 3 PORT,AXBZ,SEK
+938,s e m e,GLOSS 3 ENGL,FALSE,paca,86,PWT,GLOSA 2 ENGL,paca,seme,PET,GLOSA 2 PORT,s e m e,seme,GLOSA 3 PORT,AXBZ,SIO
+939,h ẽ m ẽ,GLOSS 3 ENGL,FALSE,paca,86,PWT,GLOSA 2 ENGL,paca,~hebe,PET,GLOSA 2 PORT,h ẽ m ẽ,~hebe,GLOSA 3 PORT,AXBZ,TAN
+940,s ẽ m ẽ,GLOSS 3 ENGL,FALSE,paca,86,PWT,GLOSA 2 ENGL,paca,~sebe,PET,GLOSA 2 PORT,s ẽ m ẽ,~sebe,GLOSA 3 PORT,AXBZ,TUK
+941,s ã m ã,GLOSS 3 ENGL,FALSE,paca,86,PWT,GLOSA 2 ENGL,paca,~saba,PET,GLOSA 2 PORT,s ã m ã,~saba,GLOSA 3 PORT,AXBZ,WAN
+942,e m e,,FALSE,,86,,,paca,*seme,,,s e m e,,,AXBZ,*PT
+943,c ĩ ŋ ẽ,GLOSS 3 ENGL,FALSE,esfregar,87,PWT,GLOSA 2 ENGL,rub,~cige,*sĩkʔe,GLOSA 2 PORT,- - - - t∫ ĩ ŋ ẽ,~cige,GLOSA 3 PORT,AXBZ,BAS
+944,h ĩ k ẽ,GLOSS 3 ENGL,FALSE,esfregar,87,PWT,GLOSA 2 ENGL,rub,~hike,*sĩkʔe,GLOSA 2 PORT,- - - - h ĩ k ẽ,~hike,GLOSA 3 PORT,AXBZ,KAR
+945,h ĩ h ũ,GLOSS 3 ENGL,FALSE,esfregar,87,PWT,GLOSA 2 ENGL,rub,hĩhũ,*sĩkʔe,GLOSA 2 PORT,- - - - h ĩ h ũ,hĩhũ,GLOSA 3 PORT,AXBZ,KUB
+946,s ã ʔk ẽ,GLOSS 3 ENGL,FALSE,esfregar,87,PWT,GLOSA 2 ENGL,rub,~saʔke,*sĩkʔe,GLOSA 2 PORT,- - - - s ã ʔk ẽ,~saʔke,GLOSA 3 PORT,AXBZ,TUK
+947,t u u _ s ã k ẽ,GLOSS 3 ENGL,FALSE,esfregar,87,PWT,GLOSA 2 ENGL,rub,tuu_~sake,*sĩkʔe,GLOSA 2 PORT,t u u _ s ã k ẽ,tuu ~sake,GLOSA 3 PORT,AXZ_AXBZ,TUY
+948,th u _ s a ʔk a,GLOSS 3 ENGL,FALSE,esfregar,87,PWT,GLOSA 2 ENGL,rub,thu_saʔka,*sĩkʔe,GLOSA 2 PORT,th u - _ s a ʔk a,thu saʔka,GLOSA 3 PORT,AX_AXBZ,WAN
+949,ĩ kʔ e,,TRUE,,87,,,rub,*sĩkʔe,,,- - - - s ĩ kʔ e,,,AXBZ,*PT
+950,i c i k a m u,GLOSS 3 ENGL,FALSE,macaco,88,PWT,coati (mai),monkey sp.,icikamu,PET,coati (mai),( - - - - - ) - i t∫ i ( k a m u - - ),icikamu,GLOSA 3 PORT,XBYBYBZ,BAS
+951,s i i,GLOSS 3 ENGL,FALSE,macaco,88,PWT,coati (mai),monkey sp.,~sii,PET,coati (mai),( - - - - - ) s i - i ( - - - - - - ),~sii,GLOSA 3 PORT,AXZ,KAR
+952,s i s i k o ʔr o r o,GLOSS 3 ENGL,FALSE,macaco,88,PWT,coati (mai),monkey sp.,sisikoʔroro,PET,coati (mai),( - - - - - ) s i s i ( k o ʔr o r o ),sisikoʔroro,GLOSA 3 PORT,AXBYBYBYBZ,KOR
+953,h i h i j o,GLOSS 3 ENGL,FALSE,macaco,88,PWT,coati (mai),monkey sp.,hihijo,PET,coati (mai),( - - - - - ) h i h i ( j o - - - - ),hihijo,GLOSA 3 PORT,AXBYBZ,KUB
+954,t∫ i t∫ i,GLOSS 3 ENGL,FALSE,macaco,88,PWT,coati (mai),monkey sp.,t∫it∫i,PET,coati (mai),( - - - - - ) t∫ i t∫ i ( - - - - - - ),t∫it∫i,GLOSA 3 PORT,AXBZ,MAI
+955,s i s i,GLOSS 3 ENGL,FALSE,macaco,88,PWT,coati (mai),monkey sp.,sisi,PET,coati (mai),( - - - - - ) s i s i ( - - - - - - ),sisi,GLOSA 3 PORT,AXBZ,SIO
+956,m ẽ n ẽ + _ ĩ ʔs ĩ,GLOSS 3 ENGL,FALSE,macaco,88,PWT,coati (mai),monkey sp.,~bede+_~iʔsi,PET,coati (mai),( m ẽ n ẽ _ ) - ĩ ʔs ĩ ( - - - - - - ),~bede- ~iʔsi,GLOSA 3 PORT,AXBZ_XBZ,WAN
+957,i s i,,FALSE,,88,,,monkey sp.,*sisi,,,( - - - - - ) s i s i ( - - - - - - ),,,AXBZ,*PT
+958,c e c o,GLOSS 3 ENGL,FALSE,moquear,89,PWT,to set a fire,to smoke meat,ceco,PET,fazer fogo,t∫ e t∫ o - -,ceco,GLOSA 3 PORT,AXBZ,BAS
+959,s i j u,GLOSS 3 ENGL,FALSE,moquear,89,PWT,to set a fire,to smoke meat,siju,PET,fazer fogo,s i j u - -,siju,GLOSA 3 PORT,AXBZ,DES
+960,s i s o,GLOSS 3 ENGL,FALSE,moquear,89,PWT,to set a fire,to smoke meat,siso,PET,fazer fogo,s i s o - -,siso,GLOSA 3 PORT,AXBZ,KAR
+961,s ɨ j o,GLOSS 3 ENGL,FALSE,moquear,89,PWT,to set a fire,to smoke meat,sɨjo,PET,fazer fogo,s ɨ j o - -,sɨjo,GLOSA 3 PORT,AXBZ,KOR
+962,h ɨ j o w a,GLOSS 3 ENGL,FALSE,moquear,89,PWT,to set a fire,to smoke meat,hɨjowa,PET,fazer fogo,h ɨ j o w a,hɨjowa,GLOSA 3 PORT,AXBYBZ,KUB
+963,ã s ɨ,GLOSS 3 ENGL,FALSE,moquear,89,PWT,to set a fire,to smoke meat,ãsɨ,PET,fazer fogo,- ã s ɨ - -,ãsɨ,GLOSA 3 PORT,XBZ,KUE
+964,s ɨ j o,GLOSS 3 ENGL,FALSE,moquear,89,PWT,to set a fire,to smoke meat,sɨjo,PET,fazer fogo,s ɨ j o - -,sɨjo,GLOSA 3 PORT,AXBZ,MAI
+965,s ɨ j o,GLOSS 3 ENGL,FALSE,moquear,89,PWT,to set a fire,to smoke meat,sɨjo,PET,fazer fogo,s ɨ j o - -,sɨjo,GLOSA 3 PORT,AXBZ,SEK
+966,s ẽ j o,GLOSS 3 ENGL,FALSE,moquear,89,PWT,to set a fire,to smoke meat,sẽjo,PET,fazer fogo,s ẽ j o - -,sẽjo,GLOSA 3 PORT,AXBZ,SIO
+967,s ɨ ʔs o,GLOSS 3 ENGL,FALSE,moquear,89,PWT,to set a fire,to smoke meat,sɨʔso,PET,fazer fogo,s ɨ ʔs o - -,sɨʔso,GLOSA 3 PORT,AXBZ,TUK
+968,s ɨ s o,GLOSS 3 ENGL,FALSE,moquear,89,PWT,to set a fire,to smoke meat,sɨso,PET,fazer fogo,s ɨ s o - -,sɨso,GLOSA 3 PORT,AXBZ,WAN
+969,s i j u,GLOSS 3 ENGL,FALSE,moquear,89,PWT,to set a fire,to smoke meat,siju,PET,fazer fogo,s i j u - -,siju,GLOSA 3 PORT,AXBZ,YUP
+970,ɨ ʔj o,,TRUE,,89,,,to smoke meat,*sɨʔjo,,,s ɨ ʔj o - -,,,AXBZ,*PT
+971,s ũ ŋ ũ,GLOSS 3 ENGL,FALSE,costas,90,PWT,GLOSA 2 ENGL,back,~sugu,PET,GLOSA 2 PORT,s ũ ŋ ũ,~sugu,GLOSA 3 PORT,AXBZ,DES
+972,h õ k ɨ̃,GLOSS 3 ENGL,FALSE,costas,90,PWT,GLOSA 2 ENGL,back,~hokɨ,PET,GLOSA 2 PORT,h õ k ɨ̃,~hokɨ,GLOSA 3 PORT,AXBZ,KAR
+973,s õ kh ɨ,GLOSS 3 ENGL,FALSE,costas,90,PWT,GLOSA 2 ENGL,back,sõkhɨ,PET,GLOSA 2 PORT,s õ kh ɨ,sõkhɨ,GLOSA 3 PORT,AXBZ,KOR
+974,s ũ k ũ,GLOSS 3 ENGL,FALSE,costas,90,PWT,GLOSA 2 ENGL,back,~suku,PET,GLOSA 2 PORT,s ũ k ũ,~suku,GLOSA 3 PORT,AXBZ,TUK
+975,s u k u,GLOSS 3 ENGL,FALSE,costas,90,PWT,GLOSA 2 ENGL,back,suku,PET,GLOSA 2 PORT,s u k u,suku,GLOSA 3 PORT,AXBZ,TUY
+976,s ũ k ũ,GLOSS 3 ENGL,FALSE,costas,90,PWT,GLOSA 2 ENGL,back,~suku,PET,GLOSA 2 PORT,s ũ k ũ,~suku,GLOSA 3 PORT,AXBZ,WAN
+977,s õ k ɨ,,FALSE,,90,,,back,*sõkɨ,,,s õ k ɨ,,,AXBZ,*PT
+978,c o t ɨ,clay,FALSE,pote,91,PWT,clay,pot,cotɨ,PET,barro,t∫ o t ɨ,cotɨ,cerâmica,AXBZ,BAS
+979,s o d o,clay,FALSE,pote,91,PWT,clay,pot,sodo,PET,barro,s o d o,sodo,cerâmica,AXBZ,DES
+980,h o t ɨ,clay,FALSE,pote,91,PWT,clay,pot,hotɨ,PET,barro,h o t ɨ,hotɨ,cerâmica,AXBZ,KAR
+981,th o th o,clay,FALSE,pote,91,PWT,clay,pot,thotho,PET,barro,th o th o,thotho,cerâmica,AXBZ,KOR
+982,h o d o,clay,FALSE,pote,91,PWT,clay,pot,hodo,PET,barro,h o d o,hodo,cerâmica,AXBZ,KUB
+983,t o t o,clay,FALSE,pote,91,PWT,clay,pot,toto,PET,barro,t o t o,toto,cerâmica,AXBZ,MAI
+984,s o t o,clay,FALSE,pote,91,PWT,clay,pot,soto,PET,barro,s o t o,soto,cerâmica,AXBZ,SEK
+985,s o t o,clay,FALSE,pote,91,PWT,clay,pot,soto,PET,barro,s o t o,soto,cerâmica,AXBZ,SIO
+986,h o t o,clay,FALSE,pote,91,PWT,clay,pot,hoto,PET,barro,h o t o,hoto,cerâmica,AXBZ,TAN
+987,s ɨ t ɨ,clay,FALSE,pote,91,PWT,clay,pot,sɨtɨ,PET,barro,s ɨ t ɨ,sɨtɨ,cerâmica,AXBZ,TUK
+988,s o t ɨ,clay,FALSE,pote,91,PWT,clay,pot,sotɨ,PET,barro,s o t ɨ,sotɨ,cerâmica,AXBZ,TUY
+989,s i t u,clay,FALSE,pote,91,PWT,clay,pot,situ,PET,barro,s i t u,situ,cerâmica,AXBZ,WAN
+990,s o t,,FALSE,,91,,,pot,*sot-,,,s o t -,,,AXN,*PT
+991,c ũ ã,GLOSS 3 ENGL,FALSE,vermelho,92,PWT,GLOSA 2 ENGL,red,~cua,*sõʔa,GLOSA 2 PORT,t∫ ũ - ã,~cua,GLOSA 3 PORT,AXZ,BAS
+992,h õ a,GLOSS 3 ENGL,FALSE,vermelho,92,PWT,GLOSA 2 ENGL,red,hõa,*sõʔa,GLOSA 2 PORT,h õ - a,hõa,GLOSA 3 PORT,AXZ,KAR
+993,h ũ ã,GLOSS 3 ENGL,FALSE,vermelho,92,PWT,GLOSA 2 ENGL,red,~hua,*sõʔa,GLOSA 2 PORT,h ũ - ã,~hua,GLOSA 3 PORT,AXZ,KUB
+994,h ũ ã,GLOSS 3 ENGL,TRUE,vermelho,92,PWT,GLOSA 2 ENGL,red,~hua,*sõʔa,GLOSA 2 PORT,h ũ - ã,~hua,GLOSA 3 PORT,AXZ,TAN
+995,s õ ʔ ã,GLOSS 3 ENGL,FALSE,vermelho,92,PWT,GLOSA 2 ENGL,red,~soʔa,*sõʔa,GLOSA 2 PORT,s õ ʔ ã,~soʔa,GLOSA 3 PORT,AXBZ,TUK
+996,s õ ã,GLOSS 3 ENGL,FALSE,vermelho,92,PWT,GLOSA 2 ENGL,red,~soa,*sõʔa,GLOSA 2 PORT,s õ - ã,~soa,GLOSA 3 PORT,AXZ,TUY
+997,s õ ʔ ã,GLOSS 3 ENGL,FALSE,vermelho,92,PWT,GLOSA 2 ENGL,red,~soʔa,*sõʔa,GLOSA 2 PORT,s õ ʔ ã,~soʔa,GLOSA 3 PORT,AXBZ,WAN
+998,õ ʔ a,,FALSE,,92,,,red,*sõʔa,,,s õ ʔ a,,,AXBZ,*PT
+999,n ũ ŋ ũ,GLOSS 3 ENGL,FALSE,raiz,93,PWT,GLOSA 2 ENGL,root,~dugu,*tʔɨ̃kʔo,GLOSA 2 PORT,n ũ ŋ ũ,~dugu,GLOSA 3 PORT,AXBZ,DES
+1000,n ɨ̃ ʔk õ,GLOSS 3 ENGL,FALSE,raiz,93,PWT,GLOSA 2 ENGL,root,~dɨʔko,*tʔɨ̃kʔo,GLOSA 2 PORT,n ɨ̃ ʔk õ,~dɨʔko,GLOSA 3 PORT,AXBZ,KAR
+1001,n ɨ̃ õ,GLOSS 3 ENGL,FALSE,raiz,93,PWT,GLOSA 2 ENGL,root,~dɨo,*tʔɨ̃kʔo,GLOSA 2 PORT,n ɨ̃ - õ,~dɨo,GLOSA 3 PORT,AXZ,KUB
+1002,r̃ ĩ k õ,GLOSS 3 ENGL,FALSE,raiz,93,PWT,GLOSA 2 ENGL,root,~riko,*tʔɨ̃kʔo,GLOSA 2 PORT,r ĩ k õ,~riko,GLOSA 3 PORT,AXBZ,TAN
+1003,n ɨ̃ ʔk õ,GLOSS 3 ENGL,FALSE,raiz,93,PWT,GLOSA 2 ENGL,root,~dɨʔko,*tʔɨ̃kʔo,GLOSA 2 PORT,n ɨ̃ ʔk õ,~dɨʔko,GLOSA 3 PORT,AXBZ,TUK
+1004,n ɨ̃ k õ,GLOSS 3 ENGL,FALSE,raiz,93,PWT,GLOSA 2 ENGL,root,~dɨko,*tʔɨ̃kʔo,GLOSA 2 PORT,n ɨ̃ k õ,~dɨko,GLOSA 3 PORT,AXBZ,TUY
+1005,n ɨ̃ ʔk õ,GLOSS 3 ENGL,FALSE,raiz,93,PWT,GLOSA 2 ENGL,root,~dɨʔko,*tʔɨ̃kʔo,GLOSA 2 PORT,n ɨ̃ ʔk õ,~dɨʔko,GLOSA 3 PORT,AXBZ,WAN
+1006,tʔ ɨ̃ k ʔ o,,TRUE,,93,,,root,*tʔɨ̃kʔo,,,tʔ ɨ̃ kʔ o,,,AXBZ,*PT
+1007,r̃ ɨ̃ k ɨ̃,GLOSS 3 ENGL,FALSE,pesado,94,PWT,GLOSA 2 ENGL,heavy,~rɨkɨ,PET,GLOSA 2 PORT,r ɨ̃ k ɨ̃,~rɨkɨ,GLOSA 3 PORT,AXBZ,BAS
+1008,n ɨ̃ k ɨ̃,GLOSS 3 ENGL,FALSE,pesado,94,PWT,GLOSA 2 ENGL,heavy,~nɨkɨ,PET,GLOSA 2 PORT,n ɨ̃ k ɨ̃,~nɨkɨ,GLOSA 3 PORT,AXBZ,DES
+1009,n ɨ̃ k ɨ̃,GLOSS 3 ENGL,FALSE,pesado,94,PWT,GLOSA 2 ENGL,heavy,~dɨkɨ,PET,GLOSA 2 PORT,n ɨ̃ k ɨ̃,~dɨkɨ,GLOSA 3 PORT,AXBZ,KAR
+1010,r ɨ kh ɨ,GLOSS 3 ENGL,FALSE,pesado,94,PWT,GLOSA 2 ENGL,heavy,rɨkhɨ,PET,GLOSA 2 PORT,r ɨ kh ɨ,rɨkhɨ,GLOSA 3 PORT,AXBZ,KOR
+1011,d ɨ k ɨ,GLOSS 3 ENGL,FALSE,pesado,94,PWT,GLOSA 2 ENGL,heavy,dɨkɨ,PET,GLOSA 2 PORT,d ɨ k ɨ,dɨkɨ,GLOSA 3 PORT,AXBZ,KUB
+1012,d ɨ k ɨ,GLOSS 3 ENGL,FALSE,pesado,94,PWT,GLOSA 2 ENGL,heavy,dɨkɨ,PET,GLOSA 2 PORT,d ɨ k ɨ,dɨkɨ,GLOSA 3 PORT,AXBZ,MAI
+1013,d ɨ k ɨ,GLOSS 3 ENGL,FALSE,pesado,94,PWT,GLOSA 2 ENGL,heavy,dɨkɨ,PET,GLOSA 2 PORT,d ɨ k ɨ,dɨkɨ,GLOSA 3 PORT,AXBZ,SEK
+1014,d ɨ k ɨ,GLOSS 3 ENGL,FALSE,pesado,94,PWT,GLOSA 2 ENGL,heavy,dɨkɨ,PET,GLOSA 2 PORT,d ɨ k ɨ,dɨkɨ,GLOSA 3 PORT,AXBZ,SIO
+1015,r̃ ĩ k ĩ,GLOSS 3 ENGL,FALSE,pesado,94,PWT,GLOSA 2 ENGL,heavy,~riki,PET,GLOSA 2 PORT,r ĩ k ĩ,~riki,GLOSA 3 PORT,AXBZ,TAN
+1016,n ɨ̃ k ɨ̃,GLOSS 3 ENGL,FALSE,pesado,94,PWT,GLOSA 2 ENGL,heavy,~dɨkɨ,PET,GLOSA 2 PORT,n ɨ̃ k ɨ̃,~dɨkɨ,GLOSA 3 PORT,AXBZ,TUK
+1017,n ɨ̃ k ɨ̃,GLOSS 3 ENGL,FALSE,pesado,94,PWT,GLOSA 2 ENGL,heavy,~dɨkɨ,PET,GLOSA 2 PORT,n ɨ̃ k ɨ̃,~dɨkɨ,GLOSA 3 PORT,AXBZ,TUY
+1018,n ɨ̃ k ɨ̃,GLOSS 3 ENGL,FALSE,pesado,94,PWT,GLOSA 2 ENGL,heavy,~dɨkɨ,PET,GLOSA 2 PORT,n ɨ̃ k ɨ̃,~dɨkɨ,GLOSA 3 PORT,AXBZ,WAN
+1019,tʔ ɨ k k ɨ,,TRUE,,94,,,heavy,*tʔɨkkɨ,,,tʔ ɨ kk ɨ,,,AXBZ,*PT
+1020,n ɨ̃ m õ,GLOSS 3 ENGL,FALSE,esposa,95,PWT,GLOSA 2 ENGL,wife,~dɨbo,PET,GLOSA 2 PORT,n ɨ̃ m õ,~dɨbo,GLOSA 3 PORT,AXBZ,KAR
+1021,r ɨ h o,GLOSS 3 ENGL,FALSE,esposa,95,PWT,GLOSA 2 ENGL,wife,rɨho,PET,GLOSA 2 PORT,r ɨ h o,rɨho,GLOSA 3 PORT,AXBZ,KOR
+1022,n ɨ h o,GLOSS 3 ENGL,FALSE,esposa,95,PWT,GLOSA 2 ENGL,wife,nɨho,PET,GLOSA 2 PORT,n ɨ h o,nɨho,GLOSA 3 PORT,AXBZ,MAI
+1023,d ɨ h o,GLOSS 3 ENGL,FALSE,esposa,95,PWT,GLOSA 2 ENGL,wife,dɨho,PET,GLOSA 2 PORT,d ɨ h o,dɨho,GLOSA 3 PORT,AXBZ,SEK
+1024,d ɨ̃ h o,GLOSS 3 ENGL,FALSE,esposa,95,PWT,GLOSA 2 ENGL,wife,dɨ̃ho,PET,GLOSA 2 PORT,n ɨ̃ h o,dɨ̃ho,GLOSA 3 PORT,AXBZ,SIO
+1025,r̃ ũ m ũ,GLOSS 3 ENGL,FALSE,esposa,95,PWT,GLOSA 2 ENGL,wife,~rubu,PET,GLOSA 2 PORT,r ũ m ũ,~rubu,GLOSA 3 PORT,AXBZ,TAN
+1026,n ɨ̃ m õ,GLOSS 3 ENGL,FALSE,esposa,95,PWT,GLOSA 2 ENGL,wife,~dɨbo,PET,GLOSA 2 PORT,n ɨ̃ m õ,~dɨbo,GLOSA 3 PORT,AXBZ,TUK
+1027,n ɨ̃ m õ,GLOSS 3 ENGL,FALSE,esposa,95,PWT,GLOSA 2 ENGL,wife,~dɨbo,PET,GLOSA 2 PORT,n ɨ̃ m õ,~dɨbo,GLOSA 3 PORT,AXBZ,TUY
+1028,n ã m õ,GLOSS 3 ENGL,FALSE,esposa,95,PWT,GLOSA 2 ENGL,wife,~dabo,PET,GLOSA 2 PORT,n ã m õ,~dabo,GLOSA 3 PORT,AXBZ,WAN
+1029,tʔ ɨ̃ p o,,TRUE,,95,,,wife,*tʔɨ̃po,,,tʔ ɨ̃ p o,,,AXBZ,*PT
+1030,r u t e,GLOSS 3 ENGL,FALSE,cortar,96,PWT,GLOSA 2 ENGL,cut,rute,PET,GLOSA 2 PORT,r u t e,rute,GLOSA 3 PORT,AXBZ,BAS
+1031,r u ʔth e,GLOSS 3 ENGL,FALSE,cortar,96,PWT,GLOSA 2 ENGL,cut,ruʔthe,PET,GLOSA 2 PORT,r u ʔth e,ruʔthe,GLOSA 3 PORT,AXBZ,KOR
+1032,j ɨ i,GLOSS 3 ENGL,FALSE,cortar,145,PWT,GLOSA 2 ENGL,cut,jɨi,PET,GLOSA 2 PORT,j ɨ - i,jɨi,GLOSA 3 PORT,AXZ,MAI
+1033,t ɨ̃ t e,GLOSS 3 ENGL,FALSE,cortar,96,PWT,GLOSA 2 ENGL,cut,tɨ̃te,PET,GLOSA 2 PORT,t ɨ̃ t e,tɨ̃te,GLOSA 3 PORT,AXBZ,SIO
+1034,d ɨ t e,GLOSS 3 ENGL,FALSE,cortar,96,PWT,GLOSA 2 ENGL,cut,dɨte,PET,GLOSA 2 PORT,d ɨ t e,dɨte,GLOSA 3 PORT,AXBZ,TUK
+1035,d ɨ t e,GLOSS 3 ENGL,FALSE,cortar,96,PWT,GLOSA 2 ENGL,cut,dɨte,PET,GLOSA 2 PORT,d ɨ t e,dɨte,GLOSA 3 PORT,AXBZ,WAN
+1036,tʔ ɨ t t e,,TRUE,,96,,,cut,*tʔɨtte,,,tʔ ɨ tt e,,,AXBZ,*PT
+1037,r o e,GLOSS 3 ENGL,FALSE,traíra,97,PWT,GLOSA 2 ENGL,traira fish,roe,PET,GLOSA 2 PORT,r o - e,roe,GLOSA 3 PORT,AXZ,BAS
+1038,d o e,GLOSS 3 ENGL,FALSE,traíra,97,PWT,GLOSA 2 ENGL,traira fish,doe,PET,GLOSA 2 PORT,d o - e,doe,GLOSA 3 PORT,AXZ,DES
+1039,r o s e,GLOSS 3 ENGL,FALSE,traíra,97,PWT,GLOSA 2 ENGL,traira fish,rose,PET,GLOSA 2 PORT,r o s e,rose,GLOSA 3 PORT,AXBZ,KAR
+1040,r o j e,GLOSS 3 ENGL,FALSE,traíra,97,PWT,GLOSA 2 ENGL,traira fish,roje,PET,GLOSA 2 PORT,r o j e,roje,GLOSA 3 PORT,AXBZ,KOR
+1041,d o j e,GLOSS 3 ENGL,FALSE,traíra,97,PWT,GLOSA 2 ENGL,traira fish,doje,PET,GLOSA 2 PORT,d o j e,doje,GLOSA 3 PORT,AXBZ,KUB
+1042,d o j e,GLOSS 3 ENGL,FALSE,traíra,97,PWT,GLOSA 2 ENGL,traira fish,doje,PET,GLOSA 2 PORT,d o j e,doje,GLOSA 3 PORT,AXBZ,SEK
+1043,r o j e,GLOSS 3 ENGL,FALSE,traíra,97,PWT,GLOSA 2 ENGL,traira fish,roje,PET,GLOSA 2 PORT,r o j e,roje,GLOSA 3 PORT,AXBZ,TAN
+1044,d o e,GLOSS 3 ENGL,FALSE,traíra,97,PWT,GLOSA 2 ENGL,traira fish,doe,PET,GLOSA 2 PORT,d o - e,doe,GLOSA 3 PORT,AXZ,TUK
+1045,tʔ o j e,,TRUE,,97,,,traira fish,*tʔoje,,,tʔ o j e,,,AXBZ,*PT
+1046,r̃ õ m ĩ õ,GLOSS 3 ENGL,FALSE,mulher,98,PWT,GLOSA 2 ENGL,woman,~robio,PET,GLOSA 2 PORT,r õ m ĩ ( - õ ),~robio,GLOSA 3 PORT,AXBYZ,BAS
+1047,n õ m ẽ õ,GLOSS 3 ENGL,FALSE,mulher,98,PWT,GLOSA 2 ENGL,woman,~dobeo,PET,GLOSA 2 PORT,n õ m ẽ ( - õ ),~dobeo,GLOSA 3 PORT,AXBYZ,DES
+1048,r̃ õ m ĩ õ,GLOSS 3 ENGL,FALSE,mulher,98,PWT,GLOSA 2 ENGL,woman,~robio,PET,GLOSA 2 PORT,r õ m ĩ ( - õ ),~robio,GLOSA 3 PORT,AXBYZ,KAR
+1049,r o m i o,GLOSS 3 ENGL,FALSE,mulher,98,PWT,GLOSA 2 ENGL,woman,romio,PET,GLOSA 2 PORT,r o m i ( - o ),romio,GLOSA 3 PORT,AXBYZ,KOR
+1050,n õ m ĩ,GLOSS 3 ENGL,FALSE,mulher,98,PWT,GLOSA 2 ENGL,woman,~dobi,PET,GLOSA 2 PORT,n õ m ĩ ( - - ),~dobi,GLOSA 3 PORT,AXBZ,KUB
+1051,n o m i o,GLOSS 3 ENGL,FALSE,mulher,98,PWT,GLOSA 2 ENGL,woman,nomio,PET,GLOSA 2 PORT,n o m i ( - o ),nomio,GLOSA 3 PORT,AXBYZ,MAI
+1052,d õ m i o,GLOSS 3 ENGL,FALSE,mulher,98,PWT,GLOSA 2 ENGL,woman,dõmio,PET,GLOSA 2 PORT,n õ m i ( - o ),dõmio,GLOSA 3 PORT,AXBYZ,SEK
+1053,d o m i,GLOSS 3 ENGL,FALSE,mulher,98,PWT,GLOSA 2 ENGL,woman,domi,PET,GLOSA 2 PORT,n o m i ( - - ),domi,GLOSA 3 PORT,AXBZ,SIO
+1054,r̃ õ m õ,GLOSS 3 ENGL,FALSE,mulher,98,PWT,GLOSA 2 ENGL,woman,~robo,PET,GLOSA 2 PORT,r õ m õ ( - - ),~robo,GLOSA 3 PORT,AXBZ,TAN
+1055,n ũ m ĩ õ,GLOSS 3 ENGL,FALSE,mulher,98,PWT,GLOSA 2 ENGL,woman,~dubio,PET,GLOSA 2 PORT,n ũ m ĩ ( - õ ),~dubio,GLOSA 3 PORT,AXBYZ,TUK
+1056,n ũ m ĩ õ,GLOSS 3 ENGL,FALSE,mulher,98,PWT,GLOSA 2 ENGL,woman,~dubio,PET,GLOSA 2 PORT,n ũ m ĩ ( - õ ),~dubio,GLOSA 3 PORT,AXBYZ,TUY
+1057,n ũ m ĩ n õ,GLOSS 3 ENGL,FALSE,mulher,98,PWT,GLOSA 2 ENGL,woman,~dubido,PET,GLOSA 2 PORT,n ũ m ĩ ( n õ ),~dubido,GLOSA 3 PORT,AXBYBZ,WAN
+1058,tʔ õ m i,,TRUE,,98,,,woman,*tʔõmi-,,,tʔ õ m i ( - - ),,,AXBZ,*PT
+1059,c i o r o,GLOSS 3 ENGL,FALSE,pomba,99,PWT,GLOSA 2 ENGL,dove,cioro,PET,GLOSA 2 PORT,ts i ( - o r o ),cioro,GLOSA 3 PORT,AXYBZ,BAS
+1060,s i ʔw i,GLOSS 3 ENGL,FALSE,pomba,99,PWT,GLOSA 2 ENGL,dove,siʔwi,PET,GLOSA 2 PORT,s i ( ʔw i - - ),siʔwi,GLOSA 3 PORT,AXBZ,KOR
+1061,h u d e,GLOSS 3 ENGL,FALSE,pomba,99,PWT,GLOSA 2 ENGL,dove,hude,PET,GLOSA 2 PORT,h u ( d e - - ),hude,GLOSA 3 PORT,AXBZ,KUB
+1062,s ɨ n i,GLOSS 3 ENGL,FALSE,pomba,99,PWT,GLOSA 2 ENGL,dove,sɨni,PET,GLOSA 2 PORT,s ɨ ( n i - - ),sɨni,GLOSA 3 PORT,AXBZ,MAI
+1063,s ɨ r a,GLOSS 3 ENGL,FALSE,pomba,99,PWT,GLOSA 2 ENGL,dove,sɨra,PET,GLOSA 2 PORT,s ɨ ( r a - - ),sɨra,GLOSA 3 PORT,AXBZ,SEK
+1064,t∫ i ʔw i,GLOSS 3 ENGL,TRUE,pomba,99,PWT,GLOSA 2 ENGL,dove,t∫iʔwi,PET,GLOSA 2 PORT,t∫ i ( ʔw i - - ),t∫iʔwi,GLOSA 3 PORT,AXBZ,SIO
+1065,s i r i,GLOSS 3 ENGL,FALSE,pomba,99,PWT,GLOSA 2 ENGL,dove,siri,PET,GLOSA 2 PORT,s i ( r i - - ),siri,GLOSA 3 PORT,AXBZ,TUK
+1066,s i r i p i,GLOSS 3 ENGL,FALSE,pomba,99,PWT,GLOSA 2 ENGL,dove,siripi,PET,GLOSA 2 PORT,s i ( r i p i ),siripi,GLOSA 3 PORT,AXBYBZ,WAN
+1067,t∫ ɨ,,FALSE,,99,,,dove,*t∫ɨ-,,,t∫ ɨ ( - - - - ),,,AX,*PT
+1068,c ã a,GLOSS 3 ENGL,FALSE,juntar,100,PWT,collect,gather,cãa,PET,coletar,ts ã - a,cãa,GLOSA 3 PORT,AXZ,BAS
+1069,h e e,GLOSS 3 ENGL,FALSE,juntar,100,PWT,collect,gather,hee,PET,coletar,h e - e,hee,GLOSA 3 PORT,AXZ,KAR
+1070,s i a,GLOSS 3 ENGL,FALSE,juntar,100,PWT,collect,gather,sia,PET,coletar,s i - a,sia,GLOSA 3 PORT,AXZ,KOR
+1071,h e w a,GLOSS 3 ENGL,FALSE,juntar,100,PWT,collect,gather,hewa,PET,coletar,h e w a,hewa,GLOSA 3 PORT,AXBZ,KUB
+1072,t∫ i a,GLOSS 3 ENGL,FALSE,juntar,100,PWT,collect,gather,t∫ia,PET,coletar,t∫ i - a,t∫ia,GLOSA 3 PORT,AXZ,MAI
+1073,s i a,GLOSS 3 ENGL,FALSE,juntar,100,PWT,collect,gather,sia,PET,coletar,s i - a,sia,GLOSA 3 PORT,AXZ,SEK
+1074,t∫ i a,GLOSS 3 ENGL,FALSE,juntar,100,PWT,collect,gather,t∫ia,PET,coletar,t∫ i - a,t∫ia,GLOSA 3 PORT,AXZ,SIO
+1075,s u a,GLOSS 3 ENGL,FALSE,juntar,100,PWT,collect,gather,sua,PET,coletar,s u - a,sua,GLOSA 3 PORT,AXZ,TUK
+1076,s a a,GLOSS 3 ENGL,FALSE,juntar,100,PWT,collect,gather,saa,PET,coletar,s a - a,saa,GLOSA 3 PORT,AXZ,WAN
+1077,t ∫ ɨ a,,FALSE,,100,,,gather,*t∫ɨ-a,,,t∫ ɨ - a,,,AXZ,*PT
+1078,c õ m ɨ̃,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,~cobɨ,PET,GLOSA 2 PORT,t∫ õ m ɨ̃ ( - - ),~cobɨ,GLOSA 3 PORT,AXBZ,BAS
+1079,s ũ m ũ,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,~subu,PET,GLOSA 2 PORT,s ũ m ũ ( - - ),~subu,GLOSA 3 PORT,AXBZ,DES
+1080,h õ m ɨ̃,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,~hobɨ,PET,GLOSA 2 PORT,h õ m ɨ̃ ( - - ),~hobɨ,GLOSA 3 PORT,AXBZ,KAR
+1081,s ũ h ũ,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,sũhũ,PET,GLOSA 2 PORT,s ũ h ũ ( - - ),sũhũ,GLOSA 3 PORT,AXBZ,KOR
+1082,h õ m ɨ̃,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,~hobɨ,PET,GLOSA 2 PORT,h õ m ɨ̃ ( - - ),~hobɨ,GLOSA 3 PORT,AXBZ,KUB
+1083,t o u,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,tou,PET,GLOSA 2 PORT,t o - u ( - - ),tou,GLOSA 3 PORT,AXZ,KUE
+1084,s õ h õ,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,sõhõ,PET,GLOSA 2 PORT,s õ h õ ( - - ),sõhõ,GLOSA 3 PORT,AXBZ,MAI
+1085,s õ h õ,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,sõhõ,PET,GLOSA 2 PORT,s õ h õ ( - - ),sõhõ,GLOSA 3 PORT,AXBZ,SEK
+1086,t∫ õ h õ,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,t∫õhõ,PET,GLOSA 2 PORT,t∫ õ h õ ( - - ),t∫õhõ,GLOSA 3 PORT,AXBZ,SIO
+1087,h ũ m ũ,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,~hubu,PET,GLOSA 2 PORT,h ũ m ũ ( - - ),~hubu,GLOSA 3 PORT,AXBZ,TAN
+1088,s ũ m ũ,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,~subu,PET,GLOSA 2 PORT,s ũ m ũ ( - - ),~subu,GLOSA 3 PORT,AXBZ,TUK
+1089,s ũ m ũ ã,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,~subua,PET,GLOSA 2 PORT,s ũ m ũ ( - ã ),~subua,GLOSA 3 PORT,AXBYZ,TUY
+1090,s ɨ̃ m ɨ̃ k ã,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,~sɨbɨka,PET,GLOSA 2 PORT,s ɨ̃ m ɨ̃ ( k ã ),~sɨbɨka,GLOSA 3 PORT,AXBYBZ,WAN
+1091,t∫ ũ m ũ,GLOSS 3 ENGL,FALSE,umbigo,101,PWT,GLOSA 2 ENGL,navel,~t∫ubu,PET,GLOSA 2 PORT,t∫ ũ m ũ ( - - ),~t∫ubu,GLOSA 3 PORT,AXBZ,YUP
+1092,tʃ õ pʔ ɨ,,TRUE,,101,,,navel,*t∫õpʔɨ,,,t∫ õ pʔ ɨ ( - - ),,,AXBZ,*PT
+1093,t a a,GLOSS 3 ENGL,FALSE,capim,102,PWT,GLOSA 2 ENGL,grass,taa,PET,GLOSA 2 PORT,t a - a,taa,GLOSA 3 PORT,AXZ,BAS
+1094,t a a,GLOSS 3 ENGL,FALSE,capim,102,PWT,GLOSA 2 ENGL,grass,taa,PET,GLOSA 2 PORT,t a - a,taa,GLOSA 3 PORT,AXZ,DES
+1095,t a a,GLOSS 3 ENGL,FALSE,capim,102,PWT,GLOSA 2 ENGL,grass,taa,PET,GLOSA 2 PORT,t a - a,taa,GLOSA 3 PORT,AXZ,KAR
+1096,th a j a,GLOSS 3 ENGL,FALSE,capim,102,PWT,GLOSA 2 ENGL,grass,thaja,PET,GLOSA 2 PORT,th a j a,thaja,GLOSA 3 PORT,AXBZ,KOR
+1097,d á,GLOSS 3 ENGL,FALSE,capim,102,PWT,GLOSA 2 ENGL,grass,dá,PET,GLOSA 2 PORT,d a - -,dá,GLOSA 3 PORT,AX,KUB
+1098,t a j a,GLOSS 3 ENGL,FALSE,capim,102,PWT,GLOSA 2 ENGL,grass,taja,PET,GLOSA 2 PORT,t a j a,taja,GLOSA 3 PORT,AXBZ,KUE
+1099,t a j a,GLOSS 3 ENGL,FALSE,capim,102,PWT,GLOSA 2 ENGL,grass,taja,PET,GLOSA 2 PORT,t a j a,taja,GLOSA 3 PORT,AXBZ,MAI
+1100,t a j a,GLOSS 3 ENGL,FALSE,capim,102,PWT,GLOSA 2 ENGL,grass,taja,PET,GLOSA 2 PORT,t a j a,taja,GLOSA 3 PORT,AXBZ,SEK
+1101,t a j a,GLOSS 3 ENGL,FALSE,capim,102,PWT,GLOSA 2 ENGL,grass,taja,PET,GLOSA 2 PORT,t a j a,taja,GLOSA 3 PORT,AXBZ,SIO
+1102,t a j a,GLOSS 3 ENGL,FALSE,capim,102,PWT,GLOSA 2 ENGL,grass,taja,PET,GLOSA 2 PORT,t a j a,taja,GLOSA 3 PORT,AXBZ,TAN
+1103,t a a,GLOSS 3 ENGL,FALSE,capim,102,PWT,GLOSA 2 ENGL,grass,taa,PET,GLOSA 2 PORT,t a - a,taa,GLOSA 3 PORT,AXZ,TUK
+1104,t a a,GLOSS 3 ENGL,FALSE,capim,102,PWT,GLOSA 2 ENGL,grass,taa,PET,GLOSA 2 PORT,t a - a,taa,GLOSA 3 PORT,AXZ,TUY
+1105,th a a,GLOSS 3 ENGL,FALSE,capim,102,PWT,GLOSA 2 ENGL,grass,thaa,PET,GLOSA 2 PORT,th a - a,thaa,GLOSA 3 PORT,AXZ,WAN
+1106,t a j a,,FALSE,,102,,,grass,*taja,,,t a j a,,,AXBZ,*PT
+1107,g a k e,GLOSS 3 ENGL,FALSE,macaco,103,PWT,GLOSA 2 ENGL,monkey,gake,PET,GLOSA 2 PORT,g a k e,gake,GLOSA 3 PORT,AXBZ,BAS
+1108,g a k i,GLOSS 3 ENGL,FALSE,macaco,103,PWT,GLOSA 2 ENGL,monkey,gaki,PET,GLOSA 2 PORT,g a k i,gaki,GLOSA 3 PORT,AXBZ,DES
+1109,a k e,GLOSS 3 ENGL,FALSE,macaco,103,PWT,GLOSA 2 ENGL,monkey,ake,PET,GLOSA 2 PORT,- a k e,ake,GLOSA 3 PORT,XBZ,KAR
+1110,t ã kh e,GLOSS 3 ENGL,FALSE,macaco,103,PWT,GLOSA 2 ENGL,monkey,tãkhe,PET,GLOSA 2 PORT,t ã kh e,tãkhe,GLOSA 3 PORT,AXBZ,KOR
+1111,t a k e,GLOSS 3 ENGL,FALSE,macaco,103,PWT,GLOSA 2 ENGL,monkey,take,PET,GLOSA 2 PORT,t a k e,take,GLOSA 3 PORT,AXBZ,KUB
+1112,t ã k e,GLOSS 3 ENGL,FALSE,macaco,103,PWT,GLOSA 2 ENGL,monkey,tãke,PET,GLOSA 2 PORT,t ã k e,tãke,GLOSA 3 PORT,AXBZ,MAI
+1113,t ã k e,GLOSS 3 ENGL,FALSE,macaco,103,PWT,GLOSA 2 ENGL,monkey,tãke,PET,GLOSA 2 PORT,t ã k e,tãke,GLOSA 3 PORT,AXBZ,SEK
+1114,t ã k e,GLOSS 3 ENGL,FALSE,macaco,103,PWT,GLOSA 2 ENGL,monkey,tãke,PET,GLOSA 2 PORT,t ã k e,tãke,GLOSA 3 PORT,AXBZ,SIO
+1115,t a k e,GLOSS 3 ENGL,FALSE,macaco,103,PWT,GLOSA 2 ENGL,monkey,take,PET,GLOSA 2 PORT,t a k e,take,GLOSA 3 PORT,AXBZ,TAN
+1116,a k e,GLOSS 3 ENGL,FALSE,macaco,103,PWT,GLOSA 2 ENGL,monkey,ake,PET,GLOSA 2 PORT,- a k e,ake,GLOSA 3 PORT,XBZ,TUK
+1117,a k e,GLOSS 3 ENGL,FALSE,macaco,103,PWT,GLOSA 2 ENGL,monkey,ake,PET,GLOSA 2 PORT,- a k e,ake,GLOSA 3 PORT,XBZ,TUY
+1118,k a,GLOSS 3 ENGL,FALSE,macaco,103,PWT,GLOSA 2 ENGL,monkey,ka,PET,GLOSA 2 PORT,- - k a,ka,GLOSA 3 PORT,AX,WAN
+1119,t a k k e,,TRUE,,103,,,monkey,*takke,,,t a kk e,,,AXBZ,*PT
+1120,j a k i,GLOSS 3 ENGL,FALSE,mastigar,104,PWT,GLOSA 2 ENGL,chew,jaki,PET,GLOSA 2 PORT,j a k i,jaki,GLOSA 3 PORT,AXBZ,KOR
+1121,h ã h ɨ̃,GLOSS 3 ENGL,FALSE,mastigar,104,PWT,GLOSA 2 ENGL,chew,~hahɨ,PET,GLOSA 2 PORT,h ã h ɨ̃,~hahɨ,GLOSA 3 PORT,AXBZ,KUB
+1122,n a k i,GLOSS 3 ENGL,FALSE,mastigar,104,PWT,GLOSA 2 ENGL,chew,naki,PET,GLOSA 2 PORT,n a k i,naki,GLOSA 3 PORT,AXBZ,MAI
+1123,sʔ ã k i,GLOSS 3 ENGL,TRUE,mastigar,104,PWT,GLOSA 2 ENGL,chew,sʔãki,PET,GLOSA 2 PORT,sʔ ã k i,sʔãki,GLOSA 3 PORT,AXBZ,SEK
+1124,j a ʔg e,GLOSS 3 ENGL,FALSE,mastigar,104,PWT,GLOSA 2 ENGL,chew,jaʔge,PET,GLOSA 2 PORT,j a ʔg e,jaʔge,GLOSA 3 PORT,AXBZ,TUK
+1125,j a g e,GLOSS 3 ENGL,FALSE,mastigar,104,PWT,GLOSA 2 ENGL,chew,yage,PET,GLOSA 2 PORT,j a g e,yage,GLOSA 3 PORT,XYBZ,TUY
+1126,j a ʔk a,GLOSS 3 ENGL,FALSE,mastigar,104,PWT,GLOSA 2 ENGL,chew,jaʔka,PET,GLOSA 2 PORT,j a ʔk a,jaʔka,GLOSA 3 PORT,AXBZ,WAN
+1127,tjʔ ã k ʔ ɨ,,TRUE,,104,,,chew,*tjʔãkʔɨ,,,tsʔ ã kʔ ɨ,,,AXBZ,*PT
+1128,n ã s ĩ,GLOSS 3 ENGL,FALSE,tucano,105,PWT,GLOSA 2 ENGL,toucan,~dasi,PET,GLOSA 2 PORT,n - ã s ĩ,~dasi,GLOSA 3 PORT,AXBZ,DES
+1129,d a s a,GLOSS 3 ENGL,FALSE,tucano,105,PWT,GLOSA 2 ENGL,toucan,dasa,PET,GLOSA 2 PORT,d - a s a,dasa,GLOSA 3 PORT,AXBZ,KAR
+1130,j ã s e,GLOSS 3 ENGL,FALSE,tucano,105,PWT,GLOSA 2 ENGL,toucan,jãse,PET,GLOSA 2 PORT,j - ã s e,jãse,GLOSA 3 PORT,AXBZ,KOR
+1131,h o e w e,GLOSS 3 ENGL,? Is this word really cognate ?,tucano,105,PWT,GLOSA 2 ENGL,toucan,hoewe,PET,GLOSA 2 PORT,h o e w e,hoewe,GLOSA 3 PORT,AXYBZ,KUB
+1132,r a s e,GLOSS 3 ENGL,FALSE,tucano,105,PWT,GLOSA 2 ENGL,toucan,rase,PET,GLOSA 2 PORT,r - a s e,rase,GLOSA 3 PORT,AXBZ,KUE
+1133,j ã s e,GLOSS 3 ENGL,FALSE,tucano,105,PWT,GLOSA 2 ENGL,toucan,jãse,PET,GLOSA 2 PORT,j - ã s e,jãse,GLOSA 3 PORT,AXBZ,SEK
+1134,j ã s e,GLOSS 3 ENGL,FALSE,tucano,105,PWT,GLOSA 2 ENGL,toucan,jãse,PET,GLOSA 2 PORT,j - ã s e,jãse,GLOSA 3 PORT,AXBZ,SIO
+1135,n ã h ẽ,GLOSS 3 ENGL,FALSE,tucano,105,PWT,GLOSA 2 ENGL,toucan,~dahe,PET,GLOSA 2 PORT,n - ã h ẽ,~dahe,GLOSA 3 PORT,AXBZ,TAN
+1136,r a t∫ e,GLOSS 3 ENGL,FALSE,tucano,105,PWT,GLOSA 2 ENGL,toucan,race,PET,GLOSA 2 PORT,r - a t∫ e,race,GLOSA 3 PORT,AXBZ,TUK
+1137,d a s e,GLOSS 3 ENGL,FALSE,tucano,105,PWT,GLOSA 2 ENGL,toucan,dase,PET,GLOSA 2 PORT,d - a s e,dase,GLOSA 3 PORT,AXBZ,WAN
+1138,t jʔ a s e,,TRUE,,105,,,toucan,*tjʔase(?),,,tsʔ - a s e,,,AXBZ,*PT
+1139,ɲ ẽ m ẽ,GLOSS 3 ENGL,FALSE,língua,106,PWT,liver,tongue,~jebe,PET,fígado,ɲ ẽ m ẽ,~jebe,GLOSA 3 PORT,AXBZ,BAS
+1140,ɲ ẽ m ẽ,GLOSS 3 ENGL,FALSE,língua,106,PWT,liver,tongue,~jebe,PET,fígado,ɲ ẽ m ẽ,~jebe,GLOSA 3 PORT,AXBZ,KAR
+1141,j e m e,GLOSS 3 ENGL,FALSE,língua,106,PWT,liver,tongue,jeme,PET,fígado,j e m e,jeme,GLOSA 3 PORT,AXBZ,KOR
+1142,h ẽ m ẽ,GLOSS 3 ENGL,FALSE,língua,106,PWT,liver,tongue,~hebe,PET,fígado,h ẽ m ẽ,~hebe,GLOSA 3 PORT,AXBZ,KUB
+1143,j a m e,GLOSS 3 ENGL,FALSE,língua,106,PWT,liver,tongue,jame,PET,fígado,j a m e,jame,GLOSA 3 PORT,AXBZ,KUE
+1144,n e m e,GLOSS 3 ENGL,FALSE,língua,106,PWT,liver,tongue,neme,PET,fígado,n e m e,neme,GLOSA 3 PORT,AXBZ,MAI
+1145,sʔ e m e,GLOSS 3 ENGL,FALSE,língua,106,PWT,liver,tongue,sʔeme,PET,fígado,sʔ e m e,sʔeme,GLOSA 3 PORT,AXBZ,SEK
+1146,sʔ e m e,GLOSS 3 ENGL,TRUE,língua,106,PWT,liver,tongue,sʔeme,PET,fígado,sʔ e m e,sʔeme,GLOSA 3 PORT,AXBZ,SIO
+1147,ɲ ẽ m ẽ,GLOSS 3 ENGL,FALSE,língua,106,PWT,liver,tongue,~jebe,PET,fígado,ɲ ẽ m ẽ,~jebe,GLOSA 3 PORT,AXBZ,TUK
+1148,ɲ ẽ m ẽ,GLOSS 3 ENGL,FALSE,língua,106,PWT,liver,tongue,~jebe,PET,fígado,ɲ ẽ m ẽ,~jebe,GLOSA 3 PORT,AXBZ,TUY
+1149,ɲ ã m ã,GLOSS 3 ENGL,FALSE,língua,106,PWT,liver,tongue,~jaba,PET,fígado,ɲ ã m ã,~jaba,GLOSA 3 PORT,AXBZ,WAN
+1150,t jʔ e m e,,TRUE,,106,,,tongue,*tjʔeme,,,tsʔ e m e,,,AXBZ,*PT
+1151,ɲ ĩ ĩ,GLOSS 3 ENGL,FALSE,preto,107,PWT,GLOSA 2 ENGL,black,~jii,PET,GLOSA 2 PORT,ɲ ĩ - ĩ,~jii,GLOSA 3 PORT,AXZ,BAS
+1152,ɲ ĩ ĩ,GLOSS 3 ENGL,FALSE,preto,107,PWT,GLOSA 2 ENGL,black,~jii,PET,GLOSA 2 PORT,ɲ ĩ - ĩ,~jii,GLOSA 3 PORT,AXZ,DES
+1153,ɲ ĩ ĩ,GLOSS 3 ENGL,FALSE,preto,107,PWT,GLOSA 2 ENGL,black,~jii,PET,GLOSA 2 PORT,ɲ ĩ - ĩ,~jii,GLOSA 3 PORT,AXZ,KAR
+1154,j i,GLOSS 3 ENGL,FALSE,preto,107,PWT,GLOSA 2 ENGL,black,ji,PET,GLOSA 2 PORT,j i - -,ji,GLOSA 3 PORT,AX,KOR
+1155,ɲ ẽ m ĩ,GLOSS 3 ENGL,FALSE,preto,107,PWT,GLOSA 2 ENGL,black,~jebi,PET,GLOSA 2 PORT,ɲ ẽ m ĩ,~jebi,GLOSA 3 PORT,AXBZ,KUB
+1156,n e a,GLOSS 3 ENGL,FALSE,preto,107,PWT,GLOSA 2 ENGL,black,nea,PET,GLOSA 2 PORT,n e - a,kũi,GLOSA 3 PORT,AXZ,MAI
+1157,sʔ i,GLOSS 3 ENGL,TRUE,preto,107,PWT,GLOSA 2 ENGL,black,sʔi,PET,GLOSA 2 PORT,sʔ i - -,sʔi,GLOSA 3 PORT,AX,SIO
+1158,n ẽ ʔ ĩ,GLOSS 3 ENGL,FALSE,preto,107,PWT,GLOSA 2 ENGL,black,~deʔi,PET,GLOSA 2 PORT,n ẽ ʔ ĩ,~deʔi,GLOSA 3 PORT,AXBZ,TAN
+1159,ɲ ĩ ĩ,GLOSS 3 ENGL,FALSE,preto,107,PWT,GLOSA 2 ENGL,black,~jii,PET,GLOSA 2 PORT,ɲ ĩ - ĩ,~jii,GLOSA 3 PORT,AXZ,TUK
+1160,ɲ ĩ ĩ,GLOSS 3 ENGL,FALSE,preto,107,PWT,GLOSA 2 ENGL,black,~jii,PET,GLOSA 2 PORT,ɲ ĩ - ĩ,~jii,GLOSA 3 PORT,AXZ,TUY
+1161,ɲ ĩ ĩ,GLOSS 3 ENGL,FALSE,preto,107,PWT,GLOSA 2 ENGL,black,~jii,PET,GLOSA 2 PORT,ɲ ĩ - ĩ,~jii,GLOSA 3 PORT,AXZ,WAN
+1162,tjʔ ĩ,,TRUE,,107,,,black,*tjʔĩ,,,tsʔ ĩ - -,,,AX,*PT
+1163,r i a,GLOSS 3 ENGL,FALSE,ovo,108,PWT,GLOSA 2 ENGL,egg,ria,PET,GLOSA 2 PORT,r i ( - a ),ria,GLOSA 3 PORT,AXZ,BAS
+1164,r i a,GLOSS 3 ENGL,FALSE,ovo,108,PWT,GLOSA 2 ENGL,egg,ria,PET,GLOSA 2 PORT,r i ( - a ),ria,GLOSA 3 PORT,AXZ,KAR
+1165,j i a,GLOSS 3 ENGL,FALSE,ovo,108,PWT,GLOSA 2 ENGL,egg,jia,PET,GLOSA 2 PORT,j i ( - a ),jia,GLOSA 3 PORT,AXZ,KOR
+1166,h ĩ d ɨ,GLOSS 3 ENGL,FALSE,ovo,108,PWT,GLOSA 2 ENGL,egg,hĩdɨ,PET,GLOSA 2 PORT,h ĩ ( d ɨ ),hĩdɨ,GLOSA 3 PORT,AXBZ,KUB
+1167,j i a,GLOSS 3 ENGL,FALSE,ovo,108,PWT,GLOSA 2 ENGL,egg,jia,PET,GLOSA 2 PORT,j i ( - a ),jia,GLOSA 3 PORT,AXZ,MAI
+1168,sʔ i a,GLOSS 3 ENGL,FALSE,ovo,108,PWT,GLOSA 2 ENGL,egg,sʔia,PET,GLOSA 2 PORT,sʔ i ( - a ),sʔia,GLOSA 3 PORT,AXZ,SEK
+1169,sʔ i a,GLOSS 3 ENGL,TRUE,ovo,108,PWT,GLOSA 2 ENGL,egg,sʔia,PET,GLOSA 2 PORT,sʔ i ( a - ),sʔia,GLOSA 3 PORT,AXZ,SIO
+1170,r i a,GLOSS 3 ENGL,FALSE,ovo,108,PWT,GLOSA 2 ENGL,egg,ria,PET,GLOSA 2 PORT,r i ( - a ),ria,GLOSA 3 PORT,AXZ,TAN
+1171,d i e,GLOSS 3 ENGL,FALSE,ovo,108,PWT,GLOSA 2 ENGL,egg,die,PET,GLOSA 2 PORT,d i ( - e ),die,GLOSA 3 PORT,AXZ,TUK
+1172,d i j e,GLOSS 3 ENGL,FALSE,ovo,108,PWT,GLOSA 2 ENGL,egg,diye,PET,GLOSA 2 PORT,d i ( j e ),diye,GLOSA 3 PORT,AXYZ,TUY
+1173,d i e,GLOSS 3 ENGL,FALSE,ovo,108,PWT,GLOSA 2 ENGL,egg,die,PET,GLOSA 2 PORT,d i ( - e ),die,GLOSA 3 PORT,AXZ,WAN
+1174,t jʔ i a,,TRUE,,108,,,egg,*tjʔia,,,tsʔ i ( - a ),,,AXZ,*PT
+1175,r i a,GLOSS 3 ENGL,FALSE,face,109,PWT,GLOSA 2 ENGL,face,ria,PET,GLOSA 2 PORT,r i - a ( - - - - ),ria,GLOSA 3 PORT,AXZ,BAS
+1176,d i a,GLOSS 3 ENGL,FALSE,face,109,PWT,GLOSA 2 ENGL,face,dia,PET,GLOSA 2 PORT,d i - a ( - - - - ),dia,GLOSA 3 PORT,AXZ,DES
+1177,r i a,GLOSS 3 ENGL,FALSE,face,109,PWT,GLOSA 2 ENGL,face,ria,PET,GLOSA 2 PORT,r i - a ( - - - - ),ria,GLOSA 3 PORT,AXZ,KAR
+1178,j i a,GLOSS 3 ENGL,FALSE,face,109,PWT,GLOSA 2 ENGL,face,jia,PET,GLOSA 2 PORT,j i - a ( - - - - ),jia,GLOSA 3 PORT,AXZ,KOR
+1179,h i w a,GLOSS 3 ENGL,FALSE,face,109,PWT,GLOSA 2 ENGL,face,hiwa,PET,GLOSA 2 PORT,h i w a ( - - - - ),hiwa,GLOSA 3 PORT,AXBZ,KUB
+1180,j i a,GLOSS 3 ENGL,FALSE,face,109,PWT,GLOSA 2 ENGL,face,jia,PET,GLOSA 2 PORT,j i - a ( - - - - ),jia,GLOSA 3 PORT,AXZ,MAI
+1181,sʔ i a,GLOSS 3 ENGL,TRUE,face,109,PWT,GLOSA 2 ENGL,face,sʔia,PET,GLOSA 2 PORT,sʔ i - a ( - - - - ),sʔia,GLOSA 3 PORT,AXZ,SEK
+1182,d i a,GLOSS 3 ENGL,FALSE,face,109,PWT,GLOSA 2 ENGL,face,dia,PET,GLOSA 2 PORT,d i - a ( - - - - ),dia,GLOSA 3 PORT,AXZ,TUK
+1183,d i a _ p o a,GLOSS 3 ENGL,FALSE,face,109,PWT,GLOSA 2 ENGL,face,dia_poa,PET,GLOSA 2 PORT,d i - a ( _ p o a ),dia poa,GLOSA 3 PORT,AXZ_AXZ,TUY
+1184,t jʔ i a,,TRUE,,109,,,face,*tjʔia,,,tsʔ i - a ( - - - - ),,,AXZ,*PT
+1185,r i a,GLOSS 3 ENGL,FALSE,rio,110,PWT,GLOSA 2 ENGL,river,ria,PET,GLOSA 2 PORT,r i a,ria,GLOSA 3 PORT,AXZ,BAS
+1186,d i a,GLOSS 3 ENGL,FALSE,rio,110,PWT,GLOSA 2 ENGL,river,dia,PET,GLOSA 2 PORT,d i a,dia,GLOSA 3 PORT,AXZ,DES
+1187,r i a,GLOSS 3 ENGL,FALSE,rio,110,PWT,GLOSA 2 ENGL,river,ria,PET,GLOSA 2 PORT,r i a,ria,GLOSA 3 PORT,AXZ,KAR
+1188,j i a,GLOSS 3 ENGL,FALSE,rio,110,PWT,GLOSA 2 ENGL,river,jia,PET,GLOSA 2 PORT,j i a,jia,GLOSA 3 PORT,AXZ,KOR
+1189,h i a,GLOSS 3 ENGL,FALSE,rio,110,PWT,GLOSA 2 ENGL,river,hia,PET,GLOSA 2 PORT,h i a,hia,GLOSA 3 PORT,AXZ,KUB
+1190,l a,GLOSS 3 ENGL,FALSE,rio,110,PWT,GLOSA 2 ENGL,river,la,PET,GLOSA 2 PORT,r - a,la,GLOSA 3 PORT,AX,KUE
+1191,j i a,GLOSS 3 ENGL,FALSE,rio,110,PWT,GLOSA 2 ENGL,river,jia,PET,GLOSA 2 PORT,j i a,jia,GLOSA 3 PORT,AXZ,MAI
+1192,sʔ i a,GLOSS 3 ENGL,FALSE,rio,110,PWT,GLOSA 2 ENGL,river,sʔia,PET,GLOSA 2 PORT,sʔ i a,sʔia,GLOSA 3 PORT,AXZ,SEK
+1193,sʔ i a,GLOSS 3 ENGL,TRUE,rio,110,PWT,GLOSA 2 ENGL,river,sʔia,PET,GLOSA 2 PORT,sʔ i a,sʔia,GLOSA 3 PORT,AXZ,SIO
+1194,r i a,GLOSS 3 ENGL,FALSE,rio,110,PWT,GLOSA 2 ENGL,river,ria,PET,GLOSA 2 PORT,r i a,ria,GLOSA 3 PORT,AXZ,TAN
+1195,d i a,GLOSS 3 ENGL,FALSE,rio,110,PWT,GLOSA 2 ENGL,river,dia,PET,GLOSA 2 PORT,d i a,dia,GLOSA 3 PORT,AXZ,TUK
+1196,d i a,GLOSS 3 ENGL,FALSE,rio,110,PWT,GLOSA 2 ENGL,river,dia,PET,GLOSA 2 PORT,d i a,dia,GLOSA 3 PORT,AXZ,TUY
+1197,d i a,GLOSS 3 ENGL,FALSE,rio,110,PWT,GLOSA 2 ENGL,river,dia,PET,GLOSA 2 PORT,d i a,dia,GLOSA 3 PORT,AXZ,WAN
+1198,t jʔ i a,,TRUE,,110,,,river,*tjʔia,,,tsʔ i a,,,AXZ,*PT
+1199,r i i,GLOSS 3 ENGL,FALSE,sangue,111,PWT,GLOSA 2 ENGL,blood,rii,PET,GLOSA 2 PORT,r i - i ( - - ),rii,GLOSA 3 PORT,AXZ,BAS
+1200,d i i,GLOSS 3 ENGL,FALSE,sangue,111,PWT,GLOSA 2 ENGL,blood,dii,PET,GLOSA 2 PORT,d i - i ( - - ),dii,GLOSA 3 PORT,AXZ,DES
+1201,r i i,GLOSS 3 ENGL,FALSE,sangue,111,PWT,GLOSA 2 ENGL,blood,rii,PET,GLOSA 2 PORT,r i - i ( - - ),rii,GLOSA 3 PORT,AXZ,KAR
+1202,j i e,GLOSS 3 ENGL,FALSE,sangue,111,PWT,GLOSA 2 ENGL,blood,jie,PET,GLOSA 2 PORT,j i - e ( - - ),jie,GLOSA 3 PORT,AXZ,KOR
+1203,h i w e,GLOSS 3 ENGL,FALSE,sangue,111,PWT,GLOSA 2 ENGL,blood,hiwe,PET,GLOSA 2 PORT,h i w e ( - - ),hiwe,GLOSA 3 PORT,AXBZ,KUB
+1204,l i e r i,GLOSS 3 ENGL,FALSE,sangue,111,PWT,GLOSA 2 ENGL,blood,lieri,PET,GLOSA 2 PORT,r i - e ( r i ),lieri,GLOSA 3 PORT,AXYBZ,KUE
+1205,sʔ i e,GLOSS 3 ENGL,FALSE,sangue,111,PWT,GLOSA 2 ENGL,blood,sʔie,PET,GLOSA 2 PORT,sʔ i - e ( - - ),sʔie,GLOSA 3 PORT,AXZ,SEK
+1206,sʔ i e,GLOSS 3 ENGL,TRUE,sangue,111,PWT,GLOSA 2 ENGL,blood,sʔie,PET,GLOSA 2 PORT,sʔ i - e ( - - ),sʔie,GLOSA 3 PORT,AXZ,SIO
+1207,r i b e,GLOSS 3 ENGL,FALSE,sangue,111,PWT,GLOSA 2 ENGL,blood,ribe,PET,GLOSA 2 PORT,r i b e ( - - ),ribe,GLOSA 3 PORT,AXBZ,TAN
+1208,d i i,GLOSS 3 ENGL,FALSE,sangue,111,PWT,GLOSA 2 ENGL,blood,dii,PET,GLOSA 2 PORT,d i - i ( - - ),dii,GLOSA 3 PORT,AXZ,TUK
+1209,d i i,GLOSS 3 ENGL,FALSE,sangue,111,PWT,GLOSA 2 ENGL,blood,dii,PET,GLOSA 2 PORT,d i - i ( - - ),dii,GLOSA 3 PORT,AXZ,TUY
+1210,d i,GLOSS 3 ENGL,FALSE,sangue,111,PWT,GLOSA 2 ENGL,blood,di,PET,GLOSA 2 PORT,d i - - ( - - ),di,GLOSA 3 PORT,AX,WAN
+1211,t jʔ i e,,TRUE,,111,,,blood,*tjʔie,,,tsʔ i - e ( - - ),,,AXZ,*PT
+1212,d i t a,GLOSS 3 ENGL,FALSE,lago,112,PWT,GLOSA 2 ENGL,lake,dita,PET,GLOSA 2 PORT,d i t a ( - - ),dita,GLOSA 3 PORT,AXBZ,DES
+1213,h i t a,GLOSS 3 ENGL,FALSE,lago,112,PWT,GLOSA 2 ENGL,lake,hita,PET,GLOSA 2 PORT,h i t a ( - - ),hita,GLOSA 3 PORT,AXBZ,KUB
+1214,r i t a,GLOSS 3 ENGL,FALSE,lago,112,PWT,GLOSA 2 ENGL,lake,rita,PET,GLOSA 2 PORT,r i t a ( - - ),rita,GLOSA 3 PORT,AXBZ,KUE
+1215,t∫ i t a,GLOSS 3 ENGL,FALSE,lago,112,PWT,GLOSA 2 ENGL,lake,t∫ita,PET,GLOSA 2 PORT,t∫ i t a ( - - ),t∫ita,GLOSA 3 PORT,AXBZ,MAI
+1216,sʔ i t a d a,GLOSS 3 ENGL,TRUE,lago,112,PWT,GLOSA 2 ENGL,lake,sʔitada,PET,GLOSA 2 PORT,sʔ i t a ( d a ),sʔitada,GLOSA 3 PORT,AXBYBZ,SIO
+1217,d i t a,GLOSS 3 ENGL,FALSE,lago,112,PWT,GLOSA 2 ENGL,lake,dita,PET,GLOSA 2 PORT,d i t a ( - - ),dita,GLOSA 3 PORT,AXBZ,TUK
+1218,t a r o,GLOSS 3 ENGL,FALSE,lago,112,PWT,GLOSA 2 ENGL,lake,-taro,PET,GLOSA 2 PORT,- - t a ( r o ),taro,GLOSA 3 PORT,AXBZ,TUY
+1219,t i t a,GLOSS 3 ENGL,FALSE,lago,112,PWT,GLOSA 2 ENGL,lake,tita,PET,GLOSA 2 PORT,t i t a ( - - ),tita,GLOSA 3 PORT,AXBZ,YUP
+1220,tjʔ i tt a,,TRUE,,112,,,lake,*tjʔitta,,,tsʔ i tt a ( - - ),,,AXBZ,*PT
+1221,r i h o,GLOSS 3 ENGL,FALSE,cabeça,113,PWT,GLOSA 2 ENGL,head,riho,PET,GLOSA 2 PORT,r i h o,riho,GLOSA 3 PORT,AXBZ,BAS
+1222,d i p u,GLOSS 3 ENGL,FALSE,cabeça,113,PWT,GLOSA 2 ENGL,head,dipu,PET,GLOSA 2 PORT,d i p u,dipu,GLOSA 3 PORT,AXBZ,DES
+1223,r ɨ p o,GLOSS 3 ENGL,FALSE,cabeça,113,PWT,GLOSA 2 ENGL,head,rɨpo,PET,GLOSA 2 PORT,r ɨ p o,rɨpo,GLOSA 3 PORT,AXBZ,KAR
+1224,s ĩ h õ,GLOSS 3 ENGL,FALSE,cabeça,113,PWT,GLOSA 2 ENGL,head,~siho,PET,GLOSA 2 PORT,s ĩ h õ,~siho,GLOSA 3 PORT,AXBZ,KOR
+1225,h i p o,GLOSS 3 ENGL,FALSE,cabeça,113,PWT,GLOSA 2 ENGL,head,hipo,PET,GLOSA 2 PORT,h i p o,hipo,GLOSA 3 PORT,AXBZ,KUB
+1226,t∫ i o,GLOSS 3 ENGL,FALSE,cabeça,113,PWT,GLOSA 2 ENGL,head,t∫io,PET,GLOSA 2 PORT,t∫ i - o,t∫io,GLOSA 3 PORT,AXZ,MAI
+1227,s ĩ õ,GLOSS 3 ENGL,FALSE,cabeça,113,PWT,GLOSA 2 ENGL,head,~sio,PET,GLOSA 2 PORT,s ĩ - õ,~sio,GLOSA 3 PORT,AXZ,SEK
+1228,sʔ ĩ h õ,GLOSS 3 ENGL,TRUE,cabeça,113,PWT,GLOSA 2 ENGL,head,~sʔiho,PET,GLOSA 2 PORT,sʔ ĩ h õ,~sʔiho,GLOSA 3 PORT,AXBZ,SIO
+1229,r u ɸ u,GLOSS 3 ENGL,FALSE,cabeça,113,PWT,GLOSA 2 ENGL,head,rupu,PET,GLOSA 2 PORT,r u ɸ u,rupu,GLOSA 3 PORT,AXBZ,TAN
+1230,d ɨ p o,GLOSS 3 ENGL,FALSE,cabeça,113,PWT,GLOSA 2 ENGL,head,dɨpo,PET,GLOSA 2 PORT,d ɨ p o,dɨpo,GLOSA 3 PORT,AXBZ,TUK
+1231,d u p u,GLOSS 3 ENGL,FALSE,cabeça,113,PWT,GLOSA 2 ENGL,head,dupu,PET,GLOSA 2 PORT,d u p u,dupu,GLOSA 3 PORT,AXBZ,TUY
+1232,d a p u,GLOSS 3 ENGL,FALSE,cabeça,113,PWT,GLOSA 2 ENGL,head,dapu,PET,GLOSA 2 PORT,d a p u,dapu,GLOSA 3 PORT,AXBZ,WAN
+1233,d ɨ p ɨ,GLOSS 3 ENGL,FALSE,cabeça,113,PWT,GLOSA 2 ENGL,head,dɨpɨ,PET,GLOSA 2 PORT,d ɨ p ɨ,dɨpɨ,GLOSA 3 PORT,AXBZ,YUP
+1234,t jʔ ɨ p o,,TRUE,,113,,,head,*tjʔɨpo,,,tsʔ ɨ p o,,,AXBZ,*PT
+1235,r i c e,GLOSS 3 ENGL,FALSE,boca1,114,PWT,GLOSA 2 ENGL,mouth1,rice,*tjʔɨseo,GLOSA 2 PORT,r i t∫ e ( - - ),rice,GLOSA 3 PORT,AXBZ,BAS
+1236,d i s i,GLOSS 3 ENGL,FALSE,boca1,114,PWT,GLOSA 2 ENGL,mouth1,disi,*tjʔɨseo,GLOSA 2 PORT,d i s i ( - - ),disi,GLOSA 3 PORT,AXBZ,DES
+1237,r i s e,GLOSS 3 ENGL,FALSE,boca1,114,PWT,GLOSA 2 ENGL,mouth1,rise,*tjʔɨseo,GLOSA 2 PORT,r i s e ( - - ),"rise, jise",GLOSA 3 PORT,AXBZ,KAR
+1238,h i h e,GLOSS 3 ENGL,FALSE,boca1,114,PWT,GLOSA 2 ENGL,mouth1,hihe,*tjʔɨseo,GLOSA 2 PORT,h i h e ( - - ),hihe,GLOSA 3 PORT,AXBZ,KUB
+1239,r i s e p u,GLOSS 3 ENGL,FALSE,boca1,114,PWT,GLOSA 2 ENGL,mouth1,risepu,*tjʔɨseo,GLOSA 2 PORT,r i s e ( p u ),risepu,GLOSA 3 PORT,AXBYBZ,KUE
+1240,r i h o,GLOSS 3 ENGL,FALSE,boca1,114,PWT,GLOSA 2 ENGL,mouth1,riho,*tjʔɨseo,GLOSA 2 PORT,r i h o ( - - ),riho,GLOSA 3 PORT,AXBZ,TAN
+1241,ɨ ʔs e,GLOSS 3 ENGL,FALSE,boca1,114,PWT,GLOSA 2 ENGL,mouth1,ɨʔse,*tjʔɨseo,GLOSA 2 PORT,- ɨ ʔs e ( - - ),ɨʔse,GLOSA 3 PORT,XBZ,TUK
+1242,ɨ s e,GLOSS 3 ENGL,FALSE,boca1,114,PWT,GLOSA 2 ENGL,mouth1,ɨse,*tjʔɨseo,GLOSA 2 PORT,- ɨ s e ( - - ),ɨse,GLOSA 3 PORT,XBZ,TUY
+1243,d ɨ s e,GLOSS 3 ENGL,FALSE,boca1,114,PWT,GLOSA 2 ENGL,mouth1,dɨse,*tjʔɨseo,GLOSA 2 PORT,d ɨ s e ( - - ),dɨse,GLOSA 3 PORT,AXBZ,WAN
+1244,d i ts i,GLOSS 3 ENGL,TRUE,boca1,114,PWT,GLOSA 2 ENGL,mouth1,ditsi,*tjʔɨseo,GLOSA 2 PORT,d i ts i ( - - ),ditsi,GLOSA 3 PORT,AXBZ,YUP
+1245,t jʔ ɨ s e o,,TRUE,,114,,,mouth1,*tjʔɨseo,,,tsʔ ɨ s e ( o - ),,,AXBYZ,*PT
+1246,j o a,GLOSS 3 ENGL,FALSE,longe,115,PWT,GLOSA 2 ENGL,distant,joa,PET,GLOSA 2 PORT,j o - a,joa,GLOSA 3 PORT,AXZ,BAS
+1247,j o a,GLOSS 3 ENGL,FALSE,longe,115,PWT,GLOSA 2 ENGL,distant,joa,PET,GLOSA 2 PORT,j o - a,joa,GLOSA 3 PORT,AXZ,DES
+1248,j o a,GLOSS 3 ENGL,FALSE,longe,115,PWT,GLOSA 2 ENGL,distant,joa,PET,GLOSA 2 PORT,j o - a,joa,GLOSA 3 PORT,AXZ,KAR
+1249,h o a,GLOSS 3 ENGL,FALSE,longe,115,PWT,GLOSA 2 ENGL,distant,hoa,PET,GLOSA 2 PORT,h o - a,hoa,GLOSA 3 PORT,AXZ,KUB
+1250,j o e,GLOSS 3 ENGL,FALSE,longe,115,PWT,GLOSA 2 ENGL,distant,joe,PET,GLOSA 2 PORT,j o - e,joe,GLOSA 3 PORT,AXZ,KUE
+1251,j ã m a,GLOSS 3 ENGL,FALSE,longe,115,PWT,GLOSA 2 ENGL,distant,doa,PET,GLOSA 2 PORT,d o - a,jãma,GLOSA 3 PORT,AXZ,MAI
+1252,s o ʔ o,GLOSS 3 ENGL,FALSE,longe,115,PWT,GLOSA 2 ENGL,distant,soʔo,PET,GLOSA 2 PORT,s o ʔ o,soʔo,GLOSA 3 PORT,AXBZ,SEK
+1253,sʔ o a,GLOSS 3 ENGL,TRUE,longe,115,PWT,GLOSA 2 ENGL,distant,sʔoa,PET,GLOSA 2 PORT,sʔ o - a,sʔoa,GLOSA 3 PORT,AXZ,SIO
+1254,j o e,GLOSS 3 ENGL,FALSE,longe,115,PWT,GLOSA 2 ENGL,distant,joe,PET,GLOSA 2 PORT,j o - e,joe,GLOSA 3 PORT,AXZ,TAN
+1255,j o a,GLOSS 3 ENGL,FALSE,longe,115,PWT,GLOSA 2 ENGL,distant,joa,PET,GLOSA 2 PORT,j o - a,joa,GLOSA 3 PORT,AXZ,TUK
+1256,j o a,GLOSS 3 ENGL,FALSE,longe,115,PWT,GLOSA 2 ENGL,distant,joa,PET,GLOSA 2 PORT,j o - a,joa,GLOSA 3 PORT,AXZ,TUY
+1257,j o a,GLOSS 3 ENGL,FALSE,longe,115,PWT,GLOSA 2 ENGL,distant,joa,PET,GLOSA 2 PORT,j o - a,joa,GLOSA 3 PORT,AXZ,WAN
+1258,t jʔ o a,,TRUE,,115,,,distant,*tjʔoa,,,tsʔ o - a,,,AXZ,*PT
+1259,ɲ ã s ã,GLOSS 3 ENGL,FALSE,martim pescador,116,PWT,GLOSA 2 ENGL,king-fisher,~jasa,PET,GLOSA 2 PORT,ɲ ã s ã,~jasa,GLOSA 3 PORT,AXBZ,BAS
+1260,s ã n ã,GLOSS 3 ENGL,FALSE,martim pescador,116,PWT,GLOSA 2 ENGL,king-fisher,~sada,PET,GLOSA 2 PORT,s ã n ã,~sada,GLOSA 3 PORT,AXBZ,DES
+1261,ɲ ã s ã,GLOSS 3 ENGL,FALSE,martim pescador,116,PWT,GLOSA 2 ENGL,king-fisher,~jasa,PET,GLOSA 2 PORT,ɲ ã s ã,~jasa,GLOSA 3 PORT,AXBZ,KAR
+1262,s ã sʔ a,GLOSS 3 ENGL,FALSE,martim pescador,116,PWT,GLOSA 2 ENGL,king-fisher,sãsʔa,PET,GLOSA 2 PORT,s ã ʔs a,sãsʔa,GLOSA 3 PORT,AXBZ,KOR
+1263,h ã h ã,GLOSS 3 ENGL,FALSE,martim pescador,116,PWT,GLOSA 2 ENGL,king-fisher,~haha,PET,GLOSA 2 PORT,h ã h ã,~haha,GLOSA 3 PORT,AXBZ,KUB
+1264,sʔ ã ʔ s a,GLOSS 3 ENGL,TRUE,martim pescador,116,PWT,GLOSA 2 ENGL,king-fisher,sʔãʔsa,PET,GLOSA 2 PORT,sʔ ã ʔs a,sʔãʔsa,GLOSA 3 PORT,AXBZ,SEK
+1265,h ã h ã,GLOSS 3 ENGL,FALSE,martim pescador,116,PWT,GLOSA 2 ENGL,king-fisher,~haha,PET,GLOSA 2 PORT,h ã h ã,~haha,GLOSA 3 PORT,AXBZ,TAN
+1266,s ã n ã,GLOSS 3 ENGL,FALSE,martim pescador,116,PWT,GLOSA 2 ENGL,king-fisher,~sada,PET,GLOSA 2 PORT,s ã n ã,~sada,GLOSA 3 PORT,AXBZ,TUK
+1267,s ã n ã,GLOSS 3 ENGL,FALSE,martim pescador,116,PWT,GLOSA 2 ENGL,king-fisher,~sada,PET,GLOSA 2 PORT,s ã n ã,~sada,GLOSA 3 PORT,AXBZ,WAN
+1268,s ã s ã,GLOSS 3 ENGL,FALSE,martim pescador,116,PWT,GLOSA 2 ENGL,king-fisher,~sasa,PET,GLOSA 2 PORT,s ã s ã,~sasa,GLOSA 3 PORT,AXBZ,YUP
+1269,t j ã s a,,FALSE,,116,,,king-fisher,*tjãsa,,,ts ã s a,,,AXBZ,*PT
+1270,j e c e,GLOSS 3 ENGL,FALSE,porco do mato,117,PWT,GLOSA 2 ENGL,peccary,jece,PET,GLOSA 2 PORT,j e t∫ e,jece,GLOSA 3 PORT,AXBZ,BAS
+1271,j e s e,GLOSS 3 ENGL,FALSE,porco do mato,117,PWT,GLOSA 2 ENGL,peccary,jese,PET,GLOSA 2 PORT,j e s e,jese,GLOSA 3 PORT,AXBZ,DES
+1272,s ẽ s e,GLOSS 3 ENGL,FALSE,porco do mato,117,PWT,GLOSA 2 ENGL,peccary,sẽse,PET,GLOSA 2 PORT,s ẽ s e,sẽse,GLOSA 3 PORT,AXBZ,KOR
+1273,h ẽ h ẽ,GLOSS 3 ENGL,FALSE,porco do mato,117,PWT,GLOSA 2 ENGL,peccary,~hehe,PET,GLOSA 2 PORT,h ẽ h ẽ,~hehe,GLOSA 3 PORT,AXBZ,KUB
+1274,j e s e,GLOSS 3 ENGL,FALSE,porco do mato,117,PWT,GLOSA 2 ENGL,peccary,jese,PET,GLOSA 2 PORT,j e s e,jese,GLOSA 3 PORT,AXBZ,KUE
+1275,s ẽ s e,GLOSS 3 ENGL,FALSE,porco do mato,117,PWT,GLOSA 2 ENGL,peccary,sẽse,PET,GLOSA 2 PORT,s ẽ s e,sẽse,GLOSA 3 PORT,AXBZ,MAI
+1276,s ẽ s e,GLOSS 3 ENGL,FALSE,porco do mato,117,PWT,GLOSA 2 ENGL,peccary,sẽse,PET,GLOSA 2 PORT,s ẽ s e,sẽse,GLOSA 3 PORT,AXBZ,SEK
+1277,s ẽ s e,GLOSS 3 ENGL,FALSE,porco do mato,117,PWT,GLOSA 2 ENGL,peccary,sẽse,PET,GLOSA 2 PORT,s ẽ s e,sẽse,GLOSA 3 PORT,AXBZ,SIO
+1278,h ẽ h ẽ,GLOSS 3 ENGL,FALSE,porco do mato,117,PWT,GLOSA 2 ENGL,peccary,~hehe,PET,GLOSA 2 PORT,h ẽ h ẽ,~hehe,GLOSA 3 PORT,AXBZ,TAN
+1279,j e s e,GLOSS 3 ENGL,FALSE,porco do mato,117,PWT,GLOSA 2 ENGL,peccary,jese,PET,GLOSA 2 PORT,j e s e,jese,GLOSA 3 PORT,AXBZ,TUK
+1280,j e s e,GLOSS 3 ENGL,FALSE,porco do mato,117,PWT,GLOSA 2 ENGL,peccary,jese,PET,GLOSA 2 PORT,j e s e,jese,GLOSA 3 PORT,AXBZ,TUY
+1281,j e s e,GLOSS 3 ENGL,FALSE,porco do mato,117,PWT,GLOSA 2 ENGL,peccary,jese,PET,GLOSA 2 PORT,j e s e,jese,GLOSA 3 PORT,AXBZ,WAN
+1282,ts e ts e,GLOSS 3 ENGL,TRUE,porco do mato,117,PWT,GLOSA 2 ENGL,peccary,tsetse,PET,GLOSA 2 PORT,ts e ts e,tsetse,GLOSA 3 PORT,AXBZ,YUP
+1283,t j ẽ s e,,FALSE,,117,,,peccary,*tjẽse,,,ts ẽ s e,,,AXBZ,*PT
+1284,n ĩ m ã,GLOSS 3 ENGL,FALSE,veneno,118,PWT,GLOSA 2 ENGL,poison,~diba,PET,GLOSA 2 PORT,n ĩ m ã,~diba,GLOSA 3 PORT,AXBZ,DES
+1285,n ĩ m ã,GLOSS 3 ENGL,FALSE,veneno,118,PWT,GLOSA 2 ENGL,poison,~diba,PET,GLOSA 2 PORT,n ĩ m ã,~diba,GLOSA 3 PORT,AXBZ,KAR
+1286,j i m a,GLOSS 3 ENGL,FALSE,veneno,118,PWT,GLOSA 2 ENGL,poison,jima,PET,GLOSA 2 PORT,j i m a,jima,GLOSA 3 PORT,AXBZ,KOR
+1287,h ĩ m ã,GLOSS 3 ENGL,FALSE,veneno,118,PWT,GLOSA 2 ENGL,poison,~hima,PET,GLOSA 2 PORT,h ĩ m ã,~hima,GLOSA 3 PORT,AXBZ,KUB
+1288,sʔ ĩ m a,GLOSS 3 ENGL,TRUE,veneno,118,PWT,GLOSA 2 ENGL,poison,sʔĩma,PET,GLOSA 2 PORT,sʔ ĩ m a,sʔĩma,GLOSA 3 PORT,AXBZ,SEK
+1289,n ĩ m ã,GLOSS 3 ENGL,FALSE,veneno,118,PWT,GLOSA 2 ENGL,poison,~diba,PET,GLOSA 2 PORT,n ĩ m ã,~diba,GLOSA 3 PORT,AXBZ,TUK
+1290,n ĩ m ã,GLOSS 3 ENGL,FALSE,veneno,118,PWT,GLOSA 2 ENGL,poison,~diba,PET,GLOSA 2 PORT,n ĩ m ã,~diba,GLOSA 3 PORT,AXBZ,TUY
+1291,ɲ ĩ m ã,GLOSS 3 ENGL,FALSE,veneno,118,PWT,GLOSA 2 ENGL,poison,~jiba,PET,GLOSA 2 PORT,ɲ ĩ m ã,~jiba,GLOSA 3 PORT,AXBZ,WAN
+1292,t j i m a,,FALSE,,118,,,poison,*tjima,,,ts i m a,,,AXBZ,*PT
+1293,c ɨ̃ m ẽ,unripe,FALSE,verde,119,PWT,blue,green,~cɨbe,PET,azul,ts ɨ̃ m ẽ ( - - ),~cɨbe,não maduro,AXBZ,BAS
+1294,h ɨ̃ m ẽ,unripe,FALSE,verde,119,PWT,blue,green,~hɨbe,PET,azul,h ɨ̃ m ẽ ( - - ),~hɨbe,não maduro,AXBZ,KAR
+1295,h ɨ̃ m ẽ,unripe,FALSE,verde,119,PWT,blue,green,~hɨbe,PET,azul,h ɨ̃ m ẽ ( - - ),~hɨbe,não maduro,AXBZ,KUB
+1296,t ɨ m ɨ,unripe,FALSE,verde,119,PWT,blue,green,tɨmɨ,PET,azul,t ɨ m ɨ ( - - ),tɨmɨ,não maduro,AXBZ,KUE
+1297,s ɨ h o,unripe,FALSE,verde,119,PWT,blue,green,sɨho,PET,azul,s ɨ h o ( - - ),sɨho,não maduro,AXBZ,SIO
+1298,h ĩ ʔb ĩ,unripe,FALSE,verde,119,PWT,blue,green,~hiʔbi,PET,azul,h ĩ ʔm ĩ ( - - ),~hiʔbi,não maduro,AXBZ,TAN
+1299,s ɨ ʔm e,unripe,FALSE,verde,119,PWT,blue,green,sɨʔme,PET,azul,s ɨ ʔm e ( - - ),sɨʔme,não maduro,AXBZ,TUK
+1300,s ɨ̃ m ẽ r̃ ẽ,unripe,FALSE,verde,119,PWT,blue,green,~sɨbere,PET,azul,s ɨ̃ m ẽ ( r̃ ẽ ),~sɨbere,não maduro,AXBYBZ,TUY
+1301,ts ɨ m ɨ,unripe,TRUE,verde,119,PWT,blue,green,tsɨmɨ,PET,azul,ts ɨ m ɨ ( - - ),tsɨmɨ,não maduro,AXBZ,YUP
+1302,tj ɨ̃ pʔ e,,TRUE,,119,,,green,*tjɨ̃pʔe,,,ts ɨ̃ pʔ e ( - - ),,,AXBZ,*PT
+1303,ɨ c a,GLOSS 3 ENGL,FALSE,frio,120,PWT,GLOSA 2 ENGL,cold,ɨca,PET,GLOSA 2 PORT,- ɨ ts a ( - ),"ɨca, jɨcɨ",GLOSA 3 PORT,XBZ,BAS
+1304,j ɨ s a,GLOSS 3 ENGL,FALSE,frio,120,PWT,GLOSA 2 ENGL,cold,jɨsa,PET,GLOSA 2 PORT,j ɨ s a ( - ),jɨsa,GLOSA 3 PORT,AXBZ,DES
+1305,s ɨ s ɨ,GLOSS 3 ENGL,FALSE,frio,120,PWT,GLOSA 2 ENGL,cold,sɨsɨ,PET,GLOSA 2 PORT,s ɨ s ɨ ( - ),sɨsɨ,GLOSA 3 PORT,AXBZ,KOR
+1306,h ɨ h ɨ,GLOSS 3 ENGL,FALSE,frio,120,PWT,GLOSA 2 ENGL,cold,hɨhɨ,PET,GLOSA 2 PORT,h ɨ h ɨ ( - ),hɨhɨ,GLOSA 3 PORT,AXBZ,KUB
+1307,j ɨ s ɨ a,GLOSS 3 ENGL,FALSE,frio,120,PWT,GLOSA 2 ENGL,cold,jɨsɨa,PET,GLOSA 2 PORT,j ɨ s ɨ ( a ),jɨsɨa,GLOSA 3 PORT,AXBYZ,KUE
+1308,s ɨ s ɨ,GLOSS 3 ENGL,FALSE,frio,120,PWT,GLOSA 2 ENGL,cold,sɨsɨ,PET,GLOSA 2 PORT,s ɨ s ɨ ( - ),sɨsɨ,GLOSA 3 PORT,AXBZ,MAI
+1309,s ɨ s ɨ,GLOSS 3 ENGL,FALSE,frio,120,PWT,GLOSA 2 ENGL,cold,sɨsɨ,PET,GLOSA 2 PORT,s ɨ s ɨ ( - ),sɨsɨ,GLOSA 3 PORT,AXBZ,SEK
+1310,s ɨ s ɨ,GLOSS 3 ENGL,FALSE,frio,120,PWT,GLOSA 2 ENGL,cold,sɨsɨ,PET,GLOSA 2 PORT,s ɨ s ɨ ( - ),sɨsɨ,GLOSA 3 PORT,AXBZ,SIO
+1311,h i ʔh i a,GLOSS 3 ENGL,FALSE,frio,120,PWT,GLOSA 2 ENGL,cold,hiʔhia,PET,GLOSA 2 PORT,h i ʔh i ( a ),hiʔhia,GLOSA 3 PORT,AXBYZ,TAN
+1312,j ɨ s ɨ a,GLOSS 3 ENGL,FALSE,frio,120,PWT,GLOSA 2 ENGL,cold,jɨsɨa,PET,GLOSA 2 PORT,j ɨ s ɨ ( a ),jɨsɨa,GLOSA 3 PORT,AXBYZ,TUK
+1313,j ɨ s ɨ a,GLOSS 3 ENGL,FALSE,frio,120,PWT,GLOSA 2 ENGL,cold,jɨsɨa,PET,GLOSA 2 PORT,j ɨ s ɨ ( a ),jɨsɨa,GLOSA 3 PORT,AXBYZ,TUY
+1314,j ɨ s ɨ,GLOSS 3 ENGL,FALSE,frio,120,PWT,GLOSA 2 ENGL,cold,jɨsɨ,PET,GLOSA 2 PORT,j ɨ s ɨ ( - ),jɨsɨ,GLOSA 3 PORT,AXBZ,WAN
+1315,ts e s ɨ,GLOSS 3 ENGL,TRUE,frio,120,PWT,GLOSA 2 ENGL,cold,tsesɨ,PET,GLOSA 2 PORT,ts e s ɨ ( - ),"tsesɨ, tsitsi",GLOSA 3 PORT,AXBZ,YUP
+1316,tj ɨ s i,,FALSE,,120,,,cold,*tjɨsi,,,ts ɨ s i ( - ),,,AXBZ,*PT
+1317,j u k ɨ,GLOSS 3 ENGL,FALSE,árvore,121,PWT,GLOSA 2 ENGL,tree,jukɨ,PET,GLOSA 2 PORT,j u k ɨ ( - - ),jukɨ,GLOSA 3 PORT,AXBZ,BAS
+1318,j u k ɨ,GLOSS 3 ENGL,FALSE,árvore,121,PWT,GLOSA 2 ENGL,tree,jukɨ,PET,GLOSA 2 PORT,j u k ɨ ( - - ),jukɨ,GLOSA 3 PORT,AXBZ,DES
+1319,j u k ɨ,GLOSS 3 ENGL,FALSE,árvore,121,PWT,GLOSA 2 ENGL,tree,jukɨ,PET,GLOSA 2 PORT,j u k ɨ ( - - ),jukɨ,GLOSA 3 PORT,AXBZ,KAR
+1320,s ũ k i j̃ ɨ,GLOSS 3 ENGL,FALSE,árvore,121,PWT,GLOSA 2 ENGL,tree,sũkij̃ɨ,PET,GLOSA 2 PORT,s ũ k i ( j̃ ɨ ),sũkij̃ɨ,GLOSA 3 PORT,AXBYBZ,KOR
+1321,h o k ɨ,GLOSS 3 ENGL,FALSE,árvore,121,PWT,GLOSA 2 ENGL,tree,hokɨ,PET,GLOSA 2 PORT,h o k ɨ ( - - ),hokɨ,GLOSA 3 PORT,AXBZ,KUB
+1322,t o k ɨ,GLOSS 3 ENGL,FALSE,árvore,121,PWT,GLOSA 2 ENGL,tree,tokɨ,PET,GLOSA 2 PORT,t o k ɨ ( - - ),tokɨ,GLOSA 3 PORT,AXBZ,KUE
+1323,s ũ k i j̃ i,GLOSS 3 ENGL,FALSE,árvore,121,PWT,GLOSA 2 ENGL,tree,sũkij̃i,PET,GLOSA 2 PORT,s ũ k i ( j̃ i ),sũkij̃i,GLOSA 3 PORT,AXBYBZ,MAI
+1324,s õ k ɨ,GLOSS 3 ENGL,FALSE,árvore,121,PWT,GLOSA 2 ENGL,tree,sõkɨ,PET,GLOSA 2 PORT,s õ k ɨ ( - - ),sõkɨ,GLOSA 3 PORT,AXBZ,SEK
+1325,s ũ k i,GLOSS 3 ENGL,FALSE,árvore,121,PWT,GLOSA 2 ENGL,tree,sũki,PET,GLOSA 2 PORT,s ũ k i ( - - ),sũki,GLOSA 3 PORT,AXBZ,SIO
+1326,h ũ k ĩ,GLOSS 3 ENGL,FALSE,árvore,121,PWT,GLOSA 2 ENGL,tree,~huki,PET,GLOSA 2 PORT,h ũ k ĩ ( - - ),~huki,GLOSA 3 PORT,AXBZ,TAN
+1327,j u k ɨ,GLOSS 3 ENGL,FALSE,árvore,121,PWT,GLOSA 2 ENGL,tree,jukɨ,PET,GLOSA 2 PORT,j u k ɨ ( - - ),jukɨ,GLOSA 3 PORT,AXBZ,TUK
+1328,j u k ɨ,GLOSS 3 ENGL,FALSE,árvore,121,PWT,GLOSA 2 ENGL,tree,jukɨ,PET,GLOSA 2 PORT,j u k ɨ ( - - ),jukɨ,GLOSA 3 PORT,AXBZ,TUY
+1329,j u k ɨ,GLOSS 3 ENGL,FALSE,árvore,121,PWT,GLOSA 2 ENGL,tree,jukɨ,PET,GLOSA 2 PORT,j u k ɨ ( - - ),jukɨ,GLOSA 3 PORT,AXBZ,WAN
+1330,t j ũ k k ɨ,,TRUE,,121,,,tree,*tjũkkɨ,,,ts ũ kk ɨ ( - - ),,,AXBZ,*PT
+1331,u s i,GLOSS 3 ENGL,FALSE,inseto sp.,122,PWT,GLOSA 2 ENGL,insect sp.,usi,PET,GLOSA 2 PORT,- u s i ( - - ),usi,GLOSA 3 PORT,XBZ,BAS
+1332,s ũ s i,GLOSS 3 ENGL,FALSE,inseto sp.,122,PWT,GLOSA 2 ENGL,insect sp.,sũsi,PET,GLOSA 2 PORT,s ũ s i ( - - ),sũsi,GLOSA 3 PORT,AXBZ,KOR
+1333,h u h i,GLOSS 3 ENGL,FALSE,inseto sp.,122,PWT,GLOSA 2 ENGL,insect sp.,huhi,PET,GLOSA 2 PORT,h u h i ( - - ),huhi,GLOSA 3 PORT,AXBZ,KUB
+1334,t o s i,GLOSS 3 ENGL,FALSE,inseto sp.,122,PWT,GLOSA 2 ENGL,insect sp.,tosi,PET,GLOSA 2 PORT,t o s i ( - - ),to(o)si,GLOSA 3 PORT,AXBZ,KUE
+1335,s u s i,GLOSS 3 ENGL,FALSE,inseto sp.,122,PWT,GLOSA 2 ENGL,insect sp.,susi,PET,GLOSA 2 PORT,s u s i ( - - ),susi,GLOSA 3 PORT,AXBZ,SIO
+1336,j ĩ,GLOSS 3 ENGL,FALSE,inseto sp.,122,PWT,GLOSA 2 ENGL,insect sp.,jĩ,PET,GLOSA 2 PORT,j ĩ - - ( - - ),jĩ,GLOSA 3 PORT,AX,WAN
+1337,ts u ts i g a,GLOSS 3 ENGL,TRUE,inseto sp.,122,PWT,GLOSA 2 ENGL,insect sp.,tsutsiga,PET,GLOSA 2 PORT,ts u ts i ( g a ),tsutsiga,GLOSA 3 PORT,AXBYBZ,YUP
+1338,tj u s i,,FALSE,,122,,,insect sp.,*tjusi,,,ts u s i ( - - ),,,AXBZ,*PT
+1339,t o a,GLOSS 3 ENGL,FALSE,fruta sp.,123,PWT,GLOSA 2 ENGL,fruit sp.,toa,PET,GLOSA 2 PORT,t o a,toa,GLOSA 3 PORT,AXZ,BAS
+1340,th o a,GLOSS 3 ENGL,FALSE,fruta sp.,123,PWT,GLOSA 2 ENGL,fruit sp.,thoa,PET,GLOSA 2 PORT,th o a,thoa,GLOSA 3 PORT,AXZ,KOR
+1341,t o a,GLOSS 3 ENGL,FALSE,fruta sp.,123,PWT,GLOSA 2 ENGL,fruit sp.,toa,PET,GLOSA 2 PORT,t o a,toa,GLOSA 3 PORT,AXZ,KUB
+1342,t o a,GLOSS 3 ENGL,FALSE,fruta sp.,123,PWT,GLOSA 2 ENGL,fruit sp.,toa,PET,GLOSA 2 PORT,t o a,toa,GLOSA 3 PORT,AXZ,MAI
+1343,t o a,GLOSS 3 ENGL,FALSE,fruta sp.,123,PWT,GLOSA 2 ENGL,fruit sp.,toa,PET,GLOSA 2 PORT,t o a,toa,GLOSA 3 PORT,AXZ,SEK
+1344,t o a,GLOSS 3 ENGL,FALSE,fruta sp.,123,PWT,GLOSA 2 ENGL,fruit sp.,toa,PET,GLOSA 2 PORT,t o a,toa,GLOSA 3 PORT,AXZ,SIO
+1345,t o a,GLOSS 3 ENGL,FALSE,fruta sp.,123,PWT,GLOSA 2 ENGL,fruit sp.,toa,PET,GLOSA 2 PORT,t o a,toa,GLOSA 3 PORT,AXZ,TUK
+1346,th o a,GLOSS 3 ENGL,FALSE,fruta sp.,123,PWT,GLOSA 2 ENGL,fruit sp.,thoa,PET,GLOSA 2 PORT,th o a,thoa,GLOSA 3 PORT,AXZ,WAN
+1347,t o a,,TRUE,,123,,,fruit sp.,*toa,,,t o a,,,AXZ,*PT
+1348,t u t u,GLOSS 3 ENGL,FALSE,toco,124,PWT,"stick, club (sio, sek, mai, Kub)",stump,tutu,PET,"pau, porrete (sio, sek, mai, Kub)",t u ( t u - - ),tutu,GLOSA 3 PORT,AXBZ,BAS
+1349,t u d u,GLOSS 3 ENGL,FALSE,toco,124,PWT,"stick, club (sio, sek, mai, Kub)",stump,tudu,PET,"pau, porrete (sio, sek, mai, Kub)",t u ( d u - - ),tudu,GLOSA 3 PORT,AXBZ,DES
+1350,t u t u,GLOSS 3 ENGL,FALSE,toco,124,PWT,"stick, club (sio, sek, mai, Kub)",stump,tutu,PET,"pau, porrete (sio, sek, mai, Kub)",t u ( t u - - ),tutu,GLOSA 3 PORT,AXBZ,KAR
+1351,th u u,GLOSS 3 ENGL,FALSE,toco,124,PWT,"stick, club (sio, sek, mai, Kub)",stump,thuu,PET,"pau, porrete (sio, sek, mai, Kub)",th u ( - u - - ),thuu,GLOSA 3 PORT,AXZ,KOR
+1352,t u t u d i,GLOSS 3 ENGL,FALSE,toco,124,PWT,"stick, club (sio, sek, mai, Kub)",stump,tutudi,PET,"pau, porrete (sio, sek, mai, Kub)",t u ( t u d i ),tutudi,GLOSA 3 PORT,AXBYBZ,KUB
+1353,t u,GLOSS 3 ENGL,FALSE,toco,124,PWT,"stick, club (sio, sek, mai, Kub)",stump,tu,PET,"pau, porrete (sio, sek, mai, Kub)",t u ( - - - - ),tu,GLOSA 3 PORT,AX,MAI
+1354,t u,GLOSS 3 ENGL,FALSE,toco,124,PWT,"stick, club (sio, sek, mai, Kub)",stump,tu,PET,"pau, porrete (sio, sek, mai, Kub)",t u ( - - - - ),tu-,GLOSA 3 PORT,AX,SEK
+1355,t u,GLOSS 3 ENGL,FALSE,toco,124,PWT,"stick, club (sio, sek, mai, Kub)",stump,tu,PET,"pau, porrete (sio, sek, mai, Kub)",t u ( - - - - ),tu,GLOSA 3 PORT,AX,SIO
+1356,t u t u,GLOSS 3 ENGL,FALSE,toco,124,PWT,"stick, club (sio, sek, mai, Kub)",stump,tutu,PET,"pau, porrete (sio, sek, mai, Kub)",t u ( t u - - ),tutu,GLOSA 3 PORT,AXBZ,TUK
+1357,th u t u,GLOSS 3 ENGL,FALSE,toco,124,PWT,"stick, club (sio, sek, mai, Kub)",stump,thutu,PET,"pau, porrete (sio, sek, mai, Kub)",th u ( t u - - ),thutu,GLOSA 3 PORT,AXBZ,WAN
+1358,t u,,FALSE,,124,,,stump,*tu-,,,t u ( - - - - ),,,AX,*PT
+1359,u h u,GLOSS 3 ENGL,FALSE,pacu,125,PWT,GLOSA 2 ENGL,pacu fish,uhu,*uhu,GLOSA 2 PORT,- u h u,uhu,GLOSA 3 PORT,XBZ,BAS
+1360,u h u,GLOSS 3 ENGL,FALSE,pacu,125,PWT,GLOSA 2 ENGL,pacu fish,uhu,*uhu,GLOSA 2 PORT,- u h u,uhu,GLOSA 3 PORT,XBZ,DES
+1361,h o h u,GLOSS 3 ENGL,FALSE,pacu,125,PWT,GLOSA 2 ENGL,pacu fish,hohu,*uhu,GLOSA 2 PORT,h o h u,hohu,GLOSA 3 PORT,AXBZ,KUE
+1362,u h u,GLOSS 3 ENGL,FALSE,pacu,125,PWT,GLOSA 2 ENGL,pacu fish,uhu,*uhu,GLOSA 2 PORT,- u h u,uhu,GLOSA 3 PORT,XBZ,TUK
+1363,u h u,,FALSE,,125,,,pacu fish,*uhu,,,- u h u,,,XBZ,*PT
+1364,õ h ẽ,GLOSS 3 ENGL,FALSE,peito,126,PWT,GLOSA 2 ENGL,breast,~ohe,PET,GLOSA 2 PORT,- õ h ẽ ( - - ),~ohe,GLOSA 3 PORT,XBZ,BAS
+1365,ã p ĩ,GLOSS 3 ENGL,FALSE,peito,126,PWT,GLOSA 2 ENGL,breast,~api,PET,GLOSA 2 PORT,- ã p ĩ ( - - ),~api,GLOSA 3 PORT,XBZ,DES
+1366,ũ p ẽ,GLOSS 3 ENGL,FALSE,peito,126,PWT,GLOSA 2 ENGL,breast,~upe,PET,GLOSA 2 PORT,- ũ p ẽ ( - - ),~upe,GLOSA 3 PORT,XBZ,KAR
+1367,o h e,GLOSS 3 ENGL,FALSE,peito,126,PWT,GLOSA 2 ENGL,breast,ohe,PET,GLOSA 2 PORT,- o h e ( - - ),ohe,GLOSA 3 PORT,XBZ,KOR
+1368,o p e,GLOSS 3 ENGL,FALSE,peito,126,PWT,GLOSA 2 ENGL,breast,ope,PET,GLOSA 2 PORT,- o p e ( - - ),ope,GLOSA 3 PORT,XBZ,KUB
+1369,h u h e r i,GLOSS 3 ENGL,FALSE,peito,126,PWT,GLOSA 2 ENGL,breast,huheri,PET,GLOSA 2 PORT,h u h e ( r i ),huheri,GLOSA 3 PORT,AXBYBZ,KUE
+1370,o h e,GLOSS 3 ENGL,FALSE,peito,126,PWT,GLOSA 2 ENGL,breast,ohe,PET,GLOSA 2 PORT,- o h e ( - - ),ohe,GLOSA 3 PORT,XBZ,MAI
+1371,o h e,GLOSS 3 ENGL,FALSE,peito,126,PWT,GLOSA 2 ENGL,breast,ohe,PET,GLOSA 2 PORT,- o h e ( - - ),ohe,GLOSA 3 PORT,XBZ,SEK
+1372,o h e,GLOSS 3 ENGL,FALSE,peito,126,PWT,GLOSA 2 ENGL,breast,ohe,PET,GLOSA 2 PORT,- o h e ( - - ),ohe,GLOSA 3 PORT,XBZ,SIO
+1373,ũ ʔp e,GLOSS 3 ENGL,FALSE,peito,126,PWT,GLOSA 2 ENGL,breast,ũʔpe,PET,GLOSA 2 PORT,- ũ ʔp e ( - - ),ũʔpe,GLOSA 3 PORT,XBZ,TAN
+1374,õ p ẽ,GLOSS 3 ENGL,FALSE,peito,126,PWT,GLOSA 2 ENGL,breast,~ope,PET,GLOSA 2 PORT,- õ p ẽ ( - - ),~ope,GLOSA 3 PORT,XBZ,TUK
+1375,õ p ẽ ã,GLOSS 3 ENGL,FALSE,peito,126,PWT,GLOSA 2 ENGL,breast,~opea,PET,GLOSA 2 PORT,- õ p ẽ ( - ã ),~opea,GLOSA 3 PORT,XBYZ,TUY
+1376,p ẽ n õ,GLOSS 3 ENGL,FALSE,peito,126,PWT,GLOSA 2 ENGL,breast,~pedo,PET,GLOSA 2 PORT,- - p ẽ ( n õ ),~pedo,GLOSA 3 PORT,AXBZ,WAN
+1377,u p e,,FALSE,,126,,,breast,*upe,,,- u p e ( - - ),,,XBZ,*PT
+1378,u t i,GLOSS 3 ENGL,FALSE,caba,127,PWT,GLOSA 2 ENGL,wasp,uti,PET,GLOSA 2 PORT,- u t i -,uti,GLOSA 3 PORT,XBZ,BAS
+1379,u t i,GLOSS 3 ENGL,FALSE,caba,127,PWT,GLOSA 2 ENGL,wasp,uti,PET,GLOSA 2 PORT,- u t i -,uti,GLOSA 3 PORT,XBZ,DES
+1380,u t i,GLOSS 3 ENGL,FALSE,caba,127,PWT,GLOSA 2 ENGL,wasp,uti,PET,GLOSA 2 PORT,- u t i -,uti,GLOSA 3 PORT,XBZ,KAR
+1381,u th i,GLOSS 3 ENGL,FALSE,caba,127,PWT,GLOSA 2 ENGL,wasp,uthi,PET,GLOSA 2 PORT,- u th i -,uthi,GLOSA 3 PORT,XBZ,KOR
+1382,u t∫ i,GLOSS 3 ENGL,FALSE,caba,127,PWT,GLOSA 2 ENGL,wasp,ut∫i,PET,GLOSA 2 PORT,- u t∫ i -,ut∫i,GLOSA 3 PORT,XBZ,KUB
+1383,h u t i,GLOSS 3 ENGL,FALSE,caba,127,PWT,GLOSA 2 ENGL,wasp,huti,PET,GLOSA 2 PORT,h u t i -,huti,GLOSA 3 PORT,AXBZ,KUE
+1384,u t i,GLOSS 3 ENGL,FALSE,caba,127,PWT,GLOSA 2 ENGL,wasp,uti,PET,GLOSA 2 PORT,- u t i -,uti,GLOSA 3 PORT,XBZ,MAI
+1385,u t i,GLOSS 3 ENGL,FALSE,caba,127,PWT,GLOSA 2 ENGL,wasp,uti,PET,GLOSA 2 PORT,- u t i -,uti,GLOSA 3 PORT,XBZ,SEK
+1386,u t i,GLOSS 3 ENGL,FALSE,caba,127,PWT,GLOSA 2 ENGL,wasp,uti,PET,GLOSA 2 PORT,- u t i -,uti,GLOSA 3 PORT,XBZ,SIO
+1387,u t i,GLOSS 3 ENGL,FALSE,caba,127,PWT,GLOSA 2 ENGL,wasp,uti,PET,GLOSA 2 PORT,- u t i -,uti,GLOSA 3 PORT,XBZ,TAN
+1388,u t i,GLOSS 3 ENGL,FALSE,caba,127,PWT,GLOSA 2 ENGL,wasp,uti,PET,GLOSA 2 PORT,- u t i -,uti,GLOSA 3 PORT,XBZ,TUK
+1389,u t i a,GLOSS 3 ENGL,FALSE,caba,127,PWT,GLOSA 2 ENGL,wasp,utia,PET,GLOSA 2 PORT,- u t i a,utia,GLOSA 3 PORT,XBYZ,TUY
+1390,t i,GLOSS 3 ENGL,FALSE,caba,127,PWT,GLOSA 2 ENGL,wasp,ti,PET,GLOSA 2 PORT,- - t i -,ti,GLOSA 3 PORT,AX,WAN
+1391,u t t i,,TRUE,,127,,,wasp,*utti,,,- u tt i -,,,XBZ,*PT
+1392,w a j a,remove,FALSE,pescar com rede,128,PWT,strain,fish with a net,waja,PET,GLOSA 2 PORT,w a j a,waja,GLOSA 3 PORT,AXBZ,BAS
+1393,w a j a,remove,FALSE,pescar com rede,128,PWT,strain,fish with a net,waja,PET,GLOSA 2 PORT,w a j a,waja,GLOSA 3 PORT,AXBZ,DES
+1394,w a j o,remove,FALSE,pescar com rede,128,PWT,strain,fish with a net,wajo,PET,GLOSA 2 PORT,w a j o,wajo,GLOSA 3 PORT,AXBZ,KOR
+1395,b e j o,remove,FALSE,pescar com rede,128,PWT,strain,fish with a net,bejo,PET,GLOSA 2 PORT,b e j o,bejo,GLOSA 3 PORT,AXBZ,MAI
+1396,w a ʔs a,remove,FALSE,pescar com rede,128,PWT,strain,fish with a net,waʔsa,PET,GLOSA 2 PORT,w a ʔs a,waʔsa,GLOSA 3 PORT,AXBZ,TUK
+1397,w a ʔs a,remove,FALSE,pescar com rede,128,PWT,strain,fish with a net,waʔsa,PET,GLOSA 2 PORT,w a ʔs a,waʔsa,GLOSA 3 PORT,AXBZ,WAN
+1398,w a j a,,FALSE,,128,,,fish with a net,*waja,,,w a j a,,,AXBZ,*PT
+1399,w a j u,GLOSS 3 ENGL,FALSE,bochecha,129,PWT,GLOSA 2 ENGL,cheek,waju,PET,GLOSA 2 PORT,w a j u ( - - ),waju,GLOSA 3 PORT,AXBZ,BAS
+1400,w a ʔj u,GLOSS 3 ENGL,FALSE,bochecha,129,PWT,GLOSA 2 ENGL,cheek,waʔju,PET,GLOSA 2 PORT,w a ʔj u ( - - ),waʔju,GLOSA 3 PORT,AXBZ,DES
+1401,w a s o,GLOSS 3 ENGL,FALSE,bochecha,129,PWT,GLOSA 2 ENGL,cheek,waso,PET,GLOSA 2 PORT,w a s o ( - - ),waso,GLOSA 3 PORT,AXBZ,KAR
+1402,w a j o,GLOSS 3 ENGL,FALSE,bochecha,129,PWT,GLOSA 2 ENGL,cheek,wajo,PET,GLOSA 2 PORT,w a j o ( - - ),wajo,GLOSA 3 PORT,AXBZ,KOR
+1403,w ɨ o,GLOSS 3 ENGL,FALSE,bochecha,129,PWT,GLOSA 2 ENGL,cheek,wɨo,PET,GLOSA 2 PORT,w ɨ - o ( - - ),wɨo,GLOSA 3 PORT,AXZ,KUB
+1404,b a j o,GLOSS 3 ENGL,FALSE,bochecha,129,PWT,GLOSA 2 ENGL,cheek,bajo,PET,GLOSA 2 PORT,b a j o ( - - ),bajo,GLOSA 3 PORT,AXBZ,MAI
+1405,w a j o,GLOSS 3 ENGL,FALSE,bochecha,129,PWT,GLOSA 2 ENGL,cheek,wajo,PET,GLOSA 2 PORT,w a j o ( - - ),wajo,GLOSA 3 PORT,AXBZ,SEK
+1406,w a j o,GLOSS 3 ENGL,FALSE,bochecha,129,PWT,GLOSA 2 ENGL,cheek,wajo,PET,GLOSA 2 PORT,w a j o ( - - ),wajo,GLOSA 3 PORT,AXBZ,SIO
+1407,w a ʔs u,GLOSS 3 ENGL,FALSE,bochecha,129,PWT,GLOSA 2 ENGL,cheek,waʔsu,PET,GLOSA 2 PORT,w a ʔs u ( - - ),waʔsu,GLOSA 3 PORT,AXBZ,TUK
+1408,w a s o p u,GLOSS 3 ENGL,FALSE,bochecha,129,PWT,GLOSA 2 ENGL,cheek,wasopu,PET,GLOSA 2 PORT,w a s o ( p u ),wasopu,GLOSA 3 PORT,AXBYBZ,TUY
+1409,w a ʔs u,GLOSS 3 ENGL,FALSE,bochecha,129,PWT,GLOSA 2 ENGL,cheek,waʔsu,PET,GLOSA 2 PORT,w a ʔs u ( - - ),waʔsu,GLOSA 3 PORT,AXBZ,WAN
+1410,w a j o,,FALSE,,129,,,cheek,*wajo,,,w a j o ( - - ),,,AXBZ,*PT
+1411,w̃ ã m ẽ,GLOSS 3 ENGL,FALSE,nome,130,PWT,GLOSA 2 ENGL,name,~wabe,PET,GLOSA 2 PORT,w̃ ã m ẽ,~wabe,GLOSA 3 PORT,AXBZ,BAS
+1412,w̃ ã ĩ,GLOSS 3 ENGL,FALSE,nome,130,PWT,GLOSA 2 ENGL,name,~wai,PET,GLOSA 2 PORT,w̃ ã - ĩ,~wai,GLOSA 3 PORT,AXZ,DES
+1413,w̃ ã m ẽ,GLOSS 3 ENGL,FALSE,nome,130,PWT,GLOSA 2 ENGL,name,~wabe,PET,GLOSA 2 PORT,w̃ ã m ẽ,~wabe,GLOSA 3 PORT,AXBZ,KAR
+1414,m a m i,GLOSS 3 ENGL,FALSE,nome,130,PWT,GLOSA 2 ENGL,name,mami,PET,GLOSA 2 PORT,m a m i,mami,GLOSA 3 PORT,AXBZ,KOR
+1415,ã m ĩ,GLOSS 3 ENGL,FALSE,nome,130,PWT,GLOSA 2 ENGL,name,~abi,PET,GLOSA 2 PORT,- ã m ĩ,~abi,GLOSA 3 PORT,XBZ,KUB
+1416,m a m i,GLOSS 3 ENGL,FALSE,nome,130,PWT,GLOSA 2 ENGL,name,mami,PET,GLOSA 2 PORT,m a m i,mami,GLOSA 3 PORT,AXBZ,MAI
+1417,m a m i,GLOSS 3 ENGL,FALSE,nome,130,PWT,GLOSA 2 ENGL,name,mami,PET,GLOSA 2 PORT,m a m i,mami,GLOSA 3 PORT,AXBZ,SEK
+1418,m a m i,GLOSS 3 ENGL,FALSE,nome,130,PWT,GLOSA 2 ENGL,name,mami,PET,GLOSA 2 PORT,m a m i,mami,GLOSA 3 PORT,AXBZ,SIO
+1419,w̃ ã m ẽ,GLOSS 3 ENGL,FALSE,nome,130,PWT,GLOSA 2 ENGL,name,~wabe,PET,GLOSA 2 PORT,w̃ ã m ẽ,~wabe,GLOSA 3 PORT,AXBZ,TAN
+1420,w̃ ã m ẽ,GLOSS 3 ENGL,FALSE,nome,130,PWT,GLOSA 2 ENGL,name,~wabe,PET,GLOSA 2 PORT,w̃ ã m ẽ,~wabe,GLOSA 3 PORT,AXBZ,TUK
+1421,w̃ ã m ẽ,GLOSS 3 ENGL,FALSE,nome,130,PWT,GLOSA 2 ENGL,name,~wabe,PET,GLOSA 2 PORT,w̃ ã m ẽ,~wabe,GLOSA 3 PORT,AXBZ,TUY
+1422,w̃ ã m ã,GLOSS 3 ENGL,FALSE,nome,130,PWT,GLOSA 2 ENGL,name,~waba,PET,GLOSA 2 PORT,w̃ ã m ã,~waba,GLOSA 3 PORT,AXBZ,WAN
+1423,w ã m i,,FALSE,,130,,,name,*wãmi,,,w ã m i,,,AXBZ,*PT
+1424,w ã t i,GLOSS 3 ENGL,FALSE,ser mítico do mato,131,PWT,ancestral (kub),mythical being,wãti,PET,ancestral (kub),w ã t i,wãti,GLOSA 3 PORT,AXBZ,BAS
+1425,w ã t i,GLOSS 3 ENGL,FALSE,ser mítico do mato,131,PWT,ancestral (kub),mythical being,wãti,PET,ancestral (kub),w ã t i,wãti,GLOSA 3 PORT,AXBZ,DES
+1426,w ã t i,GLOSS 3 ENGL,FALSE,ser mítico do mato,131,PWT,ancestral (kub),mythical being,wãti,PET,ancestral (kub),w ã t i,wãti,GLOSA 3 PORT,AXBZ,KAR
+1427,w a th i,GLOSS 3 ENGL,FALSE,ser mítico do mato,131,PWT,ancestral (kub),mythical being,vathi,PET,ancestral (kub),w a th i,vathi,GLOSA 3 PORT,AXBZ,KOR
+1428,ã t∫ ĩ,GLOSS 3 ENGL,FALSE,ser mítico do mato,131,PWT,ancestral (kub),mythical being,~at∫i,PET,ancestral (kub),- ã t∫ ĩ,~at∫i,GLOSA 3 PORT,XBZ,KUB
+1429,ã i,GLOSS 3 ENGL,FALSE,ser mítico do mato,131,PWT,ancestral (kub),mythical being,ãi,PET,ancestral (kub),- ã - i,ãi,GLOSA 3 PORT,XZ,MAI
+1430,w a t i,GLOSS 3 ENGL,FALSE,ser mítico do mato,131,PWT,ancestral (kub),mythical being,wati,PET,ancestral (kub),w a t i,wati,GLOSA 3 PORT,AXBZ,SEK
+1431,w a t i,GLOSS 3 ENGL,FALSE,ser mítico do mato,131,PWT,ancestral (kub),mythical being,wati,PET,ancestral (kub),w a t i,wati,GLOSA 3 PORT,AXBZ,SIO
+1432,w ã t i,GLOSS 3 ENGL,FALSE,ser mítico do mato,131,PWT,ancestral (kub),mythical being,wãti,PET,ancestral (kub),w ã t i,wãti,GLOSA 3 PORT,AXBZ,TAN
+1433,w ã t i,GLOSS 3 ENGL,FALSE,ser mítico do mato,131,PWT,ancestral (kub),mythical being,wãti,PET,ancestral (kub),w ã t i,wãti,GLOSA 3 PORT,AXBZ,TUK
+1434,w ã t i,GLOSS 3 ENGL,FALSE,ser mítico do mato,131,PWT,ancestral (kub),mythical being,wãti,PET,ancestral (kub),w ã t i,wãti,GLOSA 3 PORT,AXBZ,WAN
+1435,w ã t t i,,TRUE,,131,,,mythical being,*wãtti,,,w ã tt i,,,AXBZ,*PT
+1436,w a i,GLOSS 3 ENGL,FALSE,peixe,132,PWT,GLOSA 2 ENGL,fish,wai,PET,fish sp. (kub?),w a - i,wai,GLOSA 3 PORT,AXZ,BAS
+1437,w a ʔ i,GLOSS 3 ENGL,FALSE,peixe,132,PWT,GLOSA 2 ENGL,fish,waʔi,PET,fish sp. (kub?),w a ʔ i,waʔi,GLOSA 3 PORT,AXBZ,DES
+1438,β a ʔ i,GLOSS 3 ENGL,FALSE,peixe,132,PWT,GLOSA 2 ENGL,fish,βaʔi,PET,fish sp. (kub?),w a ʔ i,βaʔi,GLOSA 3 PORT,AXBZ,KOR
+1439,w á w i,GLOSS 3 ENGL,FALSE,peixe,132,PWT,GLOSA 2 ENGL,fish,wáwi,PET,fish sp. (kub?),w á w i,wáwi,GLOSA 3 PORT,AXBZ,KUB
+1440,u a i,GLOSS 3 ENGL,FALSE,peixe,132,PWT,GLOSA 2 ENGL,fish,uai,PET,fish sp. (kub?),w a - i,uai,GLOSA 3 PORT,XYZ,KUE
+1441,b a i,GLOSS 3 ENGL,FALSE,peixe,132,PWT,GLOSA 2 ENGL,fish,bai,PET,fish sp. (kub?),b a - i,bai,GLOSA 3 PORT,AXZ,MAI
+1442,w a ʔ i,GLOSS 3 ENGL,FALSE,peixe,132,PWT,GLOSA 2 ENGL,fish,waʔi,PET,fish sp. (kub?),w a ʔ i,waʔi,GLOSA 3 PORT,AXBZ,SEK
+1443,w a ʔ i,GLOSS 3 ENGL,FALSE,peixe,132,PWT,GLOSA 2 ENGL,fish,waʔi,PET,fish sp. (kub?),w a ʔ i,waʔi,GLOSA 3 PORT,AXBZ,SIO
+1444,w a ʔ i,GLOSS 3 ENGL,FALSE,peixe,132,PWT,GLOSA 2 ENGL,fish,waʔi,PET,fish sp. (kub?),w a ʔ i,waʔi,GLOSA 3 PORT,AXBZ,TAN
+1445,w a ʔ i,GLOSS 3 ENGL,FALSE,peixe,132,PWT,GLOSA 2 ENGL,fish,waʔi,PET,fish sp. (kub?),w a ʔ i,waʔi,GLOSA 3 PORT,AXBZ,TUK
+1446,w a i,GLOSS 3 ENGL,FALSE,peixe,132,PWT,GLOSA 2 ENGL,fish,wai,PET,fish sp. (kub?),w a - i,wai,GLOSA 3 PORT,AXZ,TUY
+1447,w a ʔ i,GLOSS 3 ENGL,FALSE,peixe,132,PWT,GLOSA 2 ENGL,fish,waʔi,PET,fish sp. (kub?),w a ʔ i,waʔi,GLOSA 3 PORT,AXBZ,WAN
+1448,w a ʔ i,,FALSE,,132,,,fish,*waʔi,,,w a ʔ i,,,AXBZ,*PT
+1449,w e k ɨ,GLOSS 3 ENGL,FALSE,anta,133,PWT,GLOSA 2 ENGL,tapir,wekɨ,PET,GLOSA 2 PORT,w e k ɨ,wekɨ,GLOSA 3 PORT,AXBZ,BAS
+1450,w e k ɨ,GLOSS 3 ENGL,FALSE,anta,133,PWT,GLOSA 2 ENGL,tapir,wekɨ,PET,GLOSA 2 PORT,w e k ɨ,wekɨ,GLOSA 3 PORT,AXBZ,DES
+1451,β e kh ɨ,GLOSS 3 ENGL,FALSE,anta,133,PWT,GLOSA 2 ENGL,tapir,βekhɨ,PET,GLOSA 2 PORT,w e kh ɨ,βekhɨ,GLOSA 3 PORT,AXBZ,KOR
+1452,w e k ɨ,GLOSS 3 ENGL,FALSE,anta,133,PWT,GLOSA 2 ENGL,tapir,wekɨ,PET,GLOSA 2 PORT,w e k ɨ,wekɨ,GLOSA 3 PORT,AXBZ,KUB
+1453,u e k ɨ,GLOSS 3 ENGL,FALSE,anta,133,PWT,GLOSA 2 ENGL,tapir,uekɨ,PET,GLOSA 2 PORT,w e k ɨ,uekɨ,GLOSA 3 PORT,XYBZ,KUE
+1454,b e k ɨ,GLOSS 3 ENGL,FALSE,anta,133,PWT,GLOSA 2 ENGL,tapir,bekɨ,PET,GLOSA 2 PORT,b e k ɨ,bekɨ,GLOSA 3 PORT,AXBZ,MAI
+1455,w ẽ k ɨ,GLOSS 3 ENGL,FALSE,anta,133,PWT,GLOSA 2 ENGL,tapir,wẽkɨ,PET,GLOSA 2 PORT,w ẽ k ɨ,wẽkɨ,GLOSA 3 PORT,AXBZ,SEK
+1456,w e k ɨ,GLOSS 3 ENGL,FALSE,anta,133,PWT,GLOSA 2 ENGL,tapir,wekɨ,PET,GLOSA 2 PORT,w e k ɨ,wekɨ,GLOSA 3 PORT,AXBZ,SIO
+1457,w e k ɨ,GLOSS 3 ENGL,FALSE,anta,133,PWT,GLOSA 2 ENGL,tapir,wekɨ,PET,GLOSA 2 PORT,w e k ɨ,wekɨ,GLOSA 3 PORT,AXBZ,TUK
+1458,w e k ɨ,GLOSS 3 ENGL,FALSE,anta,133,PWT,GLOSA 2 ENGL,tapir,wekɨ,PET,GLOSA 2 PORT,w e k ɨ,wekɨ,GLOSA 3 PORT,AXBZ,TUY
+1459,w a t∫ ɨ,GLOSS 3 ENGL,FALSE,anta,133,PWT,GLOSA 2 ENGL,tapir,wat∫ɨ,PET,GLOSA 2 PORT,w a t∫ ɨ,wat∫ɨ,GLOSA 3 PORT,AXBZ,WAN
+1460,w e k k ɨ,,TRUE,,133,,,tapir,*wekkɨ,,,w e kk ɨ,,,AXBZ,*PT
+1461,w e k o,GLOSS 3 ENGL,FALSE,papagaio,134,PWT,GLOSA 2 ENGL,parrot,weko,PET,GLOSA 2 PORT,w e k o,weko,GLOSA 3 PORT,AXBZ,BAS
+1462,w e k o,GLOSS 3 ENGL,FALSE,papagaio,134,PWT,GLOSA 2 ENGL,parrot,weko,PET,GLOSA 2 PORT,w e k o,weko,GLOSA 3 PORT,AXBZ,DES
+1463,w e k o,GLOSS 3 ENGL,FALSE,papagaio,134,PWT,GLOSA 2 ENGL,parrot,weko,PET,GLOSA 2 PORT,w e k o,weko,GLOSA 3 PORT,AXBZ,KAR
+1464,w e k o,GLOSS 3 ENGL,FALSE,papagaio,134,PWT,GLOSA 2 ENGL,parrot,weko,PET,GLOSA 2 PORT,w e k o,weko,GLOSA 3 PORT,AXBZ,KOR
+1465,w e k o,GLOSS 3 ENGL,FALSE,papagaio,134,PWT,GLOSA 2 ENGL,parrot,weko,PET,GLOSA 2 PORT,w e k o,weko,GLOSA 3 PORT,AXBZ,KUB
+1466,b e k o,GLOSS 3 ENGL,FALSE,papagaio,134,PWT,GLOSA 2 ENGL,parrot,beko,PET,GLOSA 2 PORT,b e k o,beko,GLOSA 3 PORT,AXBZ,MAI
+1467,w e k o,GLOSS 3 ENGL,FALSE,papagaio,134,PWT,GLOSA 2 ENGL,parrot,weko,PET,GLOSA 2 PORT,w e k o,weko,GLOSA 3 PORT,AXBZ,SEK
+1468,w e k o,GLOSS 3 ENGL,FALSE,papagaio,134,PWT,GLOSA 2 ENGL,parrot,weko,PET,GLOSA 2 PORT,w e k o,weko,GLOSA 3 PORT,AXBZ,SIO
+1469,w e k o,GLOSS 3 ENGL,FALSE,papagaio,134,PWT,GLOSA 2 ENGL,parrot,weko,PET,GLOSA 2 PORT,w e k o,weko,GLOSA 3 PORT,AXBZ,TUK
+1470,w e k o,GLOSS 3 ENGL,FALSE,papagaio,134,PWT,GLOSA 2 ENGL,parrot,weko,PET,GLOSA 2 PORT,w e k o,weko,GLOSA 3 PORT,AXBZ,TUY
+1471,w a t∫ o,GLOSS 3 ENGL,FALSE,papagaio,134,PWT,GLOSA 2 ENGL,parrot,wat∫o,PET,GLOSA 2 PORT,w a t∫ o,wat∫o,GLOSA 3 PORT,AXBZ,WAN
+1472,w e k k o,,TRUE,,134,,,parrot,*wekko,,,w e kk o,,,AXBZ,*PT
+1473,w e c e,outside,FALSE,roça,135,PWT,village,garden,wece,PET,aldeia,w e ts e,wece,fora,AXBZ,BAS
+1474,w e s e,outside,FALSE,roça,135,PWT,village,garden,wese,PET,aldeia,w e s e,wese,fora,AXBZ,DES
+1475,w e ʔs e,outside,FALSE,roça,135,PWT,village,garden,weʔse,PET,aldeia,w e ʔs e,weʔse,fora,AXBZ,KOR
+1476,b e s e,outside,FALSE,roça,135,PWT,village,garden,bese,PET,aldeia,b e s e,bese,fora,AXBZ,MAI
+1477,β e ʔs e,outside,TRUE,roça,135,PWT,village,garden,βeʔse,PET,aldeia,w e ʔs e,βeʔse,fora,AXBZ,SEK
+1478,w e s e,outside,FALSE,roça,135,PWT,village,garden,wese,PET,aldeia,w e s e,wese,fora,AXBZ,TUK
+1479,w e s e,outside,FALSE,roça,135,PWT,village,garden,wese,PET,aldeia,w e s e,wese,fora,AXBZ,TUY
+1480,w e s e,outside,FALSE,roça,135,PWT,village,garden,wese,PET,aldeia,w e s e,wese,fora,AXBZ,WAN
+1481,w e s e,,FALSE,,135,,,garden,*wese,,,w e s e,,,AXBZ,*PT
+1482,w e i,GLOSS 3 ENGL,FALSE,jenipapo,136,PWT,GLOSA 2 ENGL,black_ink,wei,PET,GLOSA 2 PORT,w e - i,wei,GLOSA 3 PORT,AXZ,BAS
+1483,w e ʔ e,GLOSS 3 ENGL,FALSE,jenipapo,136,PWT,GLOSA 2 ENGL,jenipapo,weʔe,PET,GLOSA 2 PORT,w e ʔ e,weʔe,GLOSA 3 PORT,AXBZ,KOR
+1484,w e i,GLOSS 3 ENGL,FALSE,jenipapo,136,PWT,GLOSA 2 ENGL,black_ink,wei,PET,GLOSA 2 PORT,w e - i,wei,GLOSA 3 PORT,AXZ,KUB
+1485,w e ʔ e,,FALSE,,136,,,black_ink,*weʔe,,,w e ʔ e,,,AXBZ,*PT
+1486,m ĩ n õ,GLOSS 3 ENGL,FALSE,vento,137,PWT,GLOSA 2 ENGL,wind,̃bido,*wĩno,GLOSA 2 PORT,m ĩ n õ,~bido,GLOSA 3 PORT,AXBZ,BAS
+1487,m ĩ n ũ,GLOSS 3 ENGL,FALSE,vento,137,PWT,GLOSA 2 ENGL,wind,̃bidu,*wĩno,GLOSA 2 PORT,m ĩ n ũ,~bidu,GLOSA 3 PORT,AXBZ,DES
+1488,w̃ ĩ n õ,GLOSS 3 ENGL,FALSE,vento,137,PWT,GLOSA 2 ENGL,wind,̃wido,*wĩno,GLOSA 2 PORT,w̃ ĩ n õ,~wido,GLOSA 3 PORT,AXBZ,KAR
+1489,w̃ ĩ r̃ õ,GLOSS 3 ENGL,FALSE,vento,137,PWT,GLOSA 2 ENGL,wind,̃wiro,*wĩno,GLOSA 2 PORT,w ĩ r õ,~wiro,GLOSA 3 PORT,AXBZ,TAN
+1490,w̃ ĩ n õ,GLOSS 3 ENGL,FALSE,vento,137,PWT,GLOSA 2 ENGL,wind,̃wido,*wĩno,GLOSA 2 PORT,w ĩ n õ,~wido,GLOSA 3 PORT,AXBZ,TUK
+1491,w̃ ĩ n õ,GLOSS 3 ENGL,FALSE,vento,137,PWT,GLOSA 2 ENGL,wind,̃wido,*wĩno,GLOSA 2 PORT,w ĩ n õ,~wido,GLOSA 3 PORT,AXBZ,TUY
+1492,w̃ ĩ n õ,GLOSS 3 ENGL,FALSE,vento,137,PWT,GLOSA 2 ENGL,wind,̃wido,*wĩno,GLOSA 2 PORT,w ĩ n õ,~wido,GLOSA 3 PORT,AXBZ,WAN
+1493,u í n e,GLOSS 3 ENGL,FALSE,vento,137,PWT,GLOSA 2 ENGL,wind,uíne,*wĩno,GLOSA 2 PORT,w í n e,uíne,GLOSA 3 PORT,XYBZ,YUP
+1494,w ĩ n o,,FALSE,,137,,,wind,*wĩno,,,w ĩ n o,,,AXBZ,*PT
+1495,w i,GLOSS 3 ENGL,FALSE,casa,138,PWT,anthill,house,wi,PET,formigueiro,w i - - ( - - ),wi,GLOSA 3 PORT,AX,BAS
+1496,w i ʔ i,GLOSS 3 ENGL,FALSE,casa,138,PWT,anthill,house,wiʔi,PET,formigueiro,w i ʔ i ( - - ),wiʔi,GLOSA 3 PORT,AXBZ,DES
+1497,w i i,GLOSS 3 ENGL,FALSE,casa,138,PWT,anthill,house,wii,PET,formigueiro,w i - i ( - - ),wii,GLOSA 3 PORT,AXZ,KAR
+1498,β ɨ ʔ e,GLOSS 3 ENGL,FALSE,casa,138,PWT,anthill,house,βɨʔe,PET,formigueiro,w ɨ ʔ e ( - - ),βɨʔe,GLOSA 3 PORT,AXBZ,KOR
+1499,w ɨ e,GLOSS 3 ENGL,FALSE,casa,138,PWT,anthill,house,wɨe,PET,formigueiro,w ɨ - e ( - - ),wɨe,GLOSA 3 PORT,AXZ,KUB
+1500,w ɨ r i,GLOSS 3 ENGL,FALSE,casa,138,PWT,anthill,house,wɨri,PET,formigueiro,w ɨ - - ( r i ),wɨri,GLOSA 3 PORT,AXBZ,KUE
+1501,u e,GLOSS 3 ENGL,? is this alignment right ?,casa,138,PWT,anthill,house,ue,PET,formigueiro,- u - e ( - - ),ue,GLOSA 3 PORT,XZ,MAI
+1502,w ɨ ʔ e,GLOSS 3 ENGL,FALSE,casa,138,PWT,anthill,house,wɨʔe,PET,formigueiro,w ɨ ʔ e ( - - ),wɨʔe,GLOSA 3 PORT,AXBZ,SEK
+1503,w ɨ ʔ e,GLOSS 3 ENGL,FALSE,casa,138,PWT,anthill,house,wɨʔe,PET,formigueiro,w ɨ ʔ e ( - - ),wɨʔe,GLOSA 3 PORT,AXBZ,SIO
+1504,w i ʔ i,GLOSS 3 ENGL,FALSE,casa,138,PWT,anthill,house,wiʔi,PET,formigueiro,w i ʔ i ( - - ),wiʔi,GLOSA 3 PORT,AXBZ,TAN
+1505,w i ʔ i,GLOSS 3 ENGL,FALSE,casa,138,PWT,anthill,house,wiʔi,PET,formigueiro,w i ʔ i ( - - ),wiʔi,GLOSA 3 PORT,AXBZ,TUK
+1506,w i i,GLOSS 3 ENGL,FALSE,casa,138,PWT,anthill,house,wii,PET,formigueiro,w i - i ( - - ),wii,GLOSA 3 PORT,AXZ,TUY
+1507,w ɨ ʔ ɨ,GLOSS 3 ENGL,FALSE,casa,138,PWT,anthill,house,wɨʔɨ,PET,formigueiro,w ɨ ʔ ɨ ( - - ),wɨʔɨ,GLOSA 3 PORT,AXBZ,WAN
+1508,w ɨ ʔ e,,FALSE,,138,,,house,*wɨʔe,,,w ɨ ʔ e ( - - ),,,AXBZ,*PT
+1509,b ɨ h o,GLOSS 3 ENGL,FALSE,trovão,139,PWT,GLOSA 2 ENGL,thunder,bɨho,PET,GLOSA 2 PORT,( - ) b ɨ h o,bɨho,GLOSA 3 PORT,AXBZ,BAS
+1510,b u p u,GLOSS 3 ENGL,FALSE,trovão,139,PWT,GLOSA 2 ENGL,thunder,bupu,PET,GLOSA 2 PORT,( - ) b u p u,bupu,GLOSA 3 PORT,AXBZ,DES
+1511,õ p õ,GLOSS 3 ENGL,FALSE,trovão,139,PWT,GLOSA 2 ENGL,thunder,õpõ,PET,GLOSA 2 PORT,( - ) - õ p õ,õpõ,GLOSA 3 PORT,XBZ,KUB
+1512,m ɨ ʔh o,GLOSS 3 ENGL,FALSE,trovão,139,PWT,GLOSA 2 ENGL,thunder,mɨʔho,PET,GLOSA 2 PORT,( - ) m ɨ ʔh o,mɨʔho,GLOSA 3 PORT,AXBZ,KUE
+1513,m ɨ h a,GLOSS 3 ENGL,FALSE,trovão,139,PWT,GLOSA 2 ENGL,thunder,mɨha,PET,GLOSA 2 PORT,( - ) m ɨ h a,mɨha,GLOSA 3 PORT,AXBZ,MAI
+1514,m o h o,GLOSS 3 ENGL,FALSE,trovão,139,PWT,GLOSA 2 ENGL,thunder,moho,PET,GLOSA 2 PORT,( - ) m o h o,moho,GLOSA 3 PORT,AXBZ,SEK
+1515,m ɨ h o,GLOSS 3 ENGL,FALSE,trovão,139,PWT,GLOSA 2 ENGL,thunder,mɨho,PET,GLOSA 2 PORT,( - ) m ɨ h o,mɨho,GLOSA 3 PORT,AXBZ,SIO
+1516,a w ĩ ɸ o,GLOSS 3 ENGL,FALSE,trovão,139,PWT,GLOSA 2 ENGL,thunder,awĩpo,PET,GLOSA 2 PORT,( a ) w ĩ ɸ o,awĩpo,GLOSA 3 PORT,XBYBZ,TAN
+1517,b ɨ p o,GLOSS 3 ENGL,FALSE,trovão,139,PWT,GLOSA 2 ENGL,thunder,bɨpo,PET,GLOSA 2 PORT,( - ) b ɨ p o,bɨpo,GLOSA 3 PORT,AXBZ,TUK
+1518,b ɨ p o,GLOSS 3 ENGL,FALSE,trovão,139,PWT,GLOSA 2 ENGL,thunder,bɨpo,PET,GLOSA 2 PORT,( - ) b ɨ p o,bɨpo,GLOSA 3 PORT,AXBZ,TUY
+1519,w ɨ p o,GLOSS 3 ENGL,FALSE,trovão,139,PWT,GLOSA 2 ENGL,thunder,wɨpo,PET,GLOSA 2 PORT,( - ) w ɨ p o,wɨpo,GLOSA 3 PORT,AXBZ,WAN
+1520,w ɨ̃ p o,,FALSE,,139,,,thunder,*wɨ̃po,,,( - ) w ɨ̃ p o,,,AXBZ,*PT
+1521,b u u,GLOSS 3 ENGL,FALSE,cutia,140,PWT,GLOSA 2 ENGL,agouti,buu,PET,GLOSA 2 PORT,b u u,buu,GLOSA 3 PORT,AXZ,BAS
+1522,b u i,GLOSS 3 ENGL,FALSE,cutia,140,PWT,GLOSA 2 ENGL,agouti,bui,PET,GLOSA 2 PORT,b u i,bui,GLOSA 3 PORT,AXZ,DES
+1523,b u u,GLOSS 3 ENGL,FALSE,cutia,140,PWT,GLOSA 2 ENGL,agouti,buu,PET,GLOSA 2 PORT,b u u,buu,GLOSA 3 PORT,AXZ,KAR
+1524,β ɨ ɨ,GLOSS 3 ENGL,FALSE,cutia,140,PWT,GLOSA 2 ENGL,agouti,βɨɨ,PET,GLOSA 2 PORT,w ɨ ɨ,βɨɨ,GLOSA 3 PORT,AXZ,KOR
+1525,b u ɨ,GLOSS 3 ENGL,FALSE,cutia,140,PWT,GLOSA 2 ENGL,agouti,buɨ,PET,GLOSA 2 PORT,b u ɨ,buɨ,GLOSA 3 PORT,AXZ,KUB
+1526,w ɨ,GLOSS 3 ENGL,FALSE,cutia,140,PWT,GLOSA 2 ENGL,agouti,wɨ,PET,GLOSA 2 PORT,w ɨ -,wɨ,GLOSA 3 PORT,AX,SEK
+1527,w ɨ,GLOSS 3 ENGL,FALSE,cutia,140,PWT,GLOSA 2 ENGL,agouti,wɨ,PET,GLOSA 2 PORT,w ɨ -,wɨ,GLOSA 3 PORT,AX,SIO
+1528,b u i,GLOSS 3 ENGL,FALSE,cutia,140,PWT,GLOSA 2 ENGL,agouti,bui,PET,GLOSA 2 PORT,b u i,bui,GLOSA 3 PORT,AXZ,TAN
+1529,b u u,GLOSS 3 ENGL,FALSE,cutia,140,PWT,GLOSA 2 ENGL,agouti,buu,PET,GLOSA 2 PORT,b u u,buu,GLOSA 3 PORT,AXZ,TUK
+1530,b u u,GLOSS 3 ENGL,FALSE,cutia,140,PWT,GLOSA 2 ENGL,agouti,buu,PET,GLOSA 2 PORT,b u u,buu,GLOSA 3 PORT,AXZ,WAN
+1531,w u ɨ,,TRUE,,140,,,agouti,*wuɨ,,,w u ɨ,,,AXZ,*PT
+1532,ŋ ɨ̃ t ã,GLOSS 3 ENGL,FALSE,pedra,141,PWT,GLOSA 2 ENGL,stone,~gɨta,PET,GLOSA 2 PORT,ŋ ɨ̃ t ã,~gɨta,GLOSA 3 PORT,AXBZ,BAS
+1533,ɨ̃ t ã,GLOSS 3 ENGL,FALSE,pedra,141,PWT,GLOSA 2 ENGL,stone,~ɨta,PET,GLOSA 2 PORT,- ɨ̃ t ã,~ɨta,GLOSA 3 PORT,XBZ,DES
+1534,ɨ̃ t ã,GLOSS 3 ENGL,FALSE,pedra,141,PWT,GLOSA 2 ENGL,stone,~ɨta,PET,GLOSA 2 PORT,- ɨ̃ t ã,~ɨta,GLOSA 3 PORT,XBZ,KAR
+1535,k a th a,GLOSS 3 ENGL,FALSE,pedra,141,PWT,GLOSA 2 ENGL,stone,katha,PET,GLOSA 2 PORT,k a th a,katha,GLOSA 3 PORT,AXBZ,KOR
+1536,k ɨ̃ t ã,GLOSS 3 ENGL,FALSE,pedra,141,PWT,GLOSA 2 ENGL,stone,~kɨta,PET,GLOSA 2 PORT,k ɨ̃ t ã,~kɨta,GLOSA 3 PORT,AXBZ,PIR
+1537,k ɨ n a,GLOSS 3 ENGL,FALSE,pedra,141,PWT,GLOSA 2 ENGL,stone,kɨna,PET,GLOSA 2 PORT,k ɨ n a,kɨna,GLOSA 3 PORT,AXBZ,SEK
+1538,kʔ a t a,GLOSS 3 ENGL,TRUE,pedra,141,PWT,GLOSA 2 ENGL,stone,kʔata,PET,GLOSA 2 PORT,kʔ a t a,kʔata,GLOSA 3 PORT,AXBZ,SIO
+1539,ã t a,GLOSS 3 ENGL,FALSE,pedra,141,PWT,GLOSA 2 ENGL,stone,ãta,PET,GLOSA 2 PORT,- ã t a,ãta,GLOSA 3 PORT,XBZ,TAN
+1540,ɨ̃ t ã,GLOSS 3 ENGL,FALSE,pedra,141,PWT,GLOSA 2 ENGL,stone,~ɨta,PET,GLOSA 2 PORT,- ɨ̃ t ã,~ɨta,GLOSA 3 PORT,XBZ,TUK
+1541,ɨ̃ t ã,GLOSS 3 ENGL,FALSE,pedra,141,PWT,GLOSA 2 ENGL,stone,~ɨta,PET,GLOSA 2 PORT,- ɨ̃ t ã,~ɨta,GLOSA 3 PORT,XBZ,TUY
+1542,g ɨ l ɨ,GLOSS 3 ENGL,FALSE,pedra,141,PWT,GLOSA 2 ENGL,stone,gɨlɨ,PET,GLOSA 2 PORT,g ɨ r ɨ,gɨlɨ,GLOSA 3 PORT,AXBZ,YUP
+1543,kʔ ɨ̃ t a,,TRUE,,141,,,stone,*kʔɨ̃ta,,,kʔ ɨ̃ t a,,,AXBZ,*PT
