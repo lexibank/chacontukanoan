@@ -91,12 +91,11 @@ class Dataset(pylexibank.Dataset):
                 row['DOCULECT'] = "ProtoT"
 
             c_id = concept_lookup[row['CONCEPT']]
-            lex = args.writer.add_form_with_segments(
+            lex = args.writer.add_form(
                 Language_ID=row['DOCULECT'],
                 Parameter_ID=c_id,
                 Value=row['IPA'],
                 Form=row['IPA'],
-                Segments=row['TOKENS'].split(),
                 Source=['Chacon2014'],
             )
             # add cognates -- make sure Cognateset_ID is global!
