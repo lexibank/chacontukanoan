@@ -1,0 +1,99 @@
+Grapheme	IPA	UNICODE	SCA	FREQUENCY	EXAMPLES
+^	NULL	NULL		1542	g.o;g.o;o;o;k.o
+$	NULL	NULL		1542	g.o;g.o;o;o;k.o
+(	NULL	NULL		0	
+)	NULL	NULL		0	
+*	NULL	NULL		0	
+.	NULL	NULL		4114	g.o;g.o;k.o;k.o;g.o
+?	NULL	NULL		0	
+~	NULL	NULL		0	
+a	a	U+0061	A	504	h.a.j.a;h.a.j.a;ã.j.a;a.ts.i;a.s.i
+á	a	U+00e1	A	3	p.á.p.i;p.á.j.a;w.á.w.i
+ã	ã	U+00e3	A	281	ã.ɲ.ã;ã.ɲ.ã;ã.ɲ.ã;ã.ɲ.ã;ã.ɲ.ã
+ɸ	ɸ	U+0278	B	13	k.o.ɸ.e;o.ɸ.i;ɸ.ĩ.ɸ.i;ɸ.ĩ.ɸ.i;ɸ.a.k.i
+β	β	U+03b2	B	0	
+c	c	U+0063	C	0	
+ts	ts	U+0074 U+0073	C	27	a.ts.i;a.h.ts.i.a.m.a;a.ts.ɨ;m.ã.ts.ĩ;m.ɨ.ts.a
+tsʔ	tsˀ		C	12	tsʔ.ã.kʔ.ɨ;tsʔ.a.s.e;tsʔ.e.m.e;tsʔ.ĩ;tsʔ.i.a
+e	e	U+0065	E	369	r.e;d.e;r.e;r.e;d.e
+ẽ	ẽ	U+1EBD	E	134	ĩ.ŋ.ẽ;ɨ̃.k.ẽ;õ.m.ẽ;ẽ.ʔk.ẽ;ẽ.ʔk.ẽ
+h	h	U+0068	H	215	h.a.j.a;h.a.t.ɨ;h.a.ʔs.u;a.h.ts.i.a.m.a;j.e.h.e
+ʔ	ʔ	U+0294	H	66	j.i.ʔ.o.b.o;j.ɨ.ʔ.o;j.i.ʔ.o.b.o;j.ɨ.ʔ.o;j.ʔ.o.t.a.h.e
+hj	hʲ		H	1	m.u.hj.a
+ʔh	ˀh	U+0294 U+0068	H	3	k.õ.ʔh.ĩ;h.i.ʔh.i.a;m.ɨ.ʔh.o
+ʔw	ʔʷ	U+0294 U+0077	H	2	s.i.ʔw.i;t∫.i.ʔw.i
+i	i	U+0069	I	393	b.i;p.i;p.i;a.ts.i;a.s.i
+í	í/i	U+00ed	I	1	w.í.n.e
+ĩ	ĩ	U+0129	I	158	m.ĩ;m.ĩ;m.ĩ;ĩ.ŋ.ẽ;ĩ.ʔŋ.ĩ
+ɨ	ɨ	U+0268	I	299	b.ɨ;b.ɨ;w.ɨ;w.ɨ;w.ɨ
+ɨ́	ɨ	U+0268 U+0301	I	1	ɨ́.j.a.i
+ɨ̃	ɨ̃	U+0268 U+0303	I	130	ɨ̃.k.ẽ;ɨ̃.kh.e;ɨ̃.kwʔ.e;ɨ̃.m.ɨ̃;ɨ̃.m.ɨ̃
+j	j	U+006a	J	182	h.a.j.a;ã.j.a;ɨ.j.e;ɨ.j.e;ɨ́.j.a.i
+y	j		J	0	
+jʔ	jˀ		J	0	
+j̃	j̃	U+006a U+0303	J	2	s.ũ.k.i.j̃.ɨ;s.ũ.k.i.j̃.i
+ʔj	ˀj		J	4	ɨ.ʔj.e;p.a.ʔj.a;s.ɨ.ʔj.o;w.a.ʔj.u
+g	g	U+0067	K	28	g.o;g.o;g.o;g.o;ɨ.g.ɨ
+k	k	U+006b	K	270	k.o;k.o;k.o;ɨ̃.k.ẽ;ũ.e.k.a
+kh	kʰ	U+006b U+0068	K	22	ɨ̃.kh.e;kh.ũ.n.ũ;kh.õ.h.ĩ;kh.õ.ʔ.ã;kh.ã.n.ĩ
+ki	kʲ		K	0	
+kj	kʲ		K	4	kj.ã.ũ;m.e.kj.a;p.o.r.e.kj.a;h.e.kj.a
+kk	kː	U+006b U+006b	K	8	j.ẽ.kk.u;o.kk.o;pʔ.e.kk.o;tʔ.ɨ.kk.ɨ;t.a.kk.e
+kw	kʷ	U+006b U+0077	K	7	ũ.kw.e;õ.kw.e;ũ.kw.e;kw.ẽ.s.o;kw.e.s.o
+kʔ	kˀ		K	25	kʔ.o;ɲ.ã.kʔ.i;kʔ.ã.h.o;kʔ.ã.pʔ.o;kʔ.ɨ̃.õ
+ʔg	ˀg		K	1	j.a.ʔg.e
+ʔk	ˀk		K	11	ẽ.ʔk.ẽ;ã.ʔk.ĩ;ɲ.ã.ʔk.ĩ;k.u.ʔk.u;n.ɨ̃.ʔk.ã
+kwʔ	kʷˀ		K	2	ɨ̃.kwʔ.e;kwʔ.e.s.o
+ʔkh	ˀkʰ		K	1	h.ĩ.ʔkh.o
+l	l	U+006c	L	0	
+m	m	U+006d	M	289	m.ĩ;m.ĩ;m.ĩ;a.h.ts.i.a.m.a;k.o.m.e
+ʔm	ˀm		M	11	ɲ.ã.ʔm.õ;ɲ.ã.ʔm.ũ;ɲ.ã.ʔm.ũ;ɲ.ã.ʔm.ũ;õ.ʔm.ẽ
+̃b	m		M	0	
+n	n	U+006e	N	156	n.õ;ɨ̃.n.ẽ;ɨ̃.n.ĩ;ɨ̃.n.ẽ;ɨ.n.e
+ŋ	ŋ	U+014b	N	19	ĩ.ŋ.ẽ;ɲ.ĩ.ŋ.ã;ŋ.ã.m.õ;ŋ.ã.m.ĩ;ŋ.ã.h.o
+ɲ	ɲ	U+0272	N	76	ã.ɲ.ã;ã.ɲ.ã;ã.ɲ.ã;ã.ɲ.ã;ã.ɲ.ã
+ʔn	ˀn		N	6	ɨ.ʔn.e;õ.ʔn.ẽ;k.ũ.ʔn.ĩ;m.ɨ̃.ʔn.õ;m.ɨ̃.ʔn.õ
+ʔŋ	ˀŋ		N	2	ĩ.ʔŋ.ĩ;ã.ʔŋ.ĩ
+̃d	n		N	0	
+b	b	U+0062	P	107	b.ɨ;b.ɨ;b.i;j.e.b.a;j.e.b.a
+p	p	U+0070	P	149	p.ɨ;p.i;p.i;ɲ.ã.p.ĩ;ɲ.ã.p.ĩ
+bʔ	bˀ		P	0	
+ph	pʰ	U+0070 U+0068	P	5	ph.ɨ.k.ɨ;ph.i.t∫.a;ph.i.t.a;ph.i.t∫.o;ph.o.t.a
+pʔ	pˀ		P	38	pʔ.ɨ;ɲ.ã.pʔ.o;j.e.pʔ.a;kʔ.ã.pʔ.o;kʔ.ɨ.pʔ.o
+ʔb	ˀb		P	1	g.u.ʔb.u
+ʔp	ˀp		P	7	ɲ.ã.ʔp.ĩ;j.e.ʔp.a;j.a.ʔp.a;ũ.ʔp.ũ;d.ɨ.ʔp.o
+r	ɾ	U+0072	R	79	r.e;r.e;r.e;r.e;r.e
+r̃	ɾ̃	U+0072 U+0303	R	1	s.ɨ̃.m.ẽ.r̃.ẽ
+ʔr	ˀɾ		R	2	m.ĩ.ʔr.õ;s.i.s.i.k.o.ʔr.o.r.o
+ʔr̃	ˀɾ̃		R	0	
+s	s	U+0073	S	194	a.s.i;a.s.i;a.s.u;a.s.i;a.s.i
+∫	ʃ	U+222b	S	0	
+sʔ	sˀ		S	16	sʔ.ã.k.i;sʔ.e.m.e;sʔ.e.m.e;sʔ.i;sʔ.i.a
+ʔs	ˀs	U+0294 U+0073	S	16	h.a.ʔs.u;ɨ.ʔs.e;m.a.ʔs.i;p.a.ʔs.a;p.a.ʔs.a
+d	d	U+0064	T	86	d.e;d.e;d.e;d.o;d.o
+t	t	U+0074	T	201	h.a.t.ɨ;i.t.i.a;i.t.i.a;t.i.a;j.ɨ.t.a
+th	tʰ	U+0074 U+0068	T	15	m.ɨ.th.e;o.th.e;h.ɨ̃.th.ɨ;th.u._.s.a.ʔk.a;th.o.th.o
+tj	tʲ		T	1	kw.e.tj.u
+tt	tː	U+0074 U+0074	T	6	n.i.tt.i;o.tt.e;tʔ.ɨ.tt.e;tsʔ.i.tt.a;u.tt.i
+tʃ	tʃ	U+0074 U+0283	T	0	
+tʔ	tˀ		T	14	tʔ.e;tʔ.o;ɨ.tʔ.i.a;kʔ.ɨ.tʔ.a;kw.ɨ.tʔ.e
+t∫	tʃ		T	37	a.t∫.u;ɲ.ɨ̃.t∫.ɨ̃;ɲ.ɨ̃.t∫.ɨ̃;k.a.t∫.a;m.ã.t∫.ɨ̃
+ʔd	ˀd		T	2	ɨ.ʔd.e;p.e.ʔd.e.a
+ʔt	ˀt		T	13	i.ʔt.i.a;j.u.ʔt.a;k.ɨ.ʔt.a;ɨ.ʔt.a;k.o.ʔt.e
+ʔth	ˀtʰ		T	1	r.u.ʔth.e
+o	o	U+006f	U	399	g.o;g.o;o;o;k.o
+õ	õ	U+00f5	U	129	n.õ;õ.kw.e;õ.m.ẽ;ɲ.ã.m.õ;ɲ.ã.ʔm.õ
+v	w	U+0077	W	0	
+w	w	U+0077	W	117	w.ɨ;w.ɨ;w.ɨ;j.a.w.i;a.w.i.m.e.k.ɨ
+w̃	w̃	U+0077 U+0303	W	10	w̃.ĩ.ʔm.ĩ;w̃.ã.j.ĩ.ã;w̃.ã.m.ẽ;w̃.ã.ĩ;w̃.ã.m.ẽ
+~w	w̃	U+0077 U+0303	W	0	
+̃w	w̃	U+0077 U+0303	W	0	
+u	u	U+0075	Y	174	a.s.u;a.t∫.u;h.a.ʔs.u;j.a.u;j.ẽ.k.u.ɨ
+ú	ú/u	U+00fa	Y	2	n.ú;h.ú.i
+ũ	ũ	U+0169	Y	91	ũ.e.k.a;ũ.kw.e;ũ.kw.e;m.ũ.n.ĩ;ɲ.ã.m.ũ
++	+	U+002b	_	0	
+-	+		_	0	
+_	+	U+005f	_	5	m.ã.s.ĩ._.s.õ.a;t.u.u._.s.ã.k.ẽ;th.u._.s.a.ʔk.a;m.ẽ.n.ẽ._.ĩ.ʔs.ĩ;d.i.a._.p.o.a
++_	+		_	0	
+__	+	U+005f U+005f	_	0	
+___	+	U+005f U+005f U+005f	_	0
