@@ -34,9 +34,9 @@ This dataset is based on https://github.com/glottobank/lexibank-data/tree/master
 - **Cognacy:** 1,542 cognates in 149 cognate sets (8 singletons)
 - **Cognate Diversity:** 0.01
 - **Invalid lexemes:** 0
-- **Tokens:** 5,694
-- **Segments:** 59 (0 BIPA errors, 0 CTLS sound class errors, 59 CLTS modified)
-- **Inventory size (avg):** 29.25
+- **Tokens:** 5,656
+- **Segments:** 68 (0 BIPA errors, 0 CTLS sound class errors, 68 CLTS modified)
+- **Inventory size (avg):** 30.06
 
 # Contributors
 
