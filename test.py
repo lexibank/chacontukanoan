@@ -24,24 +24,30 @@ def test_alignments(cldf_dataset):
 
     The alignments should:
     - Have a fixed number of columns for a given cognate set
+    - Not contain the character �, which signals a segmentation error
     - Have the same segments as the corresponding form
     """
     cog_table = cldf_dataset["CognateTable"]
     forms = {r["ID"]: r["Segments"] for r in cldf_dataset["FormTable"]}
     alignment_lengths = {}
     for row in cog_table:
+        alignment = row["Alignment"]
+        assert "�" not in alignment, "Segmentation error in {} (at form ID: {})" \
+            .format(alignment, form_id)
         id = row["Cognateset_ID"]
-        length = len(row["Alignment"])
+        length = len(alignment)
         if id in alignment_lengths:
             assert alignment_lengths[id] == length, \
-                "Invalid alignment length," \
-                "this is probably due to re-tokenization of alignments"
+                "Invalid alignment length  (at cognateset ID: {} for cognate {})" \
+                .format(id, row["ID"])
+        else:
+            alignment_lengths[id] = length
         form_id = row["Form_ID"]
         segmented = forms[form_id]
-        stripped_alignment = [s for s in row["Alignment"] if s not in "-()"]
+        stripped_alignment = [s for s in alignment if s not in "-()"]
         assert stripped_alignment == segmented, \
-            "The alignment and the form should not have different segments (at ID: {})" \
-                .format(form_id)
+            "The alignment and the form should not have different segments (at form ID: {})" \
+            .format(form_id)
 
 
 def test_parameters(cldf_dataset):

@@ -7,33 +7,9 @@ from pylexibank.util import getEvoBibAsBibtex
 from segments import Tokenizer
 
 
-# Customize your basic data.
-# if you need to store other data in columns than the lexibank defaults, then over-ride
-# the table type (pylexibank.[Language|Lexeme|Concept|Cognate|]) and add the required columns e.g.
-#
-# import attr
-#
-# @attr.s
-# class Concept(pylexibank.Concept):
-#    MyAttribute1 = attr.ib(default=None)
-
-
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "chacontukanoan"
-
-    # register custom data types here (or language_class, lexeme_class, cognate_class):
-    # concept_class = Concept
-
-    # define the way in which forms should be handled
-    # form_spec = pylexibank.FormSpec(
-    #     brackets={"(": ")"},  # characters that function as brackets
-    #     separators=";/,",  # characters that split forms e.g. "a, b".
-    #     missing_data=('?', '-'),  # characters that denote missing data.
-    #     strip_inside_brackets=True,
-    #     first_form_only = True
-    #     # do you want data removed in brackets or not?
-    # )
 
     def cmd_download(self, args):
         """
@@ -58,35 +34,34 @@ class Dataset(pylexibank.Dataset):
         of this object to add data.
         """
         data = self.raw_dir.read_csv('tukano.csv', dicts=True)
-        ortho_profile = self.orthography_profile_dict[None]
-        tokenizer = Tokenizer(profile=ortho_profile)
+        args.writer.add_sources()
 
-        def _tokenized_alignment(alignment):
-            """ Generator of re-tokenized aligned segments.
+        # Get our own tokenizer from the orthography profile
+        # because of multi-profile support, the orthography profile dict
+        # has a single item, keyed by `None`.
+        tokenizer = Tokenizer(profile=self.orthography_profile_dict[None])
 
-            Alignment characters need to be re-tokenized due to changes
+        def _re_tokenize(segmented):
+            """ Generator of re-tokenized sequences.
+
+            Used to re-tokenize alignments, which is needed due to changes
             in the orthography profile
 
             Args:
-                alignment: list of strings
+                segmented: list of strings
 
             Generates: tokenized segments
             """
             preserve_chars = {"(", ")", "-"}
-            for seg in alignment:
+            for seg in segmented:
                 if seg in preserve_chars:
                     yield seg
                 else:
-                    for seg in tokenizer(seg, column='IPA').split(" "):
+                    normalized = self.form_for_segmentation(seg)
+                    tokenized = tokenizer(normalized, column='IPA')
+                    for seg in tokenized.split(" "):
                         yield seg
 
-        args.writer.add_sources()
-        # short cut to add concepts and languages, provided your name spaces
-        # match lexibank's expected format.
-        # args.writer.add_concepts()
-        # args.writer.add_languages()
-
-        # if not, then here is a more detailed way to do it:
         concept_lookup = {}
         for concept in self.conceptlists[0].concepts.values():
             c_id = "{0}-{1}".format(concept.id.split("-")[-1],
@@ -110,9 +85,6 @@ class Dataset(pylexibank.Dataset):
 
         # add data
         for row in pylexibank.progressbar(data):
-            # .. if you have segmentable data, replace `add_form` with `add_form_with_segments`
-            # .. TODO @Mattis, when should we use add_forms_from_value() instead?
-
             language_id = language_lookup[row['DOCULECT']]
             c_id = concept_lookup[row['CONCEPT']]
 
@@ -121,7 +93,8 @@ class Dataset(pylexibank.Dataset):
             # the correct notation is in the alignments
             tokens = row['TOKENS'].split()
             alignment = row["ALIGNMENT"].split(" ")
-            stripped_alignments = [s for s in alignment if s not in {"(", "-", ")"}]
+            stripped_alignments = [s for s in alignment if
+                                   s not in {"(", "-", ")"}]
             if tokens != stripped_alignments:
                 tokens = stripped_alignments
 
@@ -139,7 +112,7 @@ class Dataset(pylexibank.Dataset):
                 lexeme=lex,
                 Cognateset_ID='{0}-{1}'.format(c_id, row['COGID']),
                 Source=['Chacon2014'],
-                Alignment=list(_tokenized_alignment(alignment)),
+                Alignment=list(_re_tokenize(alignment)),
                 Alignment_Method="expert",
                 Alignment_Source="Chacon2014",
             )
