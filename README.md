@@ -20,6 +20,7 @@ This dataset is based on https://github.com/glottobank/lexibank-data/tree/master
 ## Statistics
 
 
+[![Build Status](https://travis-ci.org/lexibank/chacontukanoan.svg?branch=master)](https://travis-ci.org/lexibank/chacontukanoan)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 91%](https://img.shields.io/badge/Concepticon-91%25-green.svg "Concepticon: 91%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")

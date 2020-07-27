@@ -12,13 +12,13 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Chacon's \"A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification\" from 2014",
-    "dcat:accessURL": "git@github.com:lexibank/chacontukanoan",
+    "dcat:accessURL": "https://github.com/lexibank/chacontukanoan",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "git@github.com:lexibank/chacontukanoan",
-            "dc:created": "5396444"
+            "rdf:about": "https://github.com/lexibank/chacontukanoan",
+            "dc:created": "f617194"
         },
         {
             "rdf:type": "prov:Entity",
@@ -42,7 +42,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.6.9"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",
