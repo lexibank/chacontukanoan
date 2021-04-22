@@ -8,12 +8,6 @@
     "creators": [
         {
             "name": "Thiago Costa Chacon"
-        },
-        {
-            "name": "Tiago Tresoldi"
-        },
-        {
-            "name": "Sacha Beniamine"
         }
     ],
     "contributors": [
@@ -22,8 +16,20 @@
             "type": "Editor"
         },
         {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
             "name": "Johann-Mattis List",
             "type": "DataCurator"
+        },
+        {
+            "name": "Sacha Beniamine",
+            "type": "Other"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
         }
     ],
     "communities": [
@@ -34,6 +40,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>T. Chacon. (2014). A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification. Journal of American Linguistics 80.3, pp. 275\u2013322. doi: https://doi.org/10.1086/676393</p>\n</blockquote>",
     "license": {
-        "id": "GPL-3.0"
+        "id": "CC-BY-4.0"
     }
 }

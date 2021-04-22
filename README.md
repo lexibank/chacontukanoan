@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > T. Chacon. (2014). A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification. Journal of American Linguistics 80.3, pp. 275–322. doi: https://doi.org/10.1086/676393
 
-This dataset is licensed under a CCBY license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://edictor.digling.org/?file=tukano
 
@@ -20,9 +20,9 @@ This dataset is based on https://github.com/glottobank/lexibank-data/tree/master
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/chacontukanoan.svg?branch=master)](https://travis-ci.org/lexibank/chacontukanoan)
+[![CLDF validation](https://github.com/lexibank/chacontukanoan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/chacontukanoan/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 91%](https://img.shields.io/badge/Concepticon-91%25-green.svg "Concepticon: 91%")
+![Concepticon: 92%](https://img.shields.io/badge/Concepticon-92%25-green.svg "Concepticon: 92%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
@@ -44,8 +44,9 @@ This dataset is based on https://github.com/glottobank/lexibank-data/tree/master
 Name | GitHub user | Description| Role
 --- | --- | --- | ---
 Thiago Costa Chacon | @thiagochacon | publication editor | Editor, Author
-Tiago Tresoldi | @tresoldi | concept mapping | Author
+Tiago Tresoldi | @tresoldi | concept mapping | Other
 Johann-Mattis List | @LinguList | concept mapping | DataCurator
-Sacha Beniamine | @XachaB | maintainer | Author
+Sacha Beniamine | @XachaB | profile | Other
+Christoph Rzymski | @chrzyki | patron | Other
 
 

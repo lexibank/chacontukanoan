@@ -14,7 +14,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 13-bone,bone,1394,BONE
 14-break,break,680,BREAK (DESTROY OR GET DESTROYED)
 15-breast,breast,1402,BREAST
-16-buritipalm,buriti palm,,
+16-buritipalm,buriti palm,3811,MIRITI PALM
 17-capybara,capybara,314,CAPYBARA
 18-caradioscoreaalata,cará(Dioscorea alata),,
 19-casenonnominatvie,Case: non-nominatvie,,
@@ -83,7 +83,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 82-mosquito,mosquito,1509,MOSQUITO
 83-mouth1,mouth1,674,MOUTH
 84-mouth2,mouth2,674,MOUTH
-85-mythicalbeing,mythical being,2138,LEGENDARY CREATURE
+85-mythicalbeing,mythical being,2641,MYTHICAL BEING
 86-name,name,1405,NAME
 87-navel,navel,1838,NAVEL
 88-non3rdanimateperson,non.3rd.animate.person,2642,HE OR SHE
