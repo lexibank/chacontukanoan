@@ -1,8 +1,16 @@
 # CLDF dataset derived from Chacon's "A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification" from 2014
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/chacontukanoan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/chacontukanoan/actions?query=workflow%3ACLDF-validation)
 
-> T. Chacon. (2014). A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification. Journal of American Linguistics 80.3, pp. 275–322. doi: https://doi.org/10.1086/676393
+## How to cite
+
+If you use these data please cite
+- the original source
+  > T. Chacon. (2014). A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification. Journal of American Linguistics 80.3, pp. 275–322. doi: https://doi.org/10.1086/676393
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -50,3 +58,10 @@ Sacha Beniamine | @XachaB | profile | Other
 Christoph Rzymski | @chrzyki | patron | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
