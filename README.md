@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > T. Chacon. (2014). A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification. Journal of American Linguistics 80.3, pp. 275–322. doi: https://doi.org/10.1086/676393
+  > Thiago Chacon. (2014). A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification. Journal of American Linguistics 80.3, pp. 275–322. doi: https://doi.org/10.1086/676393
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -35,8 +35,8 @@ This dataset is based on https://github.com/glottobank/lexibank-data/tree/master
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 16
-- **Concepts:** 142
+- **Varieties:** 16 (linked to 16 different Glottocodes)
+- **Concepts:** 142 (linked to 127 different Concepticon concept sets)
 - **Lexemes:** 1,542
 - **Sources:** 1
 - **Synonymy:** 1.00
@@ -44,18 +44,18 @@ This dataset is based on https://github.com/glottobank/lexibank-data/tree/master
 - **Cognate Diversity:** 0.01
 - **Invalid lexemes:** 0
 - **Tokens:** 5,656
-- **Segments:** 68 (0 BIPA errors, 0 CTLS sound class errors, 68 CLTS modified)
+- **Segments:** 68 (0 BIPA errors, 0 CLTS sound class errors, 68 CLTS modified)
 - **Inventory size (avg):** 30.06
 
 # Contributors
 
 Name | GitHub user | Description| Role
 --- | --- | --- | ---
-Thiago Costa Chacon | @thiagochacon | publication editor | Editor, Author
+Thiago Costa Chacon | @thiagochacon | publication editor | Author
+Johann-Mattis List | @LinguList | concept mapping | Editor
+Christoph Rzymski | @chrzyki | maintainer | Editor
 Tiago Tresoldi | @tresoldi | concept mapping | Other
-Johann-Mattis List | @LinguList | concept mapping | DataCurator
 Sacha Beniamine | @XachaB | profile | Other
-Christoph Rzymski | @chrzyki | patron | Other
 
 
 

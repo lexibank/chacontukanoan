@@ -4,13 +4,6 @@
     "description": null,
     "license": "CC-BY-4.0",
     "url": "http://edictor.digling.org/?file=tukano",
-    "citation": "T. Chacon. (2014). A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification. Journal of American Linguistics 80.3, pp. 275\u2013322. doi: https://doi.org/10.1086/676393",
-    "aboutUrl": null,
-    "conceptlist": "Chacon-2014-142",
-    "lingpy_schema": null,
-    "derived_from": null,
-    "related": null,
-    "source": null,
-    "patron": null,
-    "version": "2.7.0"
+    "citation": "Thiago Chacon. (2014). A revised proposal of Proto-Tukanoan consonants and Tukanoan family classification. Journal of American Linguistics 80.3, pp. 275\u2013322. doi: https://doi.org/10.1086/676393",
+    "conceptlist": "Chacon-2014-142"
 }

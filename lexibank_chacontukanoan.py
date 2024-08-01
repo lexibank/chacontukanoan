@@ -9,6 +9,8 @@ from segments import Tokenizer
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "chacontukanoan"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
 
     def cmd_download(self, args):
         with self.raw_dir.temp_download(
