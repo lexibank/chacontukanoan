@@ -1,23 +1,37 @@
 from pathlib import Path
-
 import pylexibank
 from clldutils.misc import slug
-from pylexibank.util import getEvoBibAsBibtex
 from segments import Tokenizer
+from edictor.wordlist import fetch_wordlist
 
 
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "chacontukanoan"
-    writer_options = dict(keep_languages=False, keep_parameters=False)
+    writer_options = {'keep_languages': False, 'keep_parameters': False}
 
 
-    def cmd_download(self, args):
-        with self.raw_dir.temp_download(
-            "http://edictor.digling.org/triples/get_data.py?file=tukano", "tukano.tsv"
-        ) as data:
-            self.raw_dir.write_csv("tukano.csv", self.raw_dir.read_csv(data, delimiter="\t"))
-        self.raw_dir.write("sources.bib", getEvoBibAsBibtex("Chacon2014"))
+    def cmd_download(self, _):
+        """Download the most recent data from Edictor."""
+        print("updating ...")
+        with open(self.raw_dir.joinpath("raw.tsv"), "w", encoding="utf-8") as f:
+            f.write(
+                fetch_wordlist(
+                    "chacontukanoan",
+                    columns=[
+                        "CONCEPT",
+                        "DOCULECT",
+                        "FORM",
+                        "VALUE",
+                        "TOKENS",
+                        "COGID",
+                        "ALIGNMENT",
+                        "NOTE"
+                    ],
+                    base_url='http://lingulist.de/pth/',
+                    script_url='get_data.py'
+                )
+            )
 
     def cmd_makecldf(self, args):
         data = self.raw_dir.read_csv("tukano.csv", dicts=True)
@@ -85,6 +99,7 @@ class Dataset(pylexibank.Dataset):
                 Language_ID=language_id,
                 Parameter_ID=c_id,
                 Value=row["IPA"],
+                Cognacy=row["COGID"],
                 # This is a workaround to re-tokenize tokens
                 Form=".".join(tokens),
                 Source=["Chacon2014"],

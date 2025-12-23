@@ -1,0 +1,46 @@
+{
+  "remote": {
+    "remotechacontukanoan": {
+      "triples.py": {
+        "url":  "http://lingulist.de/pth/triples.py",
+        "data": {
+          "file": "chacontukanoan",
+          "remote_dbase": "chacontukanoan",
+          "columns": "DOCULECT|CONCEPT|VALUE|FORM|TOKENS|COGID|ALIGNMENT|MORPHEMES|NOTE"
+        }
+      },
+      "update.py": {
+        "url": "http://lingulist.de/pth/updater.py",
+        "data": {
+          "file": "chacontukanoan",
+          "remote_dbase": "chacontukanoan"
+        }
+      },
+      "new_id.py": {
+        "url": "http://lingulist.de/pth/triples.py",
+        "data": {
+          "file": "chacontukanoan",
+          "remote_dbase": "chacontukanoan"
+        }
+      },
+      "modifications.py": {
+        "url": "http://lingulist.de/pth/triples.py",
+        "data": {
+          "file": "chacontukanoan",
+          "remote_dbase": "chacontukanoan"
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "url": "edictor.html",
+      "name": "Chacon Tukanoan (Remote)",
+      "data": {
+        "file": "remotechacontukanoan",
+        "remote_dbase": "remotechacontukanoan",
+        "async": "true"
+      }
+    }
+  ]
+}
