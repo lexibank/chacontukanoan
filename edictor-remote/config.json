@@ -39,7 +39,9 @@
       "data": {
         "file": "remotechacontukanoan",
         "remote_dbase": "remotechacontukanoan",
-        "async": "true"
+        "async": "true",
+        "preview": 30,
+        "basics": "DOCULECT|CONCEPT|FORM|TOKENS|COGID|ALIGNMENT|NOTE"
       }
     }
   ]
